@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-TW" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last Cloudia Ark Gallery | 聖物圖鑑</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@300;400;600&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        void: '#0a0a12',
+                        midnight: '#16213e',
+                        gold: '#f1c40f',
+                        crimson: '#e94560',
+                        silver: '#c0c0c0',
+                        bronze: '#cd7f32',
+                        ur: '#ff0055',
+                        ssr: '#f1c40f',
+                        sr: '#c0c0c0',
+                        r: '#cd7f32'
+                    },
+                    fontFamily: {
+                        cinzel: ['Cinzel', 'serif'],
+                        sans: ['Inter', 'Noto Sans TC', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/"
+  }
+}
+</script>
+</head>
+<body class="bg-void text-gray-100 font-sans min-h-screen selection:bg-crimson selection:text-white overflow-x-hidden">
+
+    <!-- Background Effects -->
+    <div class="fixed inset-0 z-[-1] bg-[url('https://images.alphacoders.com/133/1330960.jpeg')] bg-cover bg-center opacity-20 blur-sm"></div>
+    <div class="fixed inset-0 z-[-1] bg-gradient-to-b from-void/90 via-void/95 to-void"></div>
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 w-full backdrop-blur-md bg-void/70 border-b border-white/10 transition-all duration-300">
+        <div class="container mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-gradient-to-br from-crimson to-purple-600 rounded-lg flex items-center justify-center shadow-lg shadow-crimson/20">
+                    <i data-lucide="sparkles" class="text-white"></i>
+                </div>
+                <h1 class="text-2xl md:text-3xl font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400 tracking-wider">
+                    LAST CLOUDIA <span class="text-crimson text-lg align-top">ARKS</span>
+                </h1>
+            </div>
+
+            <!-- Search & Filter -->
+            <div class="flex flex-wrap items-center gap-3 w-full md:w-auto">
+                <div class="relative group w-full md:w-64">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                        <i data-lucide="search" class="w-4 h-4 text-gray-400 group-focus-within:text-crimson transition-colors"></i>
+                    </div>
+                    <input type="text" id="searchInput" placeholder="搜尋聖物名稱、技能..."
+                        class="w-full bg-white/5 border border-white/10 rounded-full py-2 pl-10 pr-4 text-sm focus:outline-none focus:border-crimson/50 focus:ring-1 focus:ring-crimson/50 transition-all placeholder-gray-500">
+                </div>
+
+                <div class="flex items-center bg-white/5 rounded-full p-1 border border-white/10 overflow-x-auto no-scrollbar">
+                    <button class="filter-btn active px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10" data-filter="all">全部</button>
+                    <button class="filter-btn px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10 text-ur" data-filter="UR">UR</button>
+                    <button class="filter-btn px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10 text-lr" data-filter="LR">LR</button>
+                    <button class="filter-btn px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10 text-ssr" data-filter="SSR">SSR</button>
+                    <button class="filter-btn px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10 text-sr" data-filter="SR">SR</button>
+                    <button class="filter-btn px-3 py-1 text-xs rounded-full transition-all duration-300 hover:bg-white/10 text-r" data-filter="R">R</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="container mx-auto px-4 py-6">
+        <div class="flex items-center justify-between text-xs text-gray-400 uppercase tracking-widest font-cinzel border-b border-white/5 pb-2">
+            <span id="totalCount">Loading Arks...</span>
+            <span>Data from Altema</span>
+        </div>
+    </div>
+
+    <!-- Main Grid -->
+    <main class="container mx-auto px-4 pb-20">
+        <div id="arkGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Cards will be injected here -->
+            <div class="col-span-full flex flex-col items-center justify-center py-20 text-gray-500 animate-pulse">
+                <i data-lucide="loader-2" class="w-10 h-10 animate-spin mb-4"></i>
+                <p>正在同步聖物資料...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Detail Modal -->
+    <div id="arkModal" class="fixed inset-0 z-50 hidden opacity-0 transition-opacity duration-300" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-black/80 backdrop-blur-sm transition-opacity" id="modalBackdrop"></div>
+
+        <div class="fixed inset-0 z-10 overflow-y-auto">
+            <div class="flex min-h-full items-center justify-center p-4 text-center sm:p-0">
+
+                <!-- Modal Panel -->
+                <div class="relative transform overflow-hidden rounded-2xl bg-[#12121a] border border-white/10 text-left shadow-2xl transition-all sm:my-8 sm:w-full sm:max-w-4xl scale-95 opacity-0" id="modalPanel">
+
+                    <!-- Close Button -->
+                    <button id="closeModal" class="absolute top-4 right-4 z-20 p-2 bg-black/50 hover:bg-crimson/80 rounded-full text-white transition-colors backdrop-blur-md">
+                        <i data-lucide="x" class="w-5 h-5"></i>
+                    </button>
+
+                    <div class="flex flex-col md:flex-row h-full max-h-[90vh]">
+                        <!-- Left: Image & Stats -->
+                        <div class="w-full md:w-2/5 relative bg-[#0a0a12] flex items-center justify-center overflow-hidden group">
+                            <!-- Blurry Background -->
+                            <div id="modalBg" class="absolute inset-0 bg-cover bg-center blur-xl opacity-40 transition-all duration-700 group-hover:opacity-60 group-hover:scale-110"></div>
+
+                            <!-- Vignette -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-[#12121a] via-transparent to-[#12121a]/50"></div>
+                            <div class="absolute inset-0 bg-gradient-to-r from-[#12121a]/50 via-transparent to-transparent"></div>
+
+                            <!-- Main Image -->
+                            <div class="relative w-full h-64 md:h-full p-4 flex items-center justify-center z-10">
+                                <img id="modalImage" src="" alt="" class="max-w-full max-h-full object-contain drop-shadow-2xl transition-transform duration-500 group-hover:scale-105">
+                            </div>
+
+                            <!-- Rarity Badge (Moved to top-left with better style) -->
+                            <div class="absolute top-4 left-4 z-20">
+                                <span id="modalRarity" class="px-3 py-1 rounded border backdrop-blur-md shadow-lg font-cinzel font-bold tracking-widest text-lg">
+                                    SSR
+                                </span>
+                            </div>
+                        </div>
+
+                        <!-- Right: Content -->
+                        <div class="w-full md:w-3/5 p-6 md:p-8 overflow-y-auto custom-scrollbar bg-[#12121a]">
+
+                            <!-- Header -->
+                            <div class="mb-6 border-b border-white/10 pb-4">
+                                <h2 id="modalTitle" class="text-2xl md:text-3xl font-bold font-cinzel text-white mb-2 leading-tight">Ark Name</h2>
+                                <a id="modalLink" href="#" target="_blank" class="text-xs text-gray-500 hover:text-crimson transition-colors flex items-center gap-1">
+                                    <i data-lucide="external-link" class="w-3 h-3"></i>
+                                    View on Altema
+                                </a>
+                            </div>
+
+                            <!-- Traits -->
+                            <div class="mb-8">
+                                <h3 class="flex items-center gap-2 text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">
+                                    <i data-lucide="zap" class="w-4 h-4 text-gold"></i>
+                                    聖物特性 (Max)
+                                </h3>
+                                <div class="p-4 rounded-xl bg-white/5 border border-white/5 text-gray-300 text-sm leading-relaxed" id="modalTrait">
+                                    Loading...
+                                </div>
+                            </div>
+
+                            <!-- Ark Skill -->
+                            <div class="mb-8 hidden" id="arkSkillContainer">
+                                <h3 class="flex items-center gap-2 text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">
+                                    <i data-lucide="sword" class="w-4 h-4 text-crimson"></i>
+                                    聖物技能 (主動)
+                                </h3>
+                                <div class="p-4 rounded-xl bg-gradient-to-r from-crimson/10 to-transparent border border-crimson/20 text-gray-300 text-sm leading-relaxed" id="modalArkSkill">
+                                    Loading...
+                                </div>
+                            </div>
+
+                            <!-- Ether Reward -->
+                            <div class="mb-8">
+                                <h3 class="flex items-center gap-2 text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">
+                                    <i data-lucide="gift" class="w-4 h-4 text-purple-400"></i>
+                                    乙太獎勵 (100%)
+                                </h3>
+                                <div class="flex items-center gap-3 p-3 rounded-xl bg-gradient-to-r from-purple-900/20 to-transparent border border-purple-500/20">
+                                    <div class="p-2 bg-purple-500/10 rounded-lg">
+                                        <i data-lucide="gem" class="w-5 h-5 text-purple-400"></i>
+                                    </div>
+                                    <p id="modalEther" class="text-sm font-medium text-purple-100">Reward Name</p>
+                                </div>
+                            </div>
+
+                            <!-- Skills -->
+                            <div>
+                                <h3 class="flex items-center gap-2 text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">
+                                    <i data-lucide="book-open" class="w-4 h-4 text-blue-400"></i>
+                                    可習得技能
+                                </h3>
+                                <div class="space-y-2" id="modalSkills">
+                                    <!-- Skills injected here -->
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

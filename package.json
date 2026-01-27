@@ -1,0 +1,23 @@
+{
+  "name": "altema-lastcloudia-api",
+  "version": "1.0.0",
+  "description": "Altema Last Cloudia API Client - 透過 CDP 連接 Chrome 攔截並呼叫內部 API",
+  "main": "altema-playwright.js",
+  "scripts": {
+    "start": "node altema-playwright.js",
+    "cdp": "node altema-api-client.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "altema",
+    "lastcloudia",
+    "api",
+    "scraper",
+    "cdp"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chrome-remote-interface": "^0.33.0",
+    "playwright": "^1.40.0"
+  }
+}
