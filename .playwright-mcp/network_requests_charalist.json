@@ -1,0 +1,11 @@
+[GET] https://bid.ssp.bance.jp/ssp-bid/bid/bnc-bid?pid=949&pfpuid=17jy-IT7V9P2Meg&zid=12140&loc=https%3A%2F%2Faltema.jp%2Flastcloudia%2Fcharalist&imuid=&charset=UTF-8 => [200] 
+[GET] https://bid.ssp.bance.jp/ssp-bid/bid/bnc-bid?pid=949&pfpuid=17jy-IT7V9P2Meg&zid=12148&loc=https%3A%2F%2Faltema.jp%2Flastcloudia%2Fcharalist&imuid=&charset=UTF-8 => [200] 
+[GET] https://bid.ssp.bance.jp/ssp-bid/bid/bnc-bid?pid=1039&pfpuid=17jy-IT7V9P2Meg&zid=16154&loc=https%3A%2F%2Faltema.jp%2Flastcloudia%2Fcharalist&imuid=&charset=UTF-8 => [200] 
+[GET] https://bid.ssp.bance.jp/ssp-bid/bid/bnc-bid?pid=949&pfpuid=17jy-IT7V9P2Meg&zid=12149&loc=https%3A%2F%2Faltema.jp%2Flastcloudia%2Fcharalist&imuid=&charset=UTF-8 => [200] 
+[GET] https://tr.dsp.bance.jp/dsp-track/backfill?reqinf=j91_g1Ft1q3UzNuZS3IC1w-juahoIKtANIID4IfpexKaGcKaasTs3iyFg1cxUx3ymvM_Sp3kFoOZqEK_L1X3dhs8jbHVFDE6n4liPl4Osuc&domain=altema.jp&imuid=&charset=UTF-8 => [200] 
+[GET] https://bid.ssp.bance.jp/ssp-bid/bid/bnc-bid?pid=1039&pfpuid=17jy-IT7V9P2Meg&zid=16160&loc=https%3A%2F%2Faltema.jp%2Flastcloudia%2Fcharalist&imuid=&charset=UTF-8 => [200] 
+[GET] https://tr.dsp.bance.jp/dsp-track/backfill?reqinf=ta-E49KOb-MbnhkDaaoflfh7LtVXmbxYFiuYNi5EB0qUzKWXHgAOwc-UU5aNB0mvmvM_Sp3kFoOZqEK_L1X3dhs8jbHVFDE6n4liPl4Osuc&domain=altema.jp&imuid=&charset=UTF-8 => [200] 
+[POST] https://altema.jp/api/lastcloudia/comment_api?1769390813 => [200] 
+[POST] https://backend.altema.jp/api/lastcloudia/member/is_favorite => [200] 
+[POST] https://altema-log.com/api/lastcloudia/access/insAccessAjax => [200] OK
+[GET] https://syndication.twitter.com/settings?session_id=e7fce0d734ade0e766d0d5bb2d6930d4eea4c572 => [200] 

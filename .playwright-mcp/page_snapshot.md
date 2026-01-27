@@ -1,0 +1,2439 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: ダークモード
+      - generic [ref=e7] [cursor=pointer]: "OFF"
+    - generic [ref=e9]:
+      - link "アルテマロゴ" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "アルテマロゴ" [ref=e11]
+      - link "ゲーム業界で働く" [ref=e13] [cursor=pointer]:
+        - /url: https://careerboost.jp/?ref=aa&utm_source=altema&utm_medium=header_button&utm_campaign=click
+      - link "ログイン" [ref=e15] [cursor=pointer]:
+        - /url: /signin
+    - generic [ref=e18]:
+      - heading "ラスクララスクラ攻略wiki" [level=1] [ref=e19]:
+        - img "ラスクラ" [ref=e20]
+        - text: ラスクラ攻略wiki
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]: 速報まとめ
+          - list [ref=e24]:
+            - listitem [ref=e25]:
+              - link "魔神メギウスガチャシミュレーター 魔神メギウスガチャシミ..." [ref=e26] [cursor=pointer]:
+                - /url: /lastcloudia/gachasim/85
+                - img "魔神メギウスガチャシミュレーター" [ref=e28]
+                - text: 魔神メギウスガチャシミ...
+            - listitem [ref=e29]:
+              - link "パイトスの鍛冶工房の性能 パイトスの鍛冶工房の性能" [ref=e30] [cursor=pointer]:
+                - /url: /lastcloudia/ark/284
+                - img "パイトスの鍛冶工房の性能" [ref=e32]
+                - text: パイトスの鍛冶工房の性能
+            - listitem [ref=e33]:
+              - link "依頼が紡ぐ縁の攻略 依頼が紡ぐ縁の攻略" [ref=e34] [cursor=pointer]:
+                - /url: /lastcloudia/iraigatsumugu
+                - img "依頼が紡ぐ縁の攻略" [ref=e36]
+                - text: 依頼が紡ぐ縁の攻略
+            - listitem [ref=e37]:
+              - link "刹那の魔神メギウスの性能 刹那の魔神メギウスの性能" [ref=e38] [cursor=pointer]:
+                - /url: /lastcloudia/chara/239
+                - img "刹那の魔神メギウスの性能" [ref=e40]
+                - text: 刹那の魔神メギウスの性能
+            - listitem [ref=e41]:
+              - link "永劫のアイオーンの攻略 永劫のアイオーンの攻略" [ref=e42] [cursor=pointer]:
+                - /url: /lastcloudia/eigouno
+                - img "永劫のアイオーンの攻略" [ref=e44]
+                - text: 永劫のアイオーンの攻略
+          - paragraph [ref=e45]:
+            - link "もっと見る" [ref=e46] [cursor=pointer]:
+              - /url: /lastcloudia/sokuhou
+        - generic [ref=e47]:
+          - generic [ref=e48]: 人気ランキング
+          - list [ref=e49]:
+            - listitem [ref=e50]:
+              - link "最強キャラ(ユニット)ランキング 最強キャラ(ユニット)ラ..." [ref=e51] [cursor=pointer]:
+                - /url: /lastcloudia/saikyokyara
+                - img "最強キャラ(ユニット)ランキング" [ref=e53]
+                - text: 最強キャラ(ユニット)ラ...
+            - listitem [ref=e54]:
+              - link "魔神メギウス(刹那の魔神メギウス)の評価とスキル/おすすめアーク 魔神メギウス(刹那の魔神..." [ref=e55] [cursor=pointer]:
+                - /url: /lastcloudia/chara/239
+                - img "魔神メギウス(刹那の魔神メギウス)の評価とスキル/おすすめアーク" [ref=e57]
+                - text: 魔神メギウス(刹那の魔神...
+            - listitem [ref=e58]:
+              - link "最強アークランキング 最強アークランキング" [ref=e59] [cursor=pointer]:
+                - /url: /lastcloudia/saikyoark
+                - img "最強アークランキング" [ref=e61]
+                - text: 最強アークランキング
+            - listitem [ref=e62]:
+              - link "DevilMayCry5の評価と習得スキル｜デビルメイクライ5コラボ DevilMayCry5の評価と習..." [ref=e63] [cursor=pointer]:
+                - /url: /lastcloudia/ark/166
+                - img "DevilMayCry5の評価と習得スキル｜デビルメイクライ5コラボ" [ref=e65]
+                - text: DevilMayCry5の評価と習...
+            - listitem [ref=e66]:
+              - link "デビルメイクライコラボ最新情報まとめ デビルメイクライコラボ..." [ref=e67] [cursor=pointer]:
+                - /url: /lastcloudia/devilmaycry
+                - img "デビルメイクライコラボ最新情報まとめ" [ref=e69]
+                - text: デビルメイクライコラボ...
+          - paragraph [ref=e70]:
+            - link "もっと見る" [ref=e71] [cursor=pointer]:
+              - /url: /lastcloudia/ninki
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - textbox "攻略情報をラスクラ内から検索" [ref=e74]:
+              - /placeholder: "  攻略情報をラスクラ内から検索"
+            - button "検索" [ref=e75]
+          - generic [ref=e76]:
+            - generic [ref=e77]: 注目
+            - generic [ref=e79]:
+              - link "デビルメイクライ" [ref=e80] [cursor=pointer]:
+                - /url: /lastcloudia/searchresults?q=%E3%83%87%E3%83%93%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%A4
+              - link "デビル" [ref=e81] [cursor=pointer]:
+                - /url: /lastcloudia/searchresults?q=%E3%83%87%E3%83%93%E3%83%AB
+              - link "クリフォト" [ref=e82] [cursor=pointer]:
+                - /url: /lastcloudia/searchresults?q=%E3%82%AF%E3%83%AA%E3%83%95%E3%82%A9%E3%83%88
+              - link "パープルオーブ" [ref=e83] [cursor=pointer]:
+                - /url: /lastcloudia/searchresults?q=%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%96
+              - link "敵に狙われやすくなる" [ref=e84] [cursor=pointer]:
+                - /url: /lastcloudia/searchresults?q=%E6%95%B5%E3%81%AB%E7%8B%99%E3%82%8F%E3%82%8C%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%82%8B
+    - list [ref=e86]:
+      - listitem [ref=e87]:
+        - link "トップ" [ref=e88] [cursor=pointer]:
+          - /url: /lastcloudia/
+      - listitem [ref=e89]:
+        - link "魔神メギウス" [ref=e90] [cursor=pointer]:
+          - /url: /lastcloudia/chara/239
+      - listitem [ref=e91]:
+        - link "パイトス" [ref=e92] [cursor=pointer]:
+          - /url: /lastcloudia/ark/284
+      - listitem [ref=e93]:
+        - link "ガチャシミュ" [ref=e94] [cursor=pointer]:
+          - /url: /lastcloudia/gachasim/85
+      - listitem [ref=e95]:
+        - link "全キャラ評価" [ref=e96] [cursor=pointer]:
+          - /url: /lastcloudia/charalist
+      - listitem [ref=e97]:
+        - link "最強キャラ" [ref=e98] [cursor=pointer]:
+          - /url: /lastcloudia/saikyokyara
+      - listitem [ref=e99]:
+        - link "最強アーク" [ref=e100] [cursor=pointer]:
+          - /url: /lastcloudia/saikyoark
+      - listitem [ref=e101]:
+        - link "リセマラ" [ref=e102] [cursor=pointer]:
+          - /url: /lastcloudia/risemara
+      - listitem [ref=e103]:
+        - link "雑談掲示板" [ref=e104] [cursor=pointer]:
+          - /url: /lastcloudia/zatudan
+  - generic [ref=e106]:
+    - list [ref=e108]:
+      - listitem [ref=e109]:
+        - link "アルテマ" [ref=e110] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e111]: ラストクラウディア(ラスクラ)攻略wiki
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - generic [ref=e115]: ラスクラ攻略wiki
+          - paragraph [ref=e117]:
+            - time [ref=e118]: 最終更新：2026年1月26日(月) 10:34
+          - generic [ref=e119]: PR
+          - generic [ref=e120]:
+            - paragraph [ref=e121]:
+              - img "ラスクラ攻略Wiki(ラストクラウディア攻略wiki)" [ref=e122]
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - term [ref=e125]: 魔神メギウスが登場！
+                - definition [ref=e126]:
+                  - text: ・
+                  - link "刹那の魔神メギウスの性能" [ref=e127] [cursor=pointer]:
+                    - /url: /lastcloudia/chara/239
+                  - text: /
+                  - link "パイトスの鍛冶工房の性能" [ref=e128] [cursor=pointer]:
+                    - /url: /lastcloudia/ark/284
+                - definition [ref=e129]:
+                  - text: ・
+                  - link "魔神メギウスガチャシミュレーター" [ref=e130] [cursor=pointer]:
+                    - /url: /lastcloudia/gachasim/85
+                - definition [ref=e131]:
+                  - text: ・
+                  - link "依頼が紡ぐ縁の効率的な進め方" [ref=e132] [cursor=pointer]:
+                    - /url: /lastcloudia/iraigatsumugu
+                - term [ref=e133]: 神徒エブルが復刻！
+              - paragraph [ref=e134]:
+                - generic [ref=e135] [cursor=pointer]: もっと見る
+            - paragraph [ref=e136]: ラスクラの攻略wikiです。リセマラ、最強キャラやアークなどランキングをご紹介。ラストクラウディアの最新ガチャ、イベント攻略、キャラ評価、アーク評価なども記載しているので、ラスクラ(最後的克勞迪亞/라스트 클라우디아)攻略はアルテマにお任せください。
+            - table [ref=e137]:
+              - rowgroup [ref=e138]:
+                - row "ラスクラ攻略メニュー(タップで移動)" [ref=e139]:
+                  - columnheader "ラスクラ攻略メニュー(タップで移動)" [ref=e140]
+                - row "最新情報 ▼最新情報 最強ランキング ▼ランキング リセマラ ▼リセマラ キャラ評価一覧 ▼キャラ評価" [ref=e141]:
+                  - cell "最新情報 ▼最新情報" [ref=e142]:
+                    - link "最新情報 ▼最新情報" [ref=e143] [cursor=pointer]:
+                      - /url: "#saisin"
+                      - img "最新情報" [ref=e144]
+                      - text: ▼最新情報
+                  - cell "最強ランキング ▼ランキング" [ref=e145]:
+                    - link "最強ランキング ▼ランキング" [ref=e146] [cursor=pointer]:
+                      - /url: "#saikyou"
+                      - img "最強ランキング" [ref=e147]
+                      - text: ▼ランキング
+                  - cell "リセマラ ▼リセマラ" [ref=e148]:
+                    - link "リセマラ ▼リセマラ" [ref=e149] [cursor=pointer]:
+                      - /url: "#risemara"
+                      - img "リセマラ" [ref=e150]
+                      - text: ▼リセマラ
+                  - cell "キャラ評価一覧 ▼キャラ評価" [ref=e151]:
+                    - link "キャラ評価一覧 ▼キャラ評価" [ref=e152] [cursor=pointer]:
+                      - /url: "#chara"
+                      - img "キャラ評価一覧" [ref=e153]
+                      - text: ▼キャラ評価
+                - row "アーク評価一覧 ▼アーク評価 装備一覧 ▼装備一覧 初心者情報 ▼初心者情報 素材 ▼素材" [ref=e154]:
+                  - cell "アーク評価一覧 ▼アーク評価" [ref=e155]:
+                    - link "アーク評価一覧 ▼アーク評価" [ref=e156] [cursor=pointer]:
+                      - /url: "#ark"
+                      - img "アーク評価一覧" [ref=e157]
+                      - text: ▼アーク評価
+                  - cell "装備一覧 ▼装備一覧" [ref=e158]:
+                    - link "装備一覧 ▼装備一覧" [ref=e159] [cursor=pointer]:
+                      - /url: "#soubi"
+                      - img "装備一覧" [ref=e160]
+                      - text: ▼装備一覧
+                  - cell "初心者情報 ▼初心者情報" [ref=e161]:
+                    - link "初心者情報 ▼初心者情報" [ref=e162] [cursor=pointer]:
+                      - /url: "#syosinsya"
+                      - img "初心者情報" [ref=e163]
+                      - text: ▼初心者情報
+                  - cell "素材 ▼素材" [ref=e164]:
+                    - link "素材 ▼素材" [ref=e165] [cursor=pointer]:
+                      - /url: "#sozai"
+                      - img "素材" [ref=e166]
+                      - text: ▼素材
+                - row "周回クエスト ▼周回クエ 隠し要素 ▼隠し要素 スキル ▼スキル 掲示板一覧 ▼掲示板" [ref=e167]:
+                  - cell "周回クエスト ▼周回クエ" [ref=e168]:
+                    - link "周回クエスト ▼周回クエ" [ref=e169] [cursor=pointer]:
+                      - /url: "#syuukai"
+                      - img "周回クエスト" [ref=e170]
+                      - text: ▼周回クエ
+                  - cell "隠し要素 ▼隠し要素" [ref=e171]:
+                    - link "隠し要素 ▼隠し要素" [ref=e172] [cursor=pointer]:
+                      - /url: "#kakusiyouso"
+                      - img "隠し要素" [ref=e173]
+                      - text: ▼隠し要素
+                  - cell "スキル ▼スキル" [ref=e174]:
+                    - link "スキル ▼スキル" [ref=e175] [cursor=pointer]:
+                      - /url: "#skill"
+                      - img "スキル" [ref=e176]
+                      - text: ▼スキル
+                  - cell "掲示板一覧 ▼掲示板" [ref=e177]:
+                    - link "掲示板一覧 ▼掲示板" [ref=e178] [cursor=pointer]:
+                      - /url: "#keijiban"
+                      - img "掲示板一覧" [ref=e179]
+                      - text: ▼掲示板
+                - row "その他コンテンツ ▼その他 ショップ ▼ショップ - -" [ref=e180]:
+                  - cell "その他コンテンツ ▼その他" [ref=e181]:
+                    - link "その他コンテンツ ▼その他" [ref=e182] [cursor=pointer]:
+                      - /url: "#etc"
+                      - img "その他コンテンツ" [ref=e183]
+                      - text: ▼その他
+                  - cell "ショップ ▼ショップ" [ref=e184]:
+                    - link "ショップ ▼ショップ" [ref=e185] [cursor=pointer]:
+                      - /url: "#shop"
+                      - img "ショップ" [ref=e186]
+                      - text: ▼ショップ
+                  - cell "-" [ref=e187]
+                  - cell "-" [ref=e188]
+                - row "ラスクラインストールはこちら！" [ref=e189]:
+                  - columnheader "ラスクラインストールはこちら！" [ref=e190]
+                - row "スマートフォン PC" [ref=e191]:
+                  - columnheader "スマートフォン" [ref=e192]
+                  - columnheader "PC" [ref=e193]
+                - row "App AppStore Google GooglePlay Steam Steam DMM DMM.com" [ref=e194]:
+                  - cell "App AppStore" [ref=e195]:
+                    - link "App AppStore" [ref=e196] [cursor=pointer]:
+                      - /url: https://apps.apple.com/jp/app/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%A2/id1439772862
+                      - img "App" [ref=e197]
+                      - text: AppStore
+                  - cell "Google GooglePlay" [ref=e198]:
+                    - link "Google GooglePlay" [ref=e199] [cursor=pointer]:
+                      - /url: https://play.google.com/store/apps/details?id=com.aidis.lastcloudiajpn&hl=ja&gl=US
+                      - img "Google" [ref=e200]
+                      - text: GooglePlay
+                  - cell "Steam Steam" [ref=e201]:
+                    - link "Steam Steam" [ref=e202] [cursor=pointer]:
+                      - /url: https://store.steampowered.com/app/2294090/_/
+                      - img "Steam" [ref=e203]
+                      - text: Steam
+                  - cell "DMM DMM.com" [ref=e204]:
+                    - link "DMM DMM.com" [ref=e205] [cursor=pointer]:
+                      - /url: https://www.lastcloudia.com/dmg/
+                      - img "DMM" [ref=e206]
+                      - text: DMM.com
+            - heading "SNSでも最新情報をお届け！" [level=2] [ref=e207]
+            - paragraph [ref=e208]:
+              - img "ラスクラ攻略班に所属しているライターKのTwitter(X)用ヘッダー" [ref=e209]
+            - paragraph [ref=e210]: アルテマ攻略班は、X(Twitter)でも最新情報をお届けしています。イベントやサブクエスト攻略はもちろん、ラスクラに関する日常的な情報も発信しているので、ぜひフォローをお願いします！
+            - paragraph [ref=e211]:
+              - link "ラスクラ攻略X(Twitter)はこちら" [ref=e212] [cursor=pointer]:
+                - /url: https://x.com/rasukura_altema
+            - heading "ラスクラ最新情報" [level=2] [ref=e213]
+            - heading "魔神メギウスが登場" [level=3] [ref=e214]
+            - paragraph [ref=e215]:
+              - img "魔神メギウス" [ref=e216]
+            - table [ref=e217]:
+              - rowgroup [ref=e218]:
+                - row "開催期間" [ref=e219]:
+                  - columnheader "開催期間" [ref=e220]
+                - row "2026/1/22(木)メンテナンス後～2/19(木)12:59" [ref=e221]:
+                  - cell "2026/1/22(木)メンテナンス後～2/19(木)12:59" [ref=e222]
+                - row "ピックアップ対象" [ref=e223]:
+                  - columnheader "ピックアップ対象" [ref=e224]
+                - row "魔神メギウス 魔神メギウス パイトスの鍛冶工房 パイトスの鍛冶工房" [ref=e225]:
+                  - cell "魔神メギウス 魔神メギウス" [ref=e226]:
+                    - link "魔神メギウス 魔神メギウス" [ref=e227] [cursor=pointer]:
+                      - /url: /lastcloudia/chara/239
+                      - img "魔神メギウス" [ref=e228]
+                      - text: 魔神メギウス
+                  - cell "パイトスの鍛冶工房 パイトスの鍛冶工房" [ref=e229]:
+                    - link "パイトスの鍛冶工房 パイトスの鍛冶工房" [ref=e230] [cursor=pointer]:
+                      - /url: /lastcloudia/ark/284
+                      - img "パイトスの鍛冶工房" [ref=e231]
+                      - text: パイトスの鍛冶工房
+            - paragraph [ref=e232]: 魔神メギウスガチャが登場中です。「刹那の魔神メギウス」に加え、URアーク「パイトスの鍛冶工房」もピックアップされています。
+            - paragraph [ref=e233]:
+              - link "魔神メギウスガチャシミュレーターはこちら" [ref=e234] [cursor=pointer]:
+                - /url: /lastcloudia/gachasim/85
+            - heading "依頼が紡ぐ縁～再会する騎士と剣士～が開催" [level=3] [ref=e235]
+            - paragraph [ref=e236]:
+              - img "依頼が紡ぐ縁 ～再会する騎士と剣士～" [ref=e237]
+            - table [ref=e238]:
+              - rowgroup [ref=e239]:
+                - row "開催期間" [ref=e240]:
+                  - columnheader "開催期間" [ref=e241]
+                - row "2026/1/22(木)メンテナンス後～2/5(木)12:59" [ref=e242]:
+                  - cell "2026/1/22(木)メンテナンス後～2/5(木)12:59" [ref=e243]
+                - row "イベントで入手できる報酬の一例" [ref=e244]:
+                  - columnheader "イベントで入手できる報酬の一例" [ref=e245]
+                - row "・メギウスの英晶【刹那】 ・クリスタル、各種育成素材 ・イベント限定装備 ・★SR確定ガチャチケ ・神遺英晶の欠片" [ref=e246]:
+                  - cell "・メギウスの英晶【刹那】 ・クリスタル、各種育成素材 ・イベント限定装備 ・★SR確定ガチャチケ ・神遺英晶の欠片" [ref=e247]:
+                    - list [ref=e248]:
+                      - listitem [ref=e249]: ・メギウスの英晶【刹那】
+                      - listitem [ref=e250]: ・クリスタル、各種育成素材
+                      - listitem [ref=e251]: ・イベント限定装備
+                      - listitem [ref=e252]: ・★SR確定ガチャチケ
+                      - listitem [ref=e253]: ・神遺英晶の欠片
+            - paragraph [ref=e254]: イベント「依頼が紡ぐ縁～再会する騎士と剣士～」が開催中です。依頼が紡ぐ縁は全ユーザー協力型のイベントで、全ユーザーの「撃退数」と自身の「個人貢献ポイント」に応じて報酬を獲得できます。
+            - paragraph [ref=e255]:
+              - link "依頼が紡ぐ縁の効率的な進め方はこちら" [ref=e256] [cursor=pointer]:
+                - /url: /lastcloudia/iraigatsumugu
+            - heading "神徒エブルが復刻" [level=3] [ref=e257]
+            - paragraph [ref=e258]:
+              - link "英雄降臨祭 開催 (神徒エブル)" [ref=e259] [cursor=pointer]:
+                - /url: /lastcloudia/gachasim/74
+                - img "英雄降臨祭 開催 (神徒エブル)" [ref=e260]
+            - table [ref=e261]:
+              - rowgroup [ref=e262]:
+                - row "開催期間" [ref=e263]:
+                  - columnheader "開催期間" [ref=e264]
+                - row "2026/1/15(木)メンテナンス後～1/29(木)12:59" [ref=e265]:
+                  - cell "2026/1/15(木)メンテナンス後～1/29(木)12:59" [ref=e266]
+                - row "ピックアップ対象" [ref=e267]:
+                  - columnheader "ピックアップ対象" [ref=e268]
+                - row "神徒エブル 神徒エブル 瘴蝕竜マグラナグラ 瘴蝕竜マグラナグラ" [ref=e269]:
+                  - cell "神徒エブル 神徒エブル" [ref=e270]:
+                    - link "神徒エブル 神徒エブル" [ref=e271] [cursor=pointer]:
+                      - /url: /lastcloudia/chara/228
+                      - img "神徒エブル" [ref=e272]
+                      - text: 神徒エブル
+                  - cell "瘴蝕竜マグラナグラ 瘴蝕竜マグラナグラ" [ref=e273]:
+                    - link "瘴蝕竜マグラナグラ 瘴蝕竜マグラナグラ" [ref=e274] [cursor=pointer]:
+                      - /url: /lastcloudia/ark/272
+                      - img "瘴蝕竜マグラナグラ" [ref=e275]
+                      - text: 瘴蝕竜マグラナグラ
+            - paragraph [ref=e276]: 神徒エブルガチャが復刻されました。「神徒エブル」に加え、SSRアーク「瘴蝕竜マグラナグラ」もピックアップされています。
+            - paragraph [ref=e277]:
+              - link "神徒エブルガチャシミュレーターはこちら" [ref=e278] [cursor=pointer]:
+                - /url: /lastcloudia/gachasim/74
+            - iframe [ref=e284]:
+              - generic [active] [ref=f4e1]:
+                - generic [ref=f4e2]:
+                  - generic [ref=f4e3]:
+                    - link:
+                      - /url: https://tr.dsp.bance.jp/dsp-track/click-tag?adinf=o3J2IyLMu4i8epZJ8s9MQvpR32lxcTEJQKSFvwgP3l-zTlKNrPw2FmbmdlVIHzOofewYneFSXh6HpCO6F6JcJu5bpZbauCwpsKeLN28bUZYpbQgBQMBqeyhQIUBSwJfp&lurl=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3Dim8w9T5G%26bnc_clickid%3D%7BBNC_CLICK_ID%7D
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                  - link "OptOut" [ref=f4e6] [cursor=pointer]:
+                    - /url: https://service.bance.jp/optout/
+                    - img [ref=f4e7]
+                - img
+                - img
+            - heading "webショップの無料商品を再び購入可能！" [level=3] [ref=e285]
+            - paragraph [ref=e286]:
+              - img "ラスクラ公式WEBショップパターン2_2" [ref=e287]
+            - table [ref=e288]:
+              - rowgroup [ref=e289]:
+                - row "在庫のリセット時期" [ref=e290]:
+                  - columnheader "在庫のリセット時期" [ref=e291]
+                - row "2025/12/25(木)メンテナンス後～" [ref=e292]:
+                  - cell "2025/12/25(木)メンテナンス後～" [ref=e293]
+                - row "公式webショップで入手できる無料商品" [ref=e294]:
+                  - columnheader "公式webショップで入手できる無料商品" [ref=e295]
+                - row "クリスタル×3,000 オレンジオーブ回復薬×100" [ref=e296]:
+                  - cell "クリスタル×3,000" [ref=e297]
+                  - cell "オレンジオーブ回復薬×100" [ref=e298]
+            - paragraph [ref=e299]: ラスクラ公式WEBショップの「WEB限定無料セット」が、2025年12月25日のメンテナンス後に再び購入できるようになりました。無料で「無償クリスタル3,000個+オレンジオーブ回復薬100個」が入手できるので、忘れずに受け取りましょう。
+            - paragraph [ref=e300]:
+              - link "ラスクラ公式Webショップの使い方はこちら" [ref=e301] [cursor=pointer]:
+                - /url: /lastcloudia/gmokakin
+            - heading "最新イベントまとめ" [level=2] [ref=e302]
+            - table [ref=e303]:
+              - rowgroup [ref=e304]:
+                - row "最新のイベント 開催期間と詳細" [ref=e305]:
+                  - columnheader "最新のイベント" [ref=e306]
+                  - columnheader "開催期間と詳細" [ref=e307]
+                - row "依頼が紡ぐ縁 ～再会する騎士と剣士～ 依頼が紡ぐ縁～再会する騎士と剣士～ 2026/1/22(木)～2/5(木)12:59 ・全ユーザーで協力するイベント ・個人貢献ポイントに応じて報酬獲得" [ref=e308]:
+                  - cell "依頼が紡ぐ縁 ～再会する騎士と剣士～ 依頼が紡ぐ縁～再会する騎士と剣士～" [ref=e309]:
+                    - link "依頼が紡ぐ縁 ～再会する騎士と剣士～ 依頼が紡ぐ縁～再会する騎士と剣士～" [ref=e310] [cursor=pointer]:
+                      - /url: /lastcloudia/iraigatsumugu
+                      - img "依頼が紡ぐ縁 ～再会する騎士と剣士～" [ref=e311]
+                      - text: 依頼が紡ぐ縁～再会する騎士と剣士～
+                  - cell "2026/1/22(木)～2/5(木)12:59 ・全ユーザーで協力するイベント ・個人貢献ポイントに応じて報酬獲得" [ref=e312]:
+                    - text: 2026/1/22(木)～2/5(木)12:59
+                    - separator [ref=e313]
+                    - list [ref=e314]:
+                      - listitem [ref=e315]: ・全ユーザーで協力するイベント
+                      - listitem [ref=e316]: ・個人貢献ポイントに応じて報酬獲得
+                - row "幻英の塔光 幻英の塔 光 2026/1/22(木)～2/5(木)12:59 ・光属性の敵が多く出現 ・闇属性キャラが有効" [ref=e317]:
+                  - cell "幻英の塔光 幻英の塔 光" [ref=e318]:
+                    - link "幻英の塔光 幻英の塔 光" [ref=e319] [cursor=pointer]:
+                      - /url: /lastcloudia/genneinotou-hikari
+                      - img "幻英の塔光" [ref=e320]
+                      - text: 幻英の塔 光
+                  - cell "2026/1/22(木)～2/5(木)12:59 ・光属性の敵が多く出現 ・闇属性キャラが有効" [ref=e321]:
+                    - text: 2026/1/22(木)～2/5(木)12:59
+                    - separator [ref=e322]
+                    - list [ref=e323]:
+                      - listitem [ref=e324]: ・光属性の敵が多く出現
+                      - listitem [ref=e325]: ・闇属性キャラが有効
+            - heading "最新ガチャ情報まとめ" [level=2] [ref=e326]
+            - table [ref=e327]:
+              - rowgroup [ref=e328]:
+                - row "最新のガチャ 開催期間と詳細" [ref=e329]:
+                  - columnheader "最新のガチャ" [ref=e330]
+                  - columnheader "開催期間と詳細" [ref=e331]
+                - row "魔神メギウス 魔神メギウスガチャ 2026/1/22(木)～2/19(木)12:59 ・PUキャラは刹那の魔神メギウス ・PUアークはパイトスの鍛冶工房" [ref=e332]:
+                  - cell "魔神メギウス 魔神メギウスガチャ" [ref=e333]:
+                    - link "魔神メギウス 魔神メギウスガチャ" [ref=e334] [cursor=pointer]:
+                      - /url: /lastcloudia/gachasim/85
+                      - img "魔神メギウス" [ref=e335]
+                      - text: 魔神メギウスガチャ
+                  - cell "2026/1/22(木)～2/19(木)12:59 ・PUキャラは刹那の魔神メギウス ・PUアークはパイトスの鍛冶工房" [ref=e336]:
+                    - text: 2026/1/22(木)～2/19(木)12:59
+                    - separator [ref=e337]
+                    - list [ref=e338]:
+                      - listitem [ref=e339]:
+                        - text: ・
+                        - generic [ref=e340]:
+                          - text: PUキャラは
+                          - link "刹那の魔神メギウス" [ref=e341] [cursor=pointer]:
+                            - /url: /lastcloudia/chara/239
+                      - listitem [ref=e342]:
+                        - generic [ref=e343]:
+                          - text: ・PUアークは
+                          - link "パイトスの鍛冶工房" [ref=e344] [cursor=pointer]:
+                            - /url: /lastcloudia/ark/284
+                - row "新UR1枠確定10連ガチャ 新UR1枠確定10連ガチャ 2026/1/22(木)～2/19(木)12:59 ・有償石10,000で1回のみ引ける ・10枠目でパイトスの鍛冶工房が確定排出" [ref=e345]:
+                  - cell "新UR1枠確定10連ガチャ 新UR1枠確定10連ガチャ" [ref=e346]:
+                    - img "新UR1枠確定10連ガチャ" [ref=e347]
+                    - text: 新UR1枠確定10連ガチャ
+                  - cell "2026/1/22(木)～2/19(木)12:59 ・有償石10,000で1回のみ引ける ・10枠目でパイトスの鍛冶工房が確定排出" [ref=e348]:
+                    - text: 2026/1/22(木)～2/19(木)12:59
+                    - separator [ref=e349]
+                    - list [ref=e350]:
+                      - listitem [ref=e351]: ・有償石10,000で1回のみ引ける
+                      - listitem [ref=e352]:
+                        - generic [ref=e353]:
+                          - text: ・10枠目で
+                          - link "パイトスの鍛冶工房" [ref=e354] [cursor=pointer]:
+                            - /url: /lastcloudia/ark/284
+                          - text: が確定排出
+                - row "英雄降臨祭 開催 (神徒エブル) 神徒エブルガチャ 2026/1/15(木)～1/29(木)12:59 ・PUキャラは神徒エブル ・PUアークは瘴蝕竜マグラナグラ" [ref=e355]:
+                  - cell "英雄降臨祭 開催 (神徒エブル) 神徒エブルガチャ" [ref=e356]:
+                    - link "英雄降臨祭 開催 (神徒エブル) 神徒エブルガチャ" [ref=e357] [cursor=pointer]:
+                      - /url: /lastcloudia/gachasim/74
+                      - img "英雄降臨祭 開催 (神徒エブル)" [ref=e358]
+                      - text: 神徒エブルガチャ
+                  - cell "2026/1/15(木)～1/29(木)12:59 ・PUキャラは神徒エブル ・PUアークは瘴蝕竜マグラナグラ" [ref=e359]:
+                    - text: 2026/1/15(木)～1/29(木)12:59
+                    - separator [ref=e360]
+                    - list [ref=e361]:
+                      - listitem [ref=e362]:
+                        - text: ・
+                        - generic [ref=e363]:
+                          - text: PUキャラは
+                          - link "神徒エブル" [ref=e364] [cursor=pointer]:
+                            - /url: /lastcloudia/chara/228
+                      - listitem [ref=e365]:
+                        - generic [ref=e366]:
+                          - text: ・PUアークは
+                          - link "瘴蝕竜マグラナグラ" [ref=e367] [cursor=pointer]:
+                            - /url: /lastcloudia/ark/272
+                - row "1日1回無料10連ステップアップガチャ 第2弾 無料10連ガチャ 第2弾 2026/1/15(木)～2/5(木)12:59 ・限定キャラも排出 ・1日1回10連を無料で回せる" [ref=e368]:
+                  - cell "1日1回無料10連ステップアップガチャ 第2弾 無料10連ガチャ 第2弾" [ref=e369]:
+                    - img "1日1回無料10連ステップアップガチャ 第2弾" [ref=e370]
+                    - text: 無料10連ガチャ 第2弾
+                  - cell "2026/1/15(木)～2/5(木)12:59 ・限定キャラも排出 ・1日1回10連を無料で回せる" [ref=e371]:
+                    - text: 2026/1/15(木)～2/5(木)12:59
+                    - separator [ref=e372]
+                    - list [ref=e373]:
+                      - listitem [ref=e374]: ・限定キャラも排出
+                      - listitem [ref=e375]: ・1日1回10連を無料で回せる
+                - row "シードラエル シードラエルガチャ 2026/1/8(木)～2/5(木)12:59 ・PUキャラは大地神シードラエル ・PUアークはエシュリオンの生命炉" [ref=e376]:
+                  - cell "シードラエル シードラエルガチャ" [ref=e377]:
+                    - link "シードラエル シードラエルガチャ" [ref=e378] [cursor=pointer]:
+                      - /url: /lastcloudia/gachasim/84
+                      - img "シードラエル" [ref=e379]
+                      - text: シードラエルガチャ
+                  - cell "2026/1/8(木)～2/5(木)12:59 ・PUキャラは大地神シードラエル ・PUアークはエシュリオンの生命炉" [ref=e380]:
+                    - text: 2026/1/8(木)～2/5(木)12:59
+                    - separator [ref=e381]
+                    - list [ref=e382]:
+                      - listitem [ref=e383]:
+                        - generic [ref=e384]:
+                          - text: ・PUキャラは
+                          - link "大地神シードラエル" [ref=e385] [cursor=pointer]:
+                            - /url: /lastcloudia/chara/238
+                      - listitem [ref=e386]:
+                        - generic [ref=e387]:
+                          - text: ・PUアークは
+                          - link "エシュリオンの生命炉" [ref=e388] [cursor=pointer]:
+                            - /url: /lastcloudia/ark/283
+                - row "新UR1枠確定10連ガチャ 新UR1枠確定10連ガチャ 2026/1/8(木)～2/5(木)12:59 ・有償石10,000で1回のみ引ける ・10枠目でエシュリオンの生命炉が確定排出" [ref=e389]:
+                  - cell "新UR1枠確定10連ガチャ 新UR1枠確定10連ガチャ" [ref=e390]:
+                    - img "新UR1枠確定10連ガチャ" [ref=e391]
+                    - text: 新UR1枠確定10連ガチャ
+                  - cell "2026/1/8(木)～2/5(木)12:59 ・有償石10,000で1回のみ引ける ・10枠目でエシュリオンの生命炉が確定排出" [ref=e392]:
+                    - text: 2026/1/8(木)～2/5(木)12:59
+                    - separator [ref=e393]
+                    - list [ref=e394]:
+                      - listitem [ref=e395]: ・有償石10,000で1回のみ引ける
+                      - listitem [ref=e396]:
+                        - generic [ref=e397]:
+                          - text: ・10枠目で
+                          - link "エシュリオンの生命炉" [ref=e398] [cursor=pointer]:
+                            - /url: /lastcloudia/ark/283
+                          - text: が確定排出
+            - link [ref=e406] [cursor=pointer]:
+              - /url: https://tck.lmadps.jp/c?c=https%3A%2F%2Fcs.focas.jp%2Fyie%2Fld%2Fck%3Fzid%3D80015762%26asid%3D50037854%26idx%3D0%26l%3DJ3DQyxCQHYSTKVmLHbvvoooGMBUEuRrJ1ANFqkuwhAVttAP5nDij4xuBQa7zFm3YiYXD6798ofjJEf8ko0zh7qqc6gpWh5Z8lJTriAhQqyJfLYOj9qqEYClGxJgp1xqvk2Bw8KYiaAdGsUo-2JtZ4vpAejg1-mNXCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJBFUxhHsf-LWwYPN_fKG_0rb568Z1lhSzWleKR_oWmFxB9aLzcytSW0arLPtIdRaaEuDXLSzxIC-aqBJH7RDEYIRd0JTpwklyWKA4ih7YASys-vUxXxxRG7LCpXRf6WjqjfXOGiuBRupDHIIqEI34wxE7TW2xTt75ZbD8oazPMRK0sXQLYR4LOJr6slMvBRlFIo6MiDeqYxzjg3iP9WqSZ6hUIL2YrlhQnFrewy407i46nBMiR4EBHNJR0xMBl3PnvnW5GS-LWE_1kdcK85iTuTdw2ndva0eblEbSF9fLjf06pH7G3js7aXN0qjRQnr2l2AZeYC_bz3LtMSZlbWzux1BcrxGjZJZOFfvxFLmyJ2n%26dest%3D&y=1&p=tHv2SOGsZXCb&do=https%3A%2F%2Fh5.g123.jp%2Fgame%2Fvividarmy%3Fplatform%3Dadroute%26utm_source%3Dadroute%26utm_campaign%3Dvividarmy_ja_NewDisplayCreateroleB_adn_pc%26utm_adgroup%3Dcr_normal%26lang%3Dja%26utm_content%3Dvivid20250912_ja_adroute01_600-500.jpg%26gsckid%3Dv2_107_RKSqcghbqEfrQrfYjgVjkX4-uxFWZ3X4b_C_HI7360qX3lggpY34cxwQxgNIYO4FacBkl_FakRZY4XruFDXp10lKy_0NQ4D9srwJiA6_JH8%26utm_term%3D80015762&vs=v2_NeWpfc-i91z_PDu60YdDubngn2IMi31w5QjS1DQTCxE6Tof89HwpZcsYQDTniyKzNR5HBX6k7VAS7SragP7K7i9Vf1Gz2axfTlxrJeNNBCu7iJgL-n7ZJ0vwTlxbC7nFh_RaLTxcurRZqCLW-iRtEfANTc3pBzbMb_1bR2bJpGCFqniGF1_uvTpduq1gnAgFThv52td33Da-d6bupRvikrEEl8f32sY-sLnfgB4wtAKoLrqOPWKi0AEKEfFqowpc4eh-cqn8AXzQthqFbY4Yh_VUiJlDOl18QQ35EFRxEgr3E_Wwaq7SZ1l3NS5Vm9sFDbZoeYD3kk_JVMK-B9vfa9stQ8bf0fmuzNWCCV4WUB6cZ5vZ9YgUo53XLz8Zra0MZEYHJwizXfDeH8gRUEwJCxgle4VLqbX6tjjjOzZlYtq1_Bfnp1xToGu8mfw3kEdgSEaoNAqX6SMJUuBsP6TwQeq6d6z5YtmzP2IitNr7UW5fHEHQl_oiuBQ42atXbPSy_8bZOACGmQo-vr3TBIYnIFr-7AGZ0TiyrpwqSYYXedu2gngdISOXFmgTbhcULuF7KmALHwXLlXw9FOGD8jz_YMcWwjIKtYql5vtf50MnAFwYraohcCUGrY2ZWQj8zgsY4St2RUFqjQ93mBKlTpUm4TWpM4WmXlOXA3M0Lgiv2Sg3oQXtPeUhRcCH8lYin6ZL5fCU4u4ml3PGT7l5Vz66I16bgoP_l8_gsZ4cma8K0rHI9qP46Aoo7zg
+              - img [ref=e407]
+            - heading "ラスクラの更新情報" [level=2] [ref=e408]
+            - paragraph
+            - generic [ref=e409]:
+              - generic [ref=e410]: 1月26日(月)
+              - link "刹那の魔神メギウスの性能 刹那の魔神メギウスの性能 カウンターが強力な無属性物理アタッカー！" [ref=e412] [cursor=pointer]:
+                - /url: /lastcloudia/chara/239
+                - img "刹那の魔神メギウスの性能" [ref=e413]
+                - text: 刹那の魔神メギウスの性能 カウンターが強力な無属性物理アタッカー！
+              - link "パイトスの鍛冶工房の性能 パイトスの鍛冶工房の性能 貴重な要素を多く持つアーク！" [ref=e415] [cursor=pointer]:
+                - /url: /lastcloudia/ark/284
+                - img "パイトスの鍛冶工房の性能" [ref=e416]
+                - text: パイトスの鍛冶工房の性能 貴重な要素を多く持つアーク！
+              - link "魔神メギウスガチャシミュレーター 魔神メギウスガチャシミュレーター 本番前の運試しに！" [ref=e418] [cursor=pointer]:
+                - /url: /lastcloudia/gachasim/85
+                - img "魔神メギウスガチャシミュレーター" [ref=e419]
+                - text: 魔神メギウスガチャシミュレーター 本番前の運試しに！
+              - link "依頼が紡ぐ縁の攻略 依頼が紡ぐ縁の攻略 「個人貢献ポイント」に応じて報酬を獲得！" [ref=e421] [cursor=pointer]:
+                - /url: /lastcloudia/iraigatsumugu
+                - img "依頼が紡ぐ縁の攻略" [ref=e422]
+                - text: 依頼が紡ぐ縁の攻略 「個人貢献ポイント」に応じて報酬を獲得！
+              - term [ref=e424] [cursor=pointer]: ▼最新情報をもっと見る(タップで開閉)
+            - heading "最強ランキング" [level=2] [ref=e425]
+            - paragraph [ref=e426]:
+              - img "ランキング" [ref=e427]
+            - table [ref=e428]:
+              - rowgroup [ref=e429]:
+                - row "最強キャラランキング 最強キャラランキング 最強アークランキング 最強アークランキング" [ref=e430]:
+                  - cell "最強キャラランキング 最強キャラランキング" [ref=e431]:
+                    - link "最強キャラランキング 最強キャラランキング" [ref=e432] [cursor=pointer]:
+                      - /url: /lastcloudia/saikyokyara
+                      - img "最強キャラランキング" [ref=e433]
+                      - text: 最強キャラランキング
+                  - cell "最強アークランキング 最強アークランキング" [ref=e434]:
+                    - link "最強アークランキング 最強アークランキング" [ref=e435] [cursor=pointer]:
+                      - /url: /lastcloudia/saikyoark
+                      - img "最強アークランキング" [ref=e436]
+                      - text: 最強アークランキング
+                - row "アリーナランキング アリーナ最強ランキング ステータスランキング ステータスランキング" [ref=e437]:
+                  - cell "アリーナランキング アリーナ最強ランキング" [ref=e438]:
+                    - link "アリーナランキング アリーナ最強ランキング" [ref=e439] [cursor=pointer]:
+                      - /url: /lastcloudia/arenasaikyochara
+                      - img "アリーナランキング" [ref=e440]
+                      - text: アリーナ最強ランキング
+                  - cell "ステータスランキング ステータスランキング" [ref=e441]:
+                    - link "ステータスランキング ステータスランキング" [ref=e442] [cursor=pointer]:
+                      - /url: /lastcloudia/charastatusrank
+                      - img "ステータスランキング" [ref=e443]
+                      - text: ステータスランキング
+            - table [ref=e444]:
+              - rowgroup [ref=e445]:
+                - row "最強キャラ" [ref=e446]:
+                  - columnheader "最強キャラ" [ref=e447]
+                - row "巫女セラ 巫女セラ 皇帝ルルーシュ 皇帝ルルーシュ" [ref=e448]:
+                  - cell "巫女セラ 巫女セラ" [ref=e449]:
+                    - link "巫女セラ 巫女セラ" [ref=e450] [cursor=pointer]:
+                      - /url: /lastcloudia/chara/210
+                      - img "巫女セラ" [ref=e451]
+                      - text: 巫女セラ
+                  - cell "皇帝ルルーシュ 皇帝ルルーシュ" [ref=e452]:
+                    - link "皇帝ルルーシュ" [ref=e453] [cursor=pointer]:
+                      - /url: /lastcloudia/chara/220
+                      - img "皇帝ルルーシュ" [ref=e454]
+                    - link "皇帝ルルーシュ" [ref=e455] [cursor=pointer]:
+                      - /url: /lastcloudia/chara/220
+            - heading "リセマラ" [level=2] [ref=e456]
+            - paragraph [ref=e457]:
+              - img "リセマラ" [ref=e458]
+            - table [ref=e459]:
+              - rowgroup [ref=e460]:
+                - row "リセマラランキング リセマラ当たりランキング リセマラのやり方 リセマラの効率的なやり方" [ref=e461]:
+                  - cell "リセマラランキング リセマラ当たりランキング" [ref=e462]:
+                    - link "リセマラランキング リセマラ当たりランキング" [ref=e463] [cursor=pointer]:
+                      - /url: /lastcloudia/risemara
+                      - img "リセマラランキング" [ref=e464]
+                      - text: リセマラ当たりランキング
+                  - cell "リセマラのやり方 リセマラの効率的なやり方" [ref=e465]:
+                    - link "リセマラのやり方 リセマラの効率的なやり方" [ref=e466] [cursor=pointer]:
+                      - /url: /lastcloudia/risemarakoritu
+                      - img "リセマラのやり方" [ref=e467]
+                      - text: リセマラの効率的なやり方
+                - row "今のガチャは引くべきか 今のガチャは引くべき？ ガチャの演出一覧 ガチャの確定演出と排出確率" [ref=e468]:
+                  - cell "今のガチャは引くべきか 今のガチャは引くべき？" [ref=e469]:
+                    - link "今のガチャは引くべきか 今のガチャは引くべき？" [ref=e470] [cursor=pointer]:
+                      - /url: /lastcloudia/hikubekika
+                      - img "今のガチャは引くべきか" [ref=e471]
+                      - text: 今のガチャは引くべき？
+                  - cell "ガチャの演出一覧 ガチャの確定演出と排出確率" [ref=e472]:
+                    - link "ガチャの演出一覧 ガチャの確定演出と排出確率" [ref=e473] [cursor=pointer]:
+                      - /url: /lastcloudia/gatyakakutei
+                      - img "ガチャの演出一覧" [ref=e474]
+                      - text: ガチャの確定演出と排出確率
+            - iframe [ref=e480]:
+              - generic [active] [ref=f5e1]:
+                - generic [ref=f5e2]:
+                  - generic [ref=f5e3]:
+                    - link:
+                      - /url: https://tr.dsp.bance.jp/dsp-track/click-tag?adinf=XYwuuopzXHxh7Qmfy-7ODsx5MJoPxeyKuCAsEF4927-SWSmH-VhTqIBQgNNjbroWfewYneFSXh6HpCO6F6JcJu5bpZbauCwpsKeLN28bUZYpbQgBQMBqeyhQIUBSwJfp&lurl=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3Dim8w9T5G%26bnc_clickid%3D%7BBNC_CLICK_ID%7D
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                  - link "OptOut" [ref=f5e6] [cursor=pointer]:
+                    - /url: https://service.bance.jp/optout/
+                    - img [ref=f5e7]
+                - img
+                - img
+            - heading "キャラ評価一覧" [level=2] [ref=e481]
+            - paragraph [ref=e482]:
+              - img "キャラ評価" [ref=e483]
+            - table [ref=e484]:
+              - rowgroup [ref=e485]:
+                - row "タイプ別一覧" [ref=e486]:
+                  - columnheader "タイプ別一覧" [ref=e487]
+                - row "ソルジャー ソルジャー ナイト ナイト ソーサラー ソーサラー スナイパー スナイパー" [ref=e488]:
+                  - cell "ソルジャー ソルジャー" [ref=e489]:
+                    - link "ソルジャー ソルジャー" [ref=e490] [cursor=pointer]:
+                      - /url: /lastcloudia/type/2
+                      - img "ソルジャー" [ref=e491]
+                      - text: ソルジャー
+                  - cell "ナイト ナイト" [ref=e492]:
+                    - link "ナイト ナイト" [ref=e493] [cursor=pointer]:
+                      - /url: /lastcloudia/type/1
+                      - img "ナイト" [ref=e494]
+                      - text: ナイト
+                  - cell "ソーサラー ソーサラー" [ref=e495]:
+                    - link "ソーサラー ソーサラー" [ref=e496] [cursor=pointer]:
+                      - /url: /lastcloudia/type/5
+                      - img "ソーサラー" [ref=e497]
+                      - text: ソーサラー
+                  - cell "スナイパー スナイパー" [ref=e498]:
+                    - link "スナイパー スナイパー" [ref=e499] [cursor=pointer]:
+                      - /url: /lastcloudia/type/3
+                      - img "スナイパー" [ref=e500]
+                      - text: スナイパー
+                - row "神 神 精霊 精霊 魔法生物 魔法生物 不死生物 不死生物" [ref=e501]:
+                  - cell "神 神" [ref=e502]:
+                    - link "神 神" [ref=e503] [cursor=pointer]:
+                      - /url: /lastcloudia/type/7
+                      - img "神" [ref=e504]
+                      - text: 神
+                  - cell "精霊 精霊" [ref=e505]:
+                    - link "精霊 精霊" [ref=e506] [cursor=pointer]:
+                      - /url: /lastcloudia/type/8
+                      - img "精霊" [ref=e507]
+                      - text: 精霊
+                  - cell "魔法生物 魔法生物" [ref=e508]:
+                    - link "魔法生物 魔法生物" [ref=e509] [cursor=pointer]:
+                      - /url: /lastcloudia/type/4
+                      - img "魔法生物" [ref=e510]
+                      - text: 魔法生物
+                  - cell "不死生物 不死生物" [ref=e511]:
+                    - link "不死生物 不死生物" [ref=e512] [cursor=pointer]:
+                      - /url: /lastcloudia/type/10
+                      - img "不死生物" [ref=e513]
+                      - text: 不死生物
+                - row "獣 獣 魚 魚 竜 竜 機械 機械" [ref=e514]:
+                  - cell "獣 獣" [ref=e515]:
+                    - link "獣 獣" [ref=e516] [cursor=pointer]:
+                      - /url: /lastcloudia/type/6
+                      - img "獣" [ref=e517]
+                      - text: 獣
+                  - cell "魚 魚" [ref=e518]:
+                    - link "魚 魚" [ref=e519] [cursor=pointer]:
+                      - /url: /lastcloudia/type/12
+                      - img "魚" [ref=e520]
+                      - text: 魚
+                  - cell "竜 竜" [ref=e521]:
+                    - link "竜 竜" [ref=e522] [cursor=pointer]:
+                      - /url: /lastcloudia/type/13
+                      - img "竜" [ref=e523]
+                      - text: 竜
+                  - cell "機械 機械" [ref=e524]:
+                    - link "機械 機械" [ref=e525] [cursor=pointer]:
+                      - /url: /lastcloudia/type/14
+                      - img "機械" [ref=e526]
+                      - text: 機械
+                - row "植物 植物 鉱石 鉱石 - -" [ref=e527]:
+                  - cell "植物 植物" [ref=e528]:
+                    - link "植物 植物" [ref=e529] [cursor=pointer]:
+                      - /url: /lastcloudia/type/9
+                      - img "植物" [ref=e530]
+                      - text: 植物
+                  - cell "鉱石 鉱石" [ref=e531]:
+                    - link "鉱石 鉱石" [ref=e532] [cursor=pointer]:
+                      - /url: /lastcloudia/type/11
+                      - img "鉱石" [ref=e533]
+                      - text: 鉱石
+                  - cell "-" [ref=e534]
+                  - cell "-" [ref=e535]
+            - paragraph [ref=e536]:
+              - link "全キャラ評価一覧はこちら" [ref=e537] [cursor=pointer]:
+                - /url: /lastcloudia/charalist
+            - heading "アーク評価一覧" [level=2] [ref=e538]
+            - paragraph [ref=e539]:
+              - img "アーク評価" [ref=e540]
+            - table [ref=e541]:
+              - rowgroup [ref=e542]:
+                - row "レアリティ別一覧" [ref=e543]:
+                  - columnheader "レアリティ別一覧" [ref=e544]
+                - row "UR LR SSR SR R" [ref=e545]:
+                  - cell "UR" [ref=e546]:
+                    - link "UR" [ref=e547] [cursor=pointer]:
+                      - /url: /lastcloudia/arkrea/7
+                      - img "UR" [ref=e548]
+                  - cell "LR" [ref=e549]:
+                    - link "LR" [ref=e550] [cursor=pointer]:
+                      - /url: /lastcloudia/arkrea/8
+                      - img "LR" [ref=e551]
+                  - cell "SSR" [ref=e552]:
+                    - link "SSR" [ref=e553] [cursor=pointer]:
+                      - /url: /lastcloudia/arkrea/1
+                      - img "SSR" [ref=e554]
+                  - cell "SR" [ref=e555]:
+                    - link "SR" [ref=e556] [cursor=pointer]:
+                      - /url: /lastcloudia/arkrea/2
+                      - img "SR" [ref=e557]
+                  - cell "R" [ref=e558]:
+                    - link "R" [ref=e559] [cursor=pointer]:
+                      - /url: /lastcloudia/arkrea/3
+                      - img "R" [ref=e560]
+            - table [ref=e561]:
+              - rowgroup [ref=e562]:
+                - row "関連記事" [ref=e563]:
+                  - columnheader "関連記事" [ref=e564]
+                - row "アーク一覧 低レア(SR/R)おすすめアーク" [ref=e565]:
+                  - cell "アーク一覧" [ref=e566]:
+                    - link "アーク一覧" [ref=e567] [cursor=pointer]:
+                      - /url: /lastcloudia/arklist
+                  - cell "低レア(SR/R)おすすめアーク" [ref=e568]:
+                    - link "低レア(SR/R)おすすめアーク" [ref=e569] [cursor=pointer]:
+                      - /url: /lastcloudia/teirearc
+            - heading "装備一覧" [level=2] [ref=e570]
+            - paragraph [ref=e571]:
+              - img "装備一覧" [ref=e572]
+            - table [ref=e573]:
+              - rowgroup [ref=e574]:
+                - row "装備別一覧" [ref=e575]:
+                  - columnheader "装備別一覧" [ref=e576]
+                - row "剣 剣 斧 斧 槍 槍 槌 槌" [ref=e577]:
+                  - cell "剣 剣" [ref=e578]:
+                    - link "剣 剣" [ref=e579] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/1
+                      - img "剣" [ref=e580]
+                      - text: 剣
+                  - cell "斧 斧" [ref=e581]:
+                    - link "斧 斧" [ref=e582] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/2
+                      - img "斧" [ref=e583]
+                      - text: 斧
+                  - cell "槍 槍" [ref=e584]:
+                    - link "槍 槍" [ref=e585] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/3
+                      - img "槍" [ref=e586]
+                      - text: 槍
+                  - cell "槌 槌" [ref=e587]:
+                    - link "槌 槌" [ref=e588] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/4
+                      - img "槌" [ref=e589]
+                      - text: 槌
+                - row "弓 弓 機 機械 爪 爪 杖 杖" [ref=e590]:
+                  - cell "弓 弓" [ref=e591]:
+                    - link "弓 弓" [ref=e592] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/5
+                      - img "弓" [ref=e593]
+                      - text: 弓
+                  - cell "機 機械" [ref=e594]:
+                    - link "機 機械" [ref=e595] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/6
+                      - img "機" [ref=e596]
+                      - text: 機械
+                  - cell "爪 爪" [ref=e597]:
+                    - link "爪 爪" [ref=e598] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/7
+                      - img "爪" [ref=e599]
+                      - text: 爪
+                  - cell "杖 杖" [ref=e600]:
+                    - link "杖 杖" [ref=e601] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/8
+                      - img "杖" [ref=e602]
+                      - text: 杖
+                - row "鎧 鎧 服 服 ローブ ローブ アクセサリー アクセサリー" [ref=e603]:
+                  - cell "鎧 鎧" [ref=e604]:
+                    - link "鎧 鎧" [ref=e605] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/9
+                      - img "鎧" [ref=e606]
+                      - text: 鎧
+                  - cell "服 服" [ref=e607]:
+                    - link "服 服" [ref=e608] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/10
+                      - img "服" [ref=e609]
+                      - text: 服
+                  - cell "ローブ ローブ" [ref=e610]:
+                    - link "ローブ ローブ" [ref=e611] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitype/11
+                      - img "ローブ" [ref=e612]
+                      - text: ローブ
+                  - cell "アクセサリー アクセサリー" [ref=e613]:
+                    - link "アクセサリー アクセサリー" [ref=e614] [cursor=pointer]:
+                      - /url: /lastcloudia/soubilist/3
+                      - img "アクセサリー" [ref=e615]
+                      - text: アクセサリー
+            - table [ref=e616]:
+              - rowgroup [ref=e617]:
+                - row "関連記事" [ref=e618]:
+                  - columnheader "関連記事" [ref=e619]
+                - row "装備一覧" [ref=e620]:
+                  - cell "装備一覧" [ref=e621]:
+                    - link "装備一覧" [ref=e622] [cursor=pointer]:
+                      - /url: /lastcloudia/soubitiran
+                - row "専用装備一覧 最新の専用装備解説" [ref=e623]:
+                  - cell "専用装備一覧" [ref=e624]:
+                    - link "専用装備一覧" [ref=e625] [cursor=pointer]:
+                      - /url: /lastcloudia/senyosobilist
+                  - cell "最新の専用装備解説" [ref=e626]:
+                    - link "最新の専用装備解説" [ref=e627] [cursor=pointer]:
+                      - /url: /lastcloudia/sennyousoubi
+            - iframe [ref=e632]:
+              - iframe [ref=f1e3]:
+                - generic [active] [ref=f7e1]:
+                  - generic [ref=f7e2]:
+                    - generic [ref=f7e3]:
+                      - link:
+                        - /url: https://tr.dsp.bance.jp/dsp-track/click-tag?adinf=oTmoVBKVQ2j78bbTYInDCQma49vGvCAf5cTqmUNBHeJrx44sNYtMXCa9rL3xE8UTp_ux6gC7S2SdvM3Eaw3LY0WcaurrnwqjOKxHFu6UOmeVULpscN6rwwV-fg5LyZdo&lurl=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3DGa9IFGZs%26bnc_clickid%3D%7BBNC_CLICK_ID%7D
+                      - img
+                      - img
+                      - img
+                      - img
+                      - img
+                      - img
+                    - link "OptOut" [ref=f7e6] [cursor=pointer]:
+                      - /url: https://service.bance.jp/optout/
+                      - img [ref=f7e7]
+                  - img
+                  - img
+            - heading "初心者攻略" [level=2] [ref=e633]
+            - paragraph [ref=e634]:
+              - img "初心者記事" [ref=e635]
+            - table [ref=e636]:
+              - rowgroup [ref=e637]:
+                - row "限界突破 限界突破まとめ 潜在覚醒まとめ 潜在覚醒まとめ" [ref=e638]:
+                  - cell "限界突破 限界突破まとめ" [ref=e639]:
+                    - link "限界突破 限界突破まとめ" [ref=e640] [cursor=pointer]:
+                      - /url: /lastcloudia/gennkai
+                      - img "限界突破" [ref=e641]
+                      - text: 限界突破まとめ
+                  - cell "潜在覚醒まとめ 潜在覚醒まとめ" [ref=e642]:
+                    - link "潜在覚醒まとめ 潜在覚醒まとめ" [ref=e643] [cursor=pointer]:
+                      - /url: /lastcloudia/senzaikakusei
+                      - img "潜在覚醒まとめ" [ref=e644]
+                      - text: 潜在覚醒まとめ
+                - row "能力解放 能力解放まとめ 無詠唱 無詠唱まとめ" [ref=e645]:
+                  - cell "能力解放 能力解放まとめ" [ref=e646]:
+                    - link "能力解放 能力解放まとめ" [ref=e647] [cursor=pointer]:
+                      - /url: /lastcloudia/nouryokukaihou
+                      - img "能力解放" [ref=e648]
+                      - text: 能力解放まとめ
+                  - cell "無詠唱 無詠唱まとめ" [ref=e649]:
+                    - link "無詠唱 無詠唱まとめ" [ref=e650] [cursor=pointer]:
+                      - /url: /lastcloudia/mueisyou
+                      - img "無詠唱" [ref=e651]
+                      - text: 無詠唱まとめ
+            - table [ref=e652]:
+              - rowgroup [ref=e653]:
+                - row "初心者関連" [ref=e654]:
+                  - columnheader "初心者関連" [ref=e655]
+                - row "バトルシステム解説 初心者チャレンジの攻略方法" [ref=e656]:
+                  - cell "バトルシステム解説" [ref=e657]:
+                    - link "バトルシステム解説" [ref=e658] [cursor=pointer]:
+                      - /url: /lastcloudia/battlesystem
+                  - cell "初心者チャレンジの攻略方法" [ref=e659]:
+                    - link "初心者チャレンジの攻略方法" [ref=e660] [cursor=pointer]:
+                      - /url: /lastcloudia/challenge
+                - row "強化薬の集め方と使用方法 序盤に習得すべき魔法/技能" [ref=e661]:
+                  - cell "強化薬の集め方と使用方法" [ref=e662]:
+                    - link "強化薬の集め方と使用方法" [ref=e663] [cursor=pointer]:
+                      - /url: /lastcloudia/kyoukayaku
+                  - cell "序盤に習得すべき魔法/技能" [ref=e664]:
+                    - link "序盤に習得すべき魔法/技能" [ref=e665] [cursor=pointer]:
+                      - /url: /lastcloudia/jobanmahogino
+                - row "ステージギミックまとめ 声優(CV)一覧" [ref=e666]:
+                  - cell "ステージギミックまとめ" [ref=e667]:
+                    - link "ステージギミックまとめ" [ref=e668] [cursor=pointer]:
+                      - /url: /lastcloudia/stagegimikku
+                  - cell "声優(CV)一覧" [ref=e669]:
+                    - link "声優(CV)一覧" [ref=e670] [cursor=pointer]:
+                      - /url: /lastcloudia/seiyuitiran
+                - row "勝てない時にやることまとめ 初期キャラは育てるべき？" [ref=e671]:
+                  - cell "勝てない時にやることまとめ" [ref=e672]:
+                    - link "勝てない時にやることまとめ" [ref=e673] [cursor=pointer]:
+                      - /url: /lastcloudia/katenaitoki
+                  - cell "初期キャラは育てるべき？" [ref=e674]:
+                    - link "初期キャラは育てるべき？" [ref=e675] [cursor=pointer]:
+                      - /url: /lastcloudia/syokichara
+                - row "宝箱の場所一覧 ショップで購入可能アイテム" [ref=e676]:
+                  - cell "宝箱の場所一覧" [ref=e677]:
+                    - link "宝箱の場所一覧" [ref=e678] [cursor=pointer]:
+                      - /url: /lastcloudia/takaranobasyo
+                  - cell "ショップで購入可能アイテム" [ref=e679]:
+                    - link "ショップで購入可能アイテム" [ref=e680] [cursor=pointer]:
+                      - /url: /lastcloudia/shop
+                - row "ギフトの解説 交換所(ショップ)のアイテム一覧" [ref=e681]:
+                  - cell "ギフトの解説" [ref=e682]:
+                    - link "ギフトの解説" [ref=e683] [cursor=pointer]:
+                      - /url: /lastcloudia/gift
+                  - cell "交換所(ショップ)のアイテム一覧" [ref=e684]:
+                    - link "交換所(ショップ)のアイテム一覧" [ref=e685] [cursor=pointer]:
+                      - /url: /lastcloudia/koukanjyo
+                - row "フレンドの作り方とメリット 召喚獣の発動条件と入手方法" [ref=e686]:
+                  - cell "フレンドの作り方とメリット" [ref=e687]:
+                    - link "フレンドの作り方とメリット" [ref=e688] [cursor=pointer]:
+                      - /url: /lastcloudia/friendmerit
+                  - cell "召喚獣の発動条件と入手方法" [ref=e689]:
+                    - link "召喚獣の発動条件と入手方法" [ref=e690] [cursor=pointer]:
+                      - /url: /lastcloudia/shoukanju
+                - row "ゲームシステムと世界観 宝の地図の入手場所まとめ" [ref=e691]:
+                  - cell "ゲームシステムと世界観" [ref=e692]:
+                    - link "ゲームシステムと世界観" [ref=e693] [cursor=pointer]:
+                      - /url: /lastcloudia/rasukuratoha
+                  - cell "宝の地図の入手場所まとめ" [ref=e694]:
+                    - link "宝の地図の入手場所まとめ" [ref=e695] [cursor=pointer]:
+                      - /url: /lastcloudia/takaranotizu
+                - row "アリーナの仕様と基本の解説 大晶石/晶石の効率的な集め方" [ref=e696]:
+                  - cell "アリーナの仕様と基本の解説" [ref=e697]:
+                    - link "アリーナの仕様と基本の解説" [ref=e698] [cursor=pointer]:
+                      - /url: /lastcloudia/arena
+                  - cell "大晶石/晶石の効率的な集め方" [ref=e699]:
+                    - link "大晶石/晶石の効率的な集め方" [ref=e700] [cursor=pointer]:
+                      - /url: /lastcloudia/syouseki
+                - row "スキルまとめ 課金パックまとめ" [ref=e701]:
+                  - cell "スキルまとめ" [ref=e702]:
+                    - link "スキルまとめ" [ref=e703] [cursor=pointer]:
+                      - /url: /lastcloudia/skillset
+                  - cell "課金パックまとめ" [ref=e704]:
+                    - link "課金パックまとめ" [ref=e705] [cursor=pointer]:
+                      - /url: /lastcloudia/kinenpakku
+                - row "強化・育成システム関連" [ref=e706]:
+                  - columnheader "強化・育成システム関連" [ref=e707]
+                - row "キャラの強化方法 アークの強化方法" [ref=e708]:
+                  - cell "キャラの強化方法" [ref=e709]:
+                    - link "キャラの強化方法" [ref=e710] [cursor=pointer]:
+                      - /url: /lastcloudia/charakyouka
+                  - cell "アークの強化方法" [ref=e711]:
+                    - link "アークの強化方法" [ref=e712] [cursor=pointer]:
+                      - /url: /lastcloudia/arckyouka
+                - row "自動周回のやり方 属性相性の確認と耐性の上げ方" [ref=e713]:
+                  - cell "自動周回のやり方" [ref=e714]:
+                    - link "自動周回のやり方" [ref=e715] [cursor=pointer]:
+                      - /url: /lastcloudia/jidousyukai
+                  - cell "属性相性の確認と耐性の上げ方" [ref=e716]:
+                    - link "属性相性の確認と耐性の上げ方" [ref=e717] [cursor=pointer]:
+                      - /url: /lastcloudia/zokusei
+                - row "技能の書の入手方法と使い道 魔法の書の入手方法と使い道" [ref=e718]:
+                  - cell "技能の書の入手方法と使い道" [ref=e719]:
+                    - link "技能の書の入手方法と使い道" [ref=e720] [cursor=pointer]:
+                      - /url: /lastcloudia/ginousyo
+                  - cell "魔法の書の入手方法と使い道" [ref=e721]:
+                    - link "魔法の書の入手方法と使い道" [ref=e722] [cursor=pointer]:
+                      - /url: /lastcloudia/mahousyo
+                - row "周回おすすめクエスト -" [ref=e723]:
+                  - cell "周回おすすめクエスト" [ref=e724]:
+                    - link "周回おすすめクエスト" [ref=e725] [cursor=pointer]:
+                      - /url: /lastcloudia/syukaiosusume
+                  - cell "-" [ref=e726]
+                - row "効率的な集め方・使い道関連" [ref=e727]:
+                  - columnheader "効率的な集め方・使い道関連" [ref=e728]
+                - row "ユニットソウル アイテム一覧" [ref=e729]:
+                  - cell "ユニットソウル" [ref=e730]:
+                    - link "ユニットソウル" [ref=e731] [cursor=pointer]:
+                      - /url: /lastcloudia/unitsoul
+                  - cell "アイテム一覧" [ref=e732]:
+                    - link "アイテム一覧" [ref=e733] [cursor=pointer]:
+                      - /url: /lastcloudia/sozailist
+                - row "ブルー/レッドソウル ゼル(お金)" [ref=e734]:
+                  - cell "ブルー/レッドソウル" [ref=e735]:
+                    - link "ブルー/レッドソウル" [ref=e736] [cursor=pointer]:
+                      - /url: /lastcloudia/soulkouritu
+                  - cell "ゼル(お金)" [ref=e737]:
+                    - link "ゼル(お金)" [ref=e738] [cursor=pointer]:
+                      - /url: /lastcloudia/zerukouritu
+                - row "晶石 限界突破素材" [ref=e739]:
+                  - cell "晶石" [ref=e740]:
+                    - link "晶石" [ref=e741] [cursor=pointer]:
+                      - /url: /lastcloudia/syouseki
+                  - cell "限界突破素材" [ref=e742]:
+                    - link "限界突破素材" [ref=e743] [cursor=pointer]:
+                      - /url: /lastcloudia/genntotusozai
+                - row "クリスタル(課金石/レッド) エーテリオン" [ref=e744]:
+                  - cell "クリスタル(課金石/レッド)" [ref=e745]:
+                    - link "クリスタル(課金石/レッド)" [ref=e746] [cursor=pointer]:
+                      - /url: /lastcloudia/crystal
+                  - cell "エーテリオン" [ref=e747]:
+                    - link:
+                      - /url: /lastcloudia/eeterionn
+                    - link:
+                      - /url: /lastcloudia/eeterionn
+                    - link:
+                      - /url: /lastcloudia/eeterionn
+                    - link:
+                      - /url: /lastcloudia/eeterionn
+                    - link "エーテリオン" [ref=e748] [cursor=pointer]:
+                      - /url: /lastcloudia/eeterionn
+                - row "施設関連" [ref=e749]:
+                  - columnheader "施設関連" [ref=e750]
+                - row "ソウルスポット 精霊研究所" [ref=e751]:
+                  - cell "ソウルスポット" [ref=e752]:
+                    - link "ソウルスポット" [ref=e753] [cursor=pointer]:
+                      - /url: /lastcloudia/soulspot
+                  - cell "精霊研究所" [ref=e754]:
+                    - link "精霊研究所" [ref=e755] [cursor=pointer]:
+                      - /url: /lastcloudia/seirei
+                - row "交換所 宝箱コレクター" [ref=e756]:
+                  - cell "交換所" [ref=e757]:
+                    - link "交換所" [ref=e758] [cursor=pointer]:
+                      - /url: /lastcloudia/koukanjyo
+                  - cell "宝箱コレクター" [ref=e759]:
+                    - link "宝箱コレクター" [ref=e760] [cursor=pointer]:
+                      - /url: /lastcloudia/takaracollector
+                - row "攻略" [ref=e761]:
+                  - columnheader "攻略" [ref=e762]
+                - row "周回おすすめクエスト イベントクエスト一覧" [ref=e763]:
+                  - cell "周回おすすめクエスト" [ref=e764]:
+                    - link "周回おすすめクエスト" [ref=e765] [cursor=pointer]:
+                      - /url: /lastcloudia/syukaiosusume
+                  - cell "イベントクエスト一覧" [ref=e766]:
+                    - link "イベントクエスト一覧" [ref=e767] [cursor=pointer]:
+                      - /url: /lastcloudia/eventquest
+                - row "ミッションの詳細と報酬一覧 討伐のやり方と討伐クエスト一覧" [ref=e768]:
+                  - cell "ミッションの詳細と報酬一覧" [ref=e769]:
+                    - link "ミッションの詳細と報酬一覧" [ref=e770] [cursor=pointer]:
+                      - /url: /lastcloudia/mission
+                  - cell "討伐のやり方と討伐クエスト一覧" [ref=e771]:
+                    - link "討伐のやり方と討伐クエスト一覧" [ref=e772] [cursor=pointer]:
+                      - /url: /lastcloudia/toubatu
+                - row "その他" [ref=e773]:
+                  - columnheader "その他" [ref=e774]
+                - row "アカウントの引き継ぎ方法 シリアルコード" [ref=e775]:
+                  - cell "アカウントの引き継ぎ方法" [ref=e776]:
+                    - link "アカウントの引き継ぎ方法" [ref=e777] [cursor=pointer]:
+                      - /url: /lastcloudia/account
+                  - cell "シリアルコード" [ref=e778]:
+                    - link "シリアルコード" [ref=e779] [cursor=pointer]:
+                      - /url: /lastcloudia/serialcode
+            - heading "素材一覧" [level=2] [ref=e780]
+            - paragraph [ref=e781]:
+              - img "素材一覧" [ref=e782]
+            - heading "限界突破素材" [level=3] [ref=e783]
+            - table [ref=e784]:
+              - rowgroup [ref=e785]:
+                - row "禍々しい角 禍々しい角 ブラナ鉱石 ブラナ鉱石 輝く光燐 輝く光燐 黄金の果実 黄金の果実" [ref=e786]:
+                  - cell "禍々しい角 禍々しい角" [ref=e787]:
+                    - link "禍々しい角 禍々しい角" [ref=e788] [cursor=pointer]:
+                      - /url: /lastcloudia/magamagasiituno
+                      - img "禍々しい角" [ref=e789]
+                      - text: 禍々しい角
+                  - cell "ブラナ鉱石 ブラナ鉱石" [ref=e790]:
+                    - link "ブラナ鉱石 ブラナ鉱石" [ref=e791] [cursor=pointer]:
+                      - /url: /lastcloudia/buranakouseki
+                      - img "ブラナ鉱石" [ref=e792]
+                      - text: ブラナ鉱石
+                  - cell "輝く光燐 輝く光燐" [ref=e793]:
+                    - link "輝く光燐 輝く光燐" [ref=e794] [cursor=pointer]:
+                      - /url: /lastcloudia/kiramekukourinn
+                      - img "輝く光燐" [ref=e795]
+                      - text: 輝く光燐
+                  - cell "黄金の果実 黄金の果実" [ref=e796]:
+                    - link "黄金の果実 黄金の果実" [ref=e797] [cursor=pointer]:
+                      - /url: /lastcloudia/ougonnokajitu
+                      - img "黄金の果実" [ref=e798]
+                      - text: 黄金の果実
+                - row "ドロドロ液体 ドロドロ液体 輝くホネ 輝くホネ メタルプレート メタルプレート 古代魔素 古代魔素" [ref=e799]:
+                  - cell "ドロドロ液体 ドロドロ液体" [ref=e800]:
+                    - link "ドロドロ液体 ドロドロ液体" [ref=e801] [cursor=pointer]:
+                      - /url: /lastcloudia/dorodoroekitai
+                      - img "ドロドロ液体" [ref=e802]
+                      - text: ドロドロ液体
+                  - cell "輝くホネ 輝くホネ" [ref=e803]:
+                    - link "輝くホネ 輝くホネ" [ref=e804] [cursor=pointer]:
+                      - /url: /lastcloudia/kagayakuhone
+                      - img "輝くホネ" [ref=e805]
+                      - text: 輝くホネ
+                  - cell "メタルプレート メタルプレート" [ref=e806]:
+                    - link "メタルプレート メタルプレート" [ref=e807] [cursor=pointer]:
+                      - /url: /lastcloudia/metarupureto
+                      - img "メタルプレート" [ref=e808]
+                      - text: メタルプレート
+                  - cell "古代魔素 古代魔素" [ref=e809]:
+                    - link "古代魔素 古代魔素" [ref=e810] [cursor=pointer]:
+                      - /url: /lastcloudia/kouritumaso
+                      - img "古代魔素" [ref=e811]
+                      - text: 古代魔素
+                - row "マナ樹液 マナ樹液 星の砂 星の砂 海凝晶 海凝晶 時の大針 時の大針" [ref=e812]:
+                  - cell "マナ樹液 マナ樹液" [ref=e813]:
+                    - link "マナ樹液 マナ樹液" [ref=e814] [cursor=pointer]:
+                      - /url: /lastcloudia/manazyueki
+                      - img "マナ樹液" [ref=e815]
+                      - text: マナ樹液
+                  - cell "星の砂 星の砂" [ref=e816]:
+                    - link "星の砂 星の砂" [ref=e817] [cursor=pointer]:
+                      - /url: /lastcloudia/hosinosuna
+                      - img "星の砂" [ref=e818]
+                      - text: 星の砂
+                  - cell "海凝晶 海凝晶" [ref=e819]:
+                    - link "海凝晶 海凝晶" [ref=e820] [cursor=pointer]:
+                      - /url: /lastcloudia/kaigyousyoukouritu
+                      - img "海凝晶" [ref=e821]
+                      - text: 海凝晶
+                  - cell "時の大針 時の大針" [ref=e822]:
+                    - link "時の大針 時の大針" [ref=e823] [cursor=pointer]:
+                      - /url: /lastcloudia/tokinoohari
+                      - img "時の大針" [ref=e824]
+                      - text: 時の大針
+                - row "異界物質 異界物質 大霊宝 大霊宝 神封石 神封石 秘竜眼 秘竜眼" [ref=e825]:
+                  - cell "異界物質 異界物質" [ref=e826]:
+                    - link "異界物質 異界物質" [ref=e827] [cursor=pointer]:
+                      - /url: /lastcloudia/ikaibussistu
+                      - img "異界物質" [ref=e828]
+                      - text: 異界物質
+                  - cell "大霊宝 大霊宝" [ref=e829]:
+                    - link "大霊宝 大霊宝" [ref=e830] [cursor=pointer]:
+                      - /url: /lastcloudia/taireihou
+                      - img "大霊宝" [ref=e831]
+                      - text: 大霊宝
+                  - cell "神封石 神封石" [ref=e832]:
+                    - link "神封石 神封石" [ref=e833] [cursor=pointer]:
+                      - /url: /lastcloudia/sinnhouseki
+                      - img "神封石" [ref=e834]
+                      - text: 神封石
+                  - cell "秘竜眼 秘竜眼" [ref=e835]:
+                    - link "秘竜眼 秘竜眼" [ref=e836] [cursor=pointer]:
+                      - /url: /lastcloudia/hiryuugann
+                      - img "秘竜眼" [ref=e837]
+                      - text: 秘竜眼
+                - row "幻魔の涙 幻魔の涙 銀河結晶 銀河結晶 世界の光 世界の光 aw_item_icon_mat_600710_★6_異界の光 異界の光" [ref=e838]:
+                  - cell "幻魔の涙 幻魔の涙" [ref=e839]:
+                    - link "幻魔の涙 幻魔の涙" [ref=e840] [cursor=pointer]:
+                      - /url: /lastcloudia/gennmanonamida
+                      - img "幻魔の涙" [ref=e841]
+                      - text: 幻魔の涙
+                  - cell "銀河結晶 銀河結晶" [ref=e842]:
+                    - link "銀河結晶 銀河結晶" [ref=e843] [cursor=pointer]:
+                      - /url: /lastcloudia/ginngakessyou
+                      - img "銀河結晶" [ref=e844]
+                      - text: 銀河結晶
+                  - cell "世界の光 世界の光" [ref=e845]:
+                    - link "世界の光 世界の光" [ref=e846] [cursor=pointer]:
+                      - /url: /lastcloudia/sekainohikari
+                      - img "世界の光" [ref=e847]
+                      - text: 世界の光
+                  - cell "aw_item_icon_mat_600710_★6_異界の光 異界の光" [ref=e848]:
+                    - link "aw_item_icon_mat_600710_★6_異界の光 異界の光" [ref=e849] [cursor=pointer]:
+                      - /url: /lastcloudia/ikainohikari
+                      - img "aw_item_icon_mat_600710_★6_異界の光" [ref=e850]
+                      - text: 異界の光
+                - row "幻界の光 幻界の光 - - -" [ref=e851]:
+                  - cell "幻界の光 幻界の光" [ref=e852]:
+                    - link "幻界の光 幻界の光" [ref=e853] [cursor=pointer]:
+                      - /url: /lastcloudia/gennkainohikari
+                      - img "幻界の光" [ref=e854]
+                      - text: 幻界の光
+                  - cell "-" [ref=e855]
+                  - cell "-" [ref=e856]
+                  - cell "-" [ref=e857]
+            - heading "晶石" [level=3] [ref=e858]
+            - table [ref=e859]:
+              - rowgroup [ref=e860]:
+                - row "赤の大晶石 赤の大晶石 青の大晶石 青の大晶石 碧の大晶石 碧の大晶石 紫の大晶石 紫の大晶石" [ref=e861]:
+                  - cell "赤の大晶石 赤の大晶石" [ref=e862]:
+                    - link "赤の大晶石 赤の大晶石" [ref=e863] [cursor=pointer]:
+                      - /url: /lastcloudia/akanodaisyouseki
+                      - img "赤の大晶石" [ref=e864]
+                      - text: 赤の大晶石
+                  - cell "青の大晶石 青の大晶石" [ref=e865]:
+                    - link "青の大晶石 青の大晶石" [ref=e866] [cursor=pointer]:
+                      - /url: /lastcloudia/aonodaisyouseki
+                      - img "青の大晶石" [ref=e867]
+                      - text: 青の大晶石
+                  - cell "碧の大晶石 碧の大晶石" [ref=e868]:
+                    - link "碧の大晶石 碧の大晶石" [ref=e869] [cursor=pointer]:
+                      - /url: /lastcloudia/midorinodaisyouseki
+                      - img "碧の大晶石" [ref=e870]
+                      - text: 碧の大晶石
+                  - cell "紫の大晶石 紫の大晶石" [ref=e871]:
+                    - link "紫の大晶石 紫の大晶石" [ref=e872] [cursor=pointer]:
+                      - /url: /lastcloudia/murasakinodaisyouseki
+                      - img "紫の大晶石" [ref=e873]
+                      - text: 紫の大晶石
+                - row "赤の神晶石 赤の神晶石 青の神晶石 青の神晶石 碧の神晶石 碧の神晶石 紫の神晶石 紫の神晶石" [ref=e874]:
+                  - cell "赤の神晶石 赤の神晶石" [ref=e875]:
+                    - link "赤の神晶石 赤の神晶石" [ref=e876] [cursor=pointer]:
+                      - /url: /lastcloudia/akanosinsyouseki
+                      - img "赤の神晶石" [ref=e877]
+                      - text: 赤の神晶石
+                  - cell "青の神晶石 青の神晶石" [ref=e878]:
+                    - link "青の神晶石 青の神晶石" [ref=e879] [cursor=pointer]:
+                      - /url: /lastcloudia/aonosinnsyouseki
+                      - img "青の神晶石" [ref=e880]
+                      - text: 青の神晶石
+                  - cell "碧の神晶石 碧の神晶石" [ref=e881]:
+                    - link "碧の神晶石 碧の神晶石" [ref=e882] [cursor=pointer]:
+                      - /url: /lastcloudia/midorinosinnsyouseki
+                      - img "碧の神晶石" [ref=e883]
+                      - text: 碧の神晶石
+                  - cell "紫の神晶石 紫の神晶石" [ref=e884]:
+                    - link "紫の神晶石 紫の神晶石" [ref=e885] [cursor=pointer]:
+                      - /url: /lastcloudia/murasakinosinnsyouseki
+                      - img "紫の神晶石" [ref=e886]
+                      - text: 紫の神晶石
+            - paragraph [ref=e887]:
+              - link "最新！周回おすすめクエストはこちら" [ref=e888] [cursor=pointer]:
+                - /url: /lastcloudia/syukaiosusume
+            - iframe [ref=e894]:
+              - generic [active] [ref=f3e1]:
+                - generic [ref=f3e2]:
+                  - generic [ref=f3e3]:
+                    - link:
+                      - /url: https://tr.dsp.bance.jp/dsp-track/click-tag?adinf=_wEb5hStxoyNwwYTwhKUK7wAJLXB65IdJraFvX5WO7T8MvE8ztcMjeviArirr_70fewYneFSXh6HpCO6F6JcJu5bpZbauCwpsKeLN28bUZYpbQgBQMBqeyhQIUBSwJfp&lurl=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3Dim8w9T5G%26bnc_clickid%3D%7BBNC_CLICK_ID%7D
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                    - img
+                  - link "OptOut" [ref=f3e6] [cursor=pointer]:
+                    - /url: https://service.bance.jp/optout/
+                    - img [ref=f3e7]
+                - img
+                - img
+            - heading "周回クエスト一覧" [level=2] [ref=e895]
+            - paragraph [ref=e896]:
+              - img "周回クエスト" [ref=e897]
+            - table [ref=e898]:
+              - rowgroup [ref=e899]:
+                - row "神晶石/大晶石/晶石の集め方 エテマラのやり方と周回場所" [ref=e900]:
+                  - cell "神晶石/大晶石/晶石の集め方" [ref=e901]:
+                    - link "神晶石/大晶石/晶石の集め方" [ref=e902] [cursor=pointer]:
+                      - /url: /lastcloudia/syouseki
+                  - cell "エテマラのやり方と周回場所" [ref=e903]:
+                    - link "エテマラのやり方と周回場所" [ref=e904] [cursor=pointer]:
+                      - /url: /lastcloudia/etemara
+                - row "自動周回のやり方とメリット" [ref=e905]:
+                  - cell "自動周回のやり方とメリット" [ref=e906]:
+                    - link "自動周回のやり方とメリット" [ref=e907] [cursor=pointer]:
+                      - /url: /lastcloudia/jidousyukai
+            - heading "隠し要素" [level=2] [ref=e908]
+            - paragraph [ref=e909]:
+              - img "隠し要素" [ref=e910]
+            - table [ref=e911]:
+              - rowgroup [ref=e912]:
+                - row "ワールドマップ" [ref=e913]:
+                  - columnheader "ワールドマップ" [ref=e914]
+                - row "宝箱の場所一覧 ボトルの場所一覧" [ref=e915]:
+                  - cell "宝箱の場所一覧" [ref=e916]:
+                    - link "宝箱の場所一覧" [ref=e917] [cursor=pointer]:
+                      - /url: /lastcloudia/takaranobasyo
+                  - cell "ボトルの場所一覧" [ref=e918]:
+                    - link "ボトルの場所一覧" [ref=e919] [cursor=pointer]:
+                      - /url: /lastcloudia/bottle
+                - row "モンコレの館モンスター出現場所 精霊研究所の報酬と捕獲方法" [ref=e920]:
+                  - cell "モンコレの館モンスター出現場所" [ref=e921]:
+                    - link "モンコレの館モンスター出現場所" [ref=e922] [cursor=pointer]:
+                      - /url: /lastcloudia/moncole
+                  - cell "精霊研究所の報酬と捕獲方法" [ref=e923]:
+                    - link "精霊研究所の報酬と捕獲方法" [ref=e924] [cursor=pointer]:
+                      - /url: /lastcloudia/seirei
+                - row "ステージギミック効果と対処方法 宝箱コレクターと獲得アイテム" [ref=e925]:
+                  - cell "ステージギミック効果と対処方法" [ref=e926]:
+                    - link "ステージギミック効果と対処方法" [ref=e927] [cursor=pointer]:
+                      - /url: /lastcloudia/stagegimikku
+                  - cell "宝箱コレクターと獲得アイテム" [ref=e928]:
+                    - link "宝箱コレクターと獲得アイテム" [ref=e929] [cursor=pointer]:
+                      - /url: /lastcloudia/takaracollector
+                - row "召喚獣" [ref=e930]:
+                  - columnheader "召喚獣" [ref=e931]
+                - row "ユグドラシルの入手方法と条件 イグニードの入手方法と条件" [ref=e932]:
+                  - cell "ユグドラシルの入手方法と条件" [ref=e933]:
+                    - link "ユグドラシルの入手方法と条件" [ref=e934] [cursor=pointer]:
+                      - /url: /lastcloudia/yggdrasil
+                  - cell "イグニードの入手方法と条件" [ref=e935]:
+                    - link "イグニードの入手方法と条件" [ref=e936] [cursor=pointer]:
+                      - /url: /lastcloudia/igunido
+                - row "グラナ･ダリアの入手方法と条件 サルメアの入手方法と条件" [ref=e937]:
+                  - cell "グラナ･ダリアの入手方法と条件" [ref=e938]:
+                    - link "グラナ･ダリアの入手方法と条件" [ref=e939] [cursor=pointer]:
+                      - /url: /lastcloudia/granadaria
+                  - cell "サルメアの入手方法と条件" [ref=e940]:
+                    - link "サルメアの入手方法と条件" [ref=e941] [cursor=pointer]:
+                      - /url: /lastcloudia/sarumea
+                - row "ババラードの入手方法と条件 ログ・メキアの入手方法と条件" [ref=e942]:
+                  - cell "ババラードの入手方法と条件" [ref=e943]:
+                    - link "ババラードの入手方法と条件" [ref=e944] [cursor=pointer]:
+                      - /url: /lastcloudia/babalardo
+                  - cell "ログ・メキアの入手方法と条件" [ref=e945]:
+                    - link "ログ・メキアの入手方法と条件" [ref=e946] [cursor=pointer]:
+                      - /url: /lastcloudia/rogumekia
+                - row "その他の隠し要素" [ref=e947]:
+                  - columnheader "その他の隠し要素" [ref=e948]
+                - row "クイズの答え一覧と入手方法 アークフラグメント" [ref=e949]:
+                  - cell "クイズの答え一覧と入手方法" [ref=e950]:
+                    - link "クイズの答え一覧と入手方法" [ref=e951] [cursor=pointer]:
+                      - /url: /lastcloudia/quizkotae
+                  - cell "アークフラグメント" [ref=e952]:
+                    - link "アークフラグメント" [ref=e953] [cursor=pointer]:
+                      - /url: /lastcloudia/fragment
+            - paragraph [ref=e954]:
+              - link "隠し要素まとめはこちら" [ref=e955] [cursor=pointer]:
+                - /url: /lastcloudia/secret
+            - heading "スキル" [level=2] [ref=e956]
+            - paragraph [ref=e957]:
+              - img "スキル一覧" [ref=e958]
+            - table [ref=e959]:
+              - rowgroup [ref=e960]:
+                - row "技能スキル効果一覧 魔法スキル効果一覧" [ref=e961]:
+                  - cell "技能スキル効果一覧" [ref=e962]:
+                    - link "技能スキル効果一覧" [ref=e963] [cursor=pointer]:
+                      - /url: /lastcloudia/Skill/1
+                  - cell "魔法スキル効果一覧" [ref=e964]:
+                    - link "魔法スキル効果一覧" [ref=e965] [cursor=pointer]:
+                      - /url: /lastcloudia/Skill/2
+                - row "全スキル効果一覧" [ref=e966]:
+                  - cell "全スキル効果一覧" [ref=e967]:
+                    - link "全スキル効果一覧" [ref=e968] [cursor=pointer]:
+                      - /url: /lastcloudia/skilllist
+            - iframe [ref=e973]:
+              - link [ref=f2e5] [cursor=pointer]:
+                - /url: https://rt.gsspat.jp/c?c=https%3A%2F%2Fcs.ad-drop.jp%2Fyie%2Fld%2Fck%3Fzid%3D80006309%26asid%3D50016729%26idx%3D0%26l%3DrvuFpYjYhmclITYT2cKM8D5-sSO8XUvqg17rm9EXsMDdIRjlJS_g17dvBqNwZ8uBy-9W8ohXWDpftX90H-T7gGOEEJWmYENNIB3Fd0OVy4IjYRWZzL8LxA8UetsjDZP5vTPrJEh9aMtGsUo-2JtZ4j8xozYIgtCUCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJJl0eo75jMt-NONy1tGsfzziZexPpnCIgeHQ1PQ8BcIniiQUa8vrSXDBIgIyhMyvbVyZigIaQE2fpBRA5K6M1Figv4yBRttNfdwj0nZO1D8kMmQpKgr_N0ryH8ytlG8OMA%26dest%3D&y=1&p=tHM_-uR0c13p&do=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3Dn5NW8r5M%26gsclickid%3Dv2_107_M5gyYDb77bSoehfF5-O9AdXFF49T6bOJqNNiR1557Q5Mn007eRRNlBxQgDLY6cMh7NXnPeZ4hVJBZvKRW2BMXsZyF9UoYQ3vaNAayPghh1w&vs=v2_yoMmLCyMWe0Q67IU3R2fCBqQk9qt-Nai-KYHsIL7EzSmtPT6wvvenNXlgdMSrAVebmzmkT-o4SM_USAUTCz28DrX8xmEc337yzvmgYY-ZpFapGeL5Qs_eu_fHzuZ3Kh54QGz0BTvfrYRLBtRBE7IbLrmoOAJM9v9w9tpCypMErfVEuOOLvt9zSjJuu3g6h-gyO-AkJSPwsMxx8llSKxua2ih7wW7q6gngwXdTip4svcKWF0EYEpq3kM09ir-Law-O2_hH1IDcH9pky4ztgH7Xb0lC2vLYdATARIWzzkUSHHv0qVZ-Ptlbjdv3ZHqWpzgNw0nOU6cT0KTG_kTjTLFAaQP3ug-Y0h2nGZkW_nnietroMSgNiS-a7wvx6lwxUDVmbPfv7Q8aJFmKyULgmGkIFokUP4VfR93qOVfYek8ydOZG1LbrdUCnH2kod6R2Csida5aSqHTq8P9JJOYYcd9ixTK12ddNcfwmsOceOr1KNupu23Wg1upzuy9oLtssphY11EGhw-qbem-CiBjbAXR_MlCRQku3Z3I1OLa-YS0S7aw2y3EhLWjBgefn9evn06OSfqKM3Egns6iz73JjRTwxZwmGkMPiwBXpnhwYJ6Hvh7JY0Hy73WA2P6oGBWpjCAS7i57iVZCzqnDLRkF35Bq6R81SzASfqfCC4rgz4BolZ9xTWueMzJHbFPI88OseY_yfLPoyR2p1IbMLYOArelqMMsKau0
+                - img [ref=f2e6]
+            - heading "掲示板" [level=2] [ref=e974]
+            - paragraph [ref=e975]:
+              - img "掲示板一覧" [ref=e976]
+            - table [ref=e977]:
+              - rowgroup [ref=e978]:
+                - row "Q&A掲示板 フレンド募集掲示板" [ref=e979]:
+                  - cell "Q&A掲示板" [ref=e980]:
+                    - link "Q&A掲示板" [ref=e981] [cursor=pointer]:
+                      - /url: /lastcloudia/qa-top
+                  - cell "フレンド募集掲示板" [ref=e982]:
+                    - link "フレンド募集掲示板" [ref=e983] [cursor=pointer]:
+                      - /url: /lastcloudia/friend
+                - row "質問掲示板 ギルド募集掲示板" [ref=e984]:
+                  - cell "質問掲示板" [ref=e985]:
+                    - link "質問掲示板" [ref=e986] [cursor=pointer]:
+                      - /url: /lastcloudia/situmon
+                  - cell "ギルド募集掲示板" [ref=e987]:
+                    - link "ギルド募集掲示板" [ref=e988] [cursor=pointer]:
+                      - /url: /lastcloudia/guildbosyu
+                - row "ガチャ結果報告 友達招待掲示板" [ref=e989]:
+                  - cell "ガチャ結果報告" [ref=e990]:
+                    - link "ガチャ結果報告" [ref=e991] [cursor=pointer]:
+                      - /url: /lastcloudia/gachakeka
+                  - cell "友達招待掲示板" [ref=e992]:
+                    - link "友達招待掲示板" [ref=e993] [cursor=pointer]:
+                      - /url: /lastcloudia/syoutai
+            - paragraph [ref=e994]:
+              - link "雑談掲示板はこちら" [ref=e995] [cursor=pointer]:
+                - /url: /lastcloudia/zatudan
+            - heading "その他コンテンツ" [level=2] [ref=e996]
+            - heading "シミュレーター" [level=3] [ref=e997]
+            - paragraph [ref=e998]:
+              - img "シミュレーター" [ref=e999]
+            - table [ref=e1000]:
+              - rowgroup [ref=e1001]:
+                - row "ガチャシミュ一覧 スキルシミュレーター" [ref=e1002]:
+                  - cell "ガチャシミュ一覧" [ref=e1003]:
+                    - link "ガチャシミュ一覧" [ref=e1004] [cursor=pointer]:
+                      - /url: /lastcloudia/gatyasimulator
+                  - cell "スキルシミュレーター" [ref=e1005]:
+                    - link "スキルシミュレーター" [ref=e1006] [cursor=pointer]:
+                      - /url: /lastcloudia/skillsim
+            - heading "あなたは何問解ける？ラスクラクイズ！" [level=3] [ref=e1007]
+            - paragraph [ref=e1008]:
+              - img "クイズ" [ref=e1009]
+            - paragraph [ref=e1010]:
+              - link "あなたは何問解ける？ラスクラクイズ！はこちら" [ref=e1011] [cursor=pointer]:
+                - /url: /lastcloudia/quiz1
+            - link [ref=e1019] [cursor=pointer]:
+              - /url: https://tck.lmadps.jp/c?c=https%3A%2F%2Fcs.ad-drop.jp%2Fyie%2Fld%2Fck%3Fzid%3D80006536%26asid%3D50017305%26idx%3D0%26l%3DnZp5BvZ0guAnmuQ9ngmz0TAdsj4I8NHeHgDKHmalmUxWwCoUUAv79CnKoBLjYu1AuP-Xmvw_On8NAvt09CT-FHD0MHEKKAs0yxvgC8lThT4jYRWZzL8LxA8UetsjDZP5vTPrJEh9aMtGsUo-2JtZ4j8xozYIgtCUCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJBFUxhHsf-LWwYPN_fKG_0rb568Z1lhSzWleKR_oWmFxB9aLzcytSW0arLPtIdRaaEuDXLSzxIC-aqBJH7RDEYIRd0JTpwklyWKA4ih7YASys-vUxXxxRG7LCpXRf6WjqjfXOGiuBRupDHIIqEI34wxE7TW2xTt75ZbD8oazPMRK0sXQLYR4LOJr6slMvBRlFIo6MiDeqYxzjg3iP9WqSZ6hUIL2YrlhQnFrewy407i46nBMiR4EBHNJR0xMBl3PnvnW5GS-LWE_1kdcK85iTuTdw2ndva0eblEbSF9fLjf06pH7G3js7aXN0qjRQnr2l2AZeYC_bz3LtMSZlbWzux1BcrxGjZJZOFfvxFLmyJ2n%26dest%3D&y=1&p=tH32pyA29czv&do=https%3A%2F%2Fh5.g123.jp%2Fgame%2Fvividarmy%3Fplatform%3Dadroute%26utm_source%3Dadroute%26utm_campaign%3Dvividarmy_ja_NewDisplayCreateroleB_adn_pc%26utm_adgroup%3Dcr_normal%26lang%3Dja%26utm_content%3Dvivid20250912_ja_adroute01_600-500.jpg%26gsckid%3Dv2_107_D5TqyIHYP9mlYjuXSw4nDMloQKH3PHIjXEEFp70drhcYd-7Ox6ceuC7F_832jTYbAAo7xVijWlJWEZ9d4iel5Pu7riyToAvmInxDrrNJAv4%26utm_term%3D80006536&vs=v2_PQ25Ht5irIv8RYTnb8fJB5dIFt1nbHKvUWPELqqmUzrvzPW2v8KQtstV9w6gdoQ-a28GPZ0xbmLo4W_jF_Zn_HYXwyk6B0fCz8vHSM0riwGr743zbSJrbdF2YoXC7ooDBYhbNCQpR6vpOnxDOtCBafpAc9Qla9UG3elo3XQaMl3wlLQyhxo530o0Rioi-PLls1htPsZvbhZBcBG5P6QWoYFJhlT297G0Hjptuo0240xG03sUpvgOZMS2G5aBohRkaCLxmNk7yI0-HVTwFu1o3tUHzM6eFTyOL8ys-z91eceX8MxXFI7glzdg__X1RjFNeib-GsqOLCu2yygmynDnNj1Ck8AG9NHea8Z1cDZiPxRC_gyUZEM9O1IleD08W1eOVQimEhX-h9_VvuVWfrYIdrgax_jNCp-w14Zf7QVvIvvbHwPkMDTPST4GM5ff5SDY918jfob1XejfF6lTzRbAAmXeN8IP-WaLebQuR1lCfmKJ9B9452n483EgwqPJoQhfH4o6NNsOxjbEUfQCC3Kp2ioiVlWQNVgmp46Lv1veUygMSpSVjTvND_S9YSZkZ4-NMdrNGwnO6d2RZdxqVUEHl4Ue9yDexT9domXc0bcVn9hbGDUh03B3qTrPhximIJdLTz3gTPnlEtTWIj-qIMvAjPGObRnhInPM1vUJwTPuYoH77_eKCaPh8E_k36jRpRtAXMDoaxYtmsf0XbU7BO2ilzAJUn9hQTRkbv0W_eV87G72zGEMijF5zg
+              - img [ref=e1020]
+            - heading "ショップ" [level=2] [ref=e1021]
+            - paragraph [ref=e1022]:
+              - img "ショップ" [ref=e1023]
+            - table [ref=e1024]:
+              - rowgroup [ref=e1025]:
+                - row "課金要素(ショップ)まとめ ラスクラパスまとめ" [ref=e1026]:
+                  - cell "課金要素(ショップ)まとめ" [ref=e1027]:
+                    - link "課金要素(ショップ)まとめ" [ref=e1028] [cursor=pointer]:
+                      - /url: /lastcloudia/kinenpakku
+                  - cell "ラスクラパスまとめ" [ref=e1029]:
+                    - link "ラスクラパスまとめ" [ref=e1030] [cursor=pointer]:
+                      - /url: /lastcloudia/rasukurapass
+            - heading "ラスクラとは" [level=2] [ref=e1031]
+            - table [ref=e1032]:
+              - rowgroup [ref=e1033]:
+                - row "タイトル ラストクラウディア" [ref=e1034]:
+                  - rowheader "タイトル" [ref=e1035]
+                  - cell "ラストクラウディア" [ref=e1036]
+                - row "ジャンル RPG" [ref=e1037]:
+                  - rowheader "ジャンル" [ref=e1038]
+                  - cell "RPG" [ref=e1039]
+                - row "価格 基本無料(アイテム課金あり)" [ref=e1040]:
+                  - rowheader "価格" [ref=e1041]
+                  - cell "基本無料(アイテム課金あり)" [ref=e1042]
+                - row "対応OS iOS、Android" [ref=e1043]:
+                  - rowheader "対応OS" [ref=e1044]
+                  - cell "iOS、Android" [ref=e1045]
+                - row "公式サイト ラスクラ公式" [ref=e1046]:
+                  - rowheader "公式サイト" [ref=e1047]
+                  - cell "ラスクラ公式" [ref=e1048]:
+                    - link "ラスクラ公式" [ref=e1049] [cursor=pointer]:
+                      - /url: https://www.lastcloudia.com/
+                - row "運営会社 AIDIS" [ref=e1050]:
+                  - rowheader "運営会社" [ref=e1051]
+                  - cell "AIDIS" [ref=e1052]:
+                    - link "AIDIS" [ref=e1053] [cursor=pointer]:
+                      - /url: https://www.aidis.co.jp/
+            - paragraph [ref=e1054]: ラスクラは、激しく動くドットキャラとなめらかな3D背景が魅力のスマホRPGです。ユニットによって使用できる特技や超必殺技が異なるので、お気に入りのキャラを探して育成しましょう。
+            - heading "刻一刻と状況が変化するリアルタイムバトル" [level=3] [ref=e1055]
+            - paragraph [ref=e1056]:
+              - img "リアルタイムバトル" [ref=e1057]
+            - paragraph [ref=e1058]: ラスクラの戦闘は刻一刻と状況が変化するリアルタイムで進行します。戦局に合わせて攻めたり魔法でカバーしたりと、敵や味方との距離を見極めた奥深い戦闘が楽しめます。
+            - paragraph [ref=e1059]: また各ユニットの特技は、時間経過によって使用できます。使用しなければ使用回数が増えるので、強力な敵に向けての温存や、一気に畳み掛ける場合に使用するなど、幅広い戦略が行なえます。
+            - heading "爽快感抜群の超必殺技" [level=3] [ref=e1060]
+            - paragraph [ref=e1061]:
+              - img "超必殺技" [ref=e1062]
+            - paragraph [ref=e1063]: 条件を満たすと発動できる必殺技は、派手なカットイン演出と強力な効果が魅力の攻撃手段です。キャラごとに用意されており、不利な状況を覆すほどの威力を持っています。
+            - heading "世界観" [level=3] [ref=e1064]
+            - paragraph [ref=e1065]:
+              - img "世界観" [ref=e1066]
+            - paragraph [ref=e1067]: 人と魔獣が暮らす世界グランセリア。かつてこの地は破神ログシウスにより支配されていたが、英雄アデルと女神リラハにより破神の封印に成功する。
+            - paragraph [ref=e1068]: それから数百年──
+            - paragraph [ref=e1069]: 世界は英雄の子孫により建国されたオルダーナ帝国によって統一され人々は平和な時代を享受していた。
+            - paragraph [ref=e1070]: しかし、そんな中、謎の魔獣による被害が報告され始める。第十二騎士団に所属する騎士カイルは魔獣レイとともにとある任務に向かっていく。
+            - paragraph [ref=e1071]: それが世界を揺るがす大きな戦いの始まりだと知らずに──
+            - paragraph
+          - generic [ref=e1073]:
+            - text: ©2018-2026 AIDIS Inc. All rights reserved.
+            - text: ［執筆・編集］アルテマ
+            - text: ※アルテマのコンテンツは編集部が独自に検討・作成したコンテンツを提供しております。
+            - text: ※アルテマに掲載しているゲーム内画像の著作権、商標権その他の知的財産権は、当該コンテンツの提供元に帰属します
+            - link "▶ラストクラウディア -LAST CLOUDIA-公式サイト" [ref=e1074] [cursor=pointer]:
+              - /url: https://www.lastcloudia.com/
+        - list [ref=e1076]:
+          - listitem [ref=e1077] [cursor=pointer]:
+            - link "ツイート" [ref=e1078]:
+              - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Faltema.jp%2Flastcloudia&text=%E3%83%A9%E3%82%B9%E3%82%AF%E3%83%A9%E6%94%BB%E7%95%A5wiki%EF%BD%9C%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%A2+-+%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9E&tw_p=tweetbutton&url=https%3A%2F%2Faltema.jp%2Flastcloudia&hashtags=%E3%83%A9%E3%82%B9%E3%82%AF%E3%83%A9,%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%A2,%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9E&
+          - listitem [ref=e1079] [cursor=pointer]: URL発行
+          - listitem [ref=e1080] [cursor=pointer]: お気に入り
+        - paragraph [ref=e1083]:
+          - link "記事について指摘する" [ref=e1084] [cursor=pointer]:
+            - /url: javascript:%20
+      - generic [ref=e1085]:
+        - generic [ref=e1086]:
+          - generic [ref=e1087]:
+            - generic [ref=e1088]: ラスクラ攻略メニュー
+            - list [ref=e1089]:
+              - listitem [ref=e1090]:
+                - generic [ref=e1091]: ラスクラ攻略トップ
+              - listitem [ref=e1092]:
+                - link "リセマラ当たりキャラ" [ref=e1093] [cursor=pointer]:
+                  - /url: /lastcloudia/risemara
+              - listitem [ref=e1094]:
+                - link "リセマラの効率的なやり方" [ref=e1095] [cursor=pointer]:
+                  - /url: /lastcloudia/risemarakoritu
+              - listitem [ref=e1096]:
+                - link "最強キャラランキング" [ref=e1097] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyokyara
+              - listitem [ref=e1098]:
+                - link "最強アークランキング" [ref=e1099] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyoark
+              - listitem [ref=e1100]:
+                - link "アリーナ最強キャラランキング" [ref=e1101] [cursor=pointer]:
+                  - /url: /lastcloudia/arenasaikyochara
+              - listitem [ref=e1102]:
+                - link "最強パーティ編成" [ref=e1103] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyoparty
+              - listitem [ref=e1104]:
+                - link "最強武器ランキング" [ref=e1105] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyosbuki
+              - listitem [ref=e1106]:
+                - link "最強防具ランキング" [ref=e1107] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyoubougu
+              - listitem [ref=e1108]:
+                - link "最強アクセサリーランキング" [ref=e1109] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyouakusesari
+          - generic [ref=e1110]:
+            - generic [ref=e1111]: ラスクラ公式Webショップ
+            - list [ref=e1112]:
+              - listitem [ref=e1113]:
+                - link "ラスクラ公式WEBショップ ラスクラ公式Webショップまとめ 【12/25より無料商品を再購入可能！】" [ref=e1114] [cursor=pointer]:
+                  - /url: /lastcloudia/gmokakin
+                  - img "ラスクラ公式WEBショップ" [ref=e1115]
+                  - text: ラスクラ公式Webショップまとめ
+                  - text: 【12/25より無料商品を再購入可能！】
+          - generic [ref=e1116]:
+            - generic [ref=e1117]: ラスクラ最新情報
+            - list [ref=e1118]:
+              - generic [ref=e1119]: 刹那の魔神メギウスが登場
+              - listitem [ref=e1120]:
+                - link "魔神メギウスの性能" [ref=e1121] [cursor=pointer]:
+                  - /url: /lastcloudia/chara/239
+              - listitem [ref=e1122]:
+                - link "パイトスの鍛冶工房の性能" [ref=e1123] [cursor=pointer]:
+                  - /url: /lastcloudia/ark/284
+              - listitem [ref=e1124]:
+                - link "魔神メギウスガチャシミュ" [ref=e1125] [cursor=pointer]:
+                  - /url: /lastcloudia/gachasim/85
+              - generic [ref=e1126]: 神徒エブルが復刻
+              - listitem [ref=e1127]:
+                - link "神徒エブルの性能" [ref=e1128] [cursor=pointer]:
+                  - /url: /lastcloudia/chara/228
+              - listitem [ref=e1129]:
+                - link "瘴蝕竜マグラナグラの性能" [ref=e1130] [cursor=pointer]:
+                  - /url: /lastcloudia/ark/272
+              - listitem [ref=e1131]:
+                - link "神徒エブルガチャシミュ" [ref=e1132] [cursor=pointer]:
+                  - /url: /lastcloudia/gachasim/74
+              - generic [ref=e1133]: 大地神シードラエルが登場
+              - listitem [ref=e1134]:
+                - link "シードラエルの性能" [ref=e1135] [cursor=pointer]:
+                  - /url: /lastcloudia/chara/238
+              - listitem [ref=e1136]:
+                - link "エシュリオンの生命炉の性能" [ref=e1137] [cursor=pointer]:
+                  - /url: /lastcloudia/ark/283
+              - listitem [ref=e1138]:
+                - link "シードラエルガチャシミュ" [ref=e1139] [cursor=pointer]:
+                  - /url: /lastcloudia/gachasim/84
+              - generic [ref=e1140]: イベント・キャンペーン
+              - listitem [ref=e1141]:
+                - link "依頼が紡ぐ縁の攻略" [ref=e1142] [cursor=pointer]:
+                  - /url: /lastcloudia/iraigatsumugu
+          - generic [ref=e1143]:
+            - generic [ref=e1144]: アルテマからのご案内
+            - list [ref=e1145]:
+              - listitem [ref=e1146]:
+                - link "在宅&未経験OK！ライター募集中！" [ref=e1147] [cursor=pointer]:
+                  - /url: /gamearubaito
+          - generic [ref=e1148]:
+            - generic [ref=e1149]: コンテンツ
+            - list [ref=e1150]:
+              - listitem [ref=e1151]:
+                - link "召喚獣の聖庭 β版 Ver2.0" [ref=e1152] [cursor=pointer]:
+                  - /url: /lastcloudia/seitei
+              - listitem [ref=e1153]:
+                - link "ヒストミアの攻略" [ref=e1154] [cursor=pointer]:
+                  - /url: /lastcloudia/hisutomia
+              - listitem [ref=e1155]:
+                - link "BGSジャラバンガ戦の攻略" [ref=e1156] [cursor=pointer]:
+                  - /url: /lastcloudia/battlegraphbarajanga
+              - listitem [ref=e1157]:
+                - link "ワールドレイドの攻略" [ref=e1158] [cursor=pointer]:
+                  - /url: /lastcloudia/worldraid
+              - listitem [ref=e1159]:
+                - link "マルチプレイの仕様まとめ" [ref=e1160] [cursor=pointer]:
+                  - /url: /lastcloudia/multi
+              - listitem [ref=e1161]:
+                - link "秘密の遊技場の仕様と演出一覧" [ref=e1162] [cursor=pointer]:
+                  - /url: /lastcloudia/casino
+              - listitem [ref=e1163]:
+                - link "タルタロスの迷宮の攻略" [ref=e1164] [cursor=pointer]:
+                  - /url: /lastcloudia/tarutarosunomeikyu
+              - listitem [ref=e1165]:
+                - link "アリーナの仕様と基本の解説" [ref=e1166] [cursor=pointer]:
+                  - /url: /lastcloudia/arena
+              - listitem [ref=e1167]:
+                - link "幻英の塔【炎】" [ref=e1168] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-honoo
+              - listitem [ref=e1169]:
+                - link "幻英の塔【氷】" [ref=e1170] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-koori
+              - listitem [ref=e1171]:
+                - link "幻英の塔【樹】" [ref=e1172] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-ki
+              - listitem [ref=e1173]:
+                - link "幻英の塔【雷】" [ref=e1174] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-kaminari
+              - listitem [ref=e1175]:
+                - link "幻英の塔【光】" [ref=e1176] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-hikari
+              - listitem [ref=e1177]:
+                - link "幻英の塔【闇】" [ref=e1178] [cursor=pointer]:
+                  - /url: /lastcloudia/genneinotou-yami
+              - listitem [ref=e1179]:
+                - link "幻英の塔の仕様" [ref=e1180] [cursor=pointer]:
+                  - /url: /lastcloudia/geneinotou
+              - listitem [ref=e1181]:
+                - link "幻英の塔の攻略まとめ" [ref=e1182] [cursor=pointer]:
+                  - /url: /lastcloudia/geneinotoumatome
+              - term [ref=e1184] [cursor=pointer]: ▼幻英の塔階層一覧
+          - generic [ref=e1185]:
+            - generic [ref=e1186]: ガチャ
+            - list [ref=e1187]:
+              - listitem [ref=e1188]:
+                - link "どのガチャを引くべきか" [ref=e1189] [cursor=pointer]:
+                  - /url: /lastcloudia/hikubekika
+              - listitem [ref=e1190]:
+                - link "ガチャの確定演出と排出確率" [ref=e1191] [cursor=pointer]:
+                  - /url: /lastcloudia/gatyakakutei
+              - listitem [ref=e1192]:
+                - link "引き直しガチャ" [ref=e1193] [cursor=pointer]:
+                  - /url: /lastcloudia/gacha/46
+          - generic [ref=e1194]:
+            - generic [ref=e1195]: キャラ
+            - list [ref=e1196]:
+              - listitem [ref=e1197]:
+                - link "全キャラ評価一覧" [ref=e1198] [cursor=pointer]:
+                  - /url: /lastcloudia/charalist
+              - listitem [ref=e1199]:
+                - link "ユニストの初回報酬まとめ" [ref=e1200] [cursor=pointer]:
+                  - /url: /lastcloudia/unitstorymatome
+              - listitem [ref=e1201]:
+                - link "全キャラステータスランキング" [ref=e1202] [cursor=pointer]:
+                  - /url: /lastcloudia/charastatusrank
+            - term [ref=e1204] [cursor=pointer]: ▼キャラ一覧
+            - term [ref=e1206] [cursor=pointer]: ▼モンスター系一覧
+          - generic [ref=e1207]:
+            - generic [ref=e1208]: アーク
+            - list [ref=e1209]:
+              - listitem [ref=e1210]:
+                - link "全アーク評価一覧" [ref=e1211] [cursor=pointer]:
+                  - /url: /lastcloudia/arklist
+              - listitem [ref=e1212]:
+                - link "最強アークランキング" [ref=e1213] [cursor=pointer]:
+                  - /url: /lastcloudia/saikyoark
+              - listitem [ref=e1214]:
+                - link "アークについて" [ref=e1215] [cursor=pointer]:
+                  - /url: /lastcloudia/arknituite
+              - listitem [ref=e1216]:
+                - link "強化と出発に必要なソウル量" [ref=e1217] [cursor=pointer]:
+                  - /url: /lastcloudia/arkkyoukasoul
+              - listitem [ref=e1218]:
+                - link "エーテル100%報酬まとめ" [ref=e1219] [cursor=pointer]:
+                  - /url: /lastcloudia/arkether
+              - listitem [ref=e1220]:
+                - link "エーテルの上げ方とおすすめ報酬" [ref=e1221] [cursor=pointer]:
+                  - /url: /lastcloudia/arketheragekata
+              - listitem [ref=e1222]:
+                - link "アークフラグメント報酬" [ref=e1223] [cursor=pointer]:
+                  - /url: /lastcloudia/fragment
+            - term [ref=e1225] [cursor=pointer]: ▼URアーク一覧
+            - term [ref=e1227] [cursor=pointer]: ▼LRアーク一覧
+            - term [ref=e1229] [cursor=pointer]: ▼SSRアーク一覧
+            - term [ref=e1231] [cursor=pointer]: ▼SRアーク一覧
+            - term [ref=e1233] [cursor=pointer]: ▼Rアーク一覧
+            - list
+          - generic [ref=e1234]:
+            - generic [ref=e1235]: スキル/召喚獣
+            - generic [ref=e1236]: スキル
+            - list [ref=e1237]:
+              - listitem [ref=e1238]:
+                - link "全スキル効果一覧" [ref=e1239] [cursor=pointer]:
+                  - /url: /lastcloudia/skilllist
+              - listitem [ref=e1240]:
+                - link "技能スキル効果一覧" [ref=e1241] [cursor=pointer]:
+                  - /url: /lastcloudia/Skill/1
+              - listitem [ref=e1242]:
+                - link "魔法スキル効果一覧" [ref=e1243] [cursor=pointer]:
+                  - /url: /lastcloudia/Skill/2
+            - generic [ref=e1244]: 召喚獣
+            - list [ref=e1245]:
+              - listitem [ref=e1246]:
+                - link "召喚獣イグニード" [ref=e1247] [cursor=pointer]:
+                  - /url: /lastcloudia/igunido
+              - listitem [ref=e1248]:
+                - link "召喚獣ユグドラシル" [ref=e1249] [cursor=pointer]:
+                  - /url: /lastcloudia/yggdrasil
+              - listitem [ref=e1250]:
+                - link "召喚獣グラナ･ダリア" [ref=e1251] [cursor=pointer]:
+                  - /url: /lastcloudia/granadaria
+              - listitem [ref=e1252]:
+                - link "召喚獣サルメア" [ref=e1253] [cursor=pointer]:
+                  - /url: /lastcloudia/sarumea
+              - listitem [ref=e1254]:
+                - link "召喚獣ババラード" [ref=e1255] [cursor=pointer]:
+                  - /url: /lastcloudia/babalardo
+              - listitem [ref=e1256]:
+                - link "召喚獣ログ・メキア" [ref=e1257] [cursor=pointer]:
+                  - /url: /lastcloudia/rogumekia
+          - generic [ref=e1258]:
+            - generic [ref=e1259]: 隠し要素
+            - list [ref=e1260]:
+              - listitem [ref=e1261]:
+                - link "隠し要素まとめ" [ref=e1262] [cursor=pointer]:
+                  - /url: /lastcloudia/secret
+              - listitem [ref=e1263]:
+                - link "ポックルセイム(パズル)攻略" [ref=e1264] [cursor=pointer]:
+                  - /url: /lastcloudia/pokklesame
+              - listitem [ref=e1265]:
+                - link "釣りの仕様と報酬一覧" [ref=e1266] [cursor=pointer]:
+                  - /url: /lastcloudia/turi
+              - listitem [ref=e1267]:
+                - link "宝箱の場所一覧" [ref=e1268] [cursor=pointer]:
+                  - /url: /lastcloudia/takaranobasyo
+              - listitem [ref=e1269]:
+                - link "宝の地図の入手場所まとめ" [ref=e1270] [cursor=pointer]:
+                  - /url: /lastcloudia/takaranotizu
+              - listitem [ref=e1271]:
+                - link "ボトルの場所一覧" [ref=e1272] [cursor=pointer]:
+                  - /url: /lastcloudia/bottle
+              - listitem [ref=e1273]:
+                - link "金鉱スポット" [ref=e1274] [cursor=pointer]:
+                  - /url: /lastcloudia/kinkouspot
+              - listitem [ref=e1275]:
+                - link "モンコレの館" [ref=e1276] [cursor=pointer]:
+                  - /url: /lastcloudia/moncole
+              - listitem [ref=e1277]:
+                - link "宝箱コレクター" [ref=e1278] [cursor=pointer]:
+                  - /url: /lastcloudia/takaracollector
+              - listitem [ref=e1279]:
+                - link "精霊研究所" [ref=e1280] [cursor=pointer]:
+                  - /url: /lastcloudia/seirei
+              - listitem [ref=e1281]:
+                - link "封域/灼熱などの対処方法" [ref=e1282] [cursor=pointer]:
+                  - /url: /lastcloudia/stagegimikku
+              - listitem [ref=e1283]:
+                - link "ワールドマップの隠し要素" [ref=e1284] [cursor=pointer]:
+                  - /url: /lastcloudia/secret
+              - listitem [ref=e1285]:
+                - link "クイズの答え一覧と入手方法" [ref=e1286] [cursor=pointer]:
+                  - /url: /lastcloudia/quizkotae
+          - generic [ref=e1287]:
+            - generic [ref=e1288]: 素材/アイテム
+            - list [ref=e1289]:
+              - listitem [ref=e1290]:
+                - link "全アイテム一覧" [ref=e1291] [cursor=pointer]:
+                  - /url: /lastcloudia/sozailist
+              - listitem [ref=e1292]:
+                - link "ユニットソウル" [ref=e1293] [cursor=pointer]:
+                  - /url: /lastcloudia/unitsoul
+              - listitem [ref=e1294]:
+                - link "だいじなもの" [ref=e1295] [cursor=pointer]:
+                  - /url: /lastcloudia/daijinamono
+              - listitem [ref=e1296]:
+                - link "アーク" [ref=e1297] [cursor=pointer]:
+                  - /url: /lastcloudia/arklist
+              - listitem [ref=e1298]:
+                - link "ブルー/レッドソウル" [ref=e1299] [cursor=pointer]:
+                  - /url: /lastcloudia/soulkouritu
+              - listitem [ref=e1300]:
+                - link "ゼル(お金)" [ref=e1301] [cursor=pointer]:
+                  - /url: /lastcloudia/zerukouritu
+              - listitem [ref=e1302]:
+                - link "晶石" [ref=e1303] [cursor=pointer]:
+                  - /url: /lastcloudia/syouseki
+              - listitem [ref=e1304]:
+                - link "限界突破素材" [ref=e1305] [cursor=pointer]:
+                  - /url: /lastcloudia/genntotusozai
+              - listitem [ref=e1306]:
+                - link "クリスタル(課金石/レッド)" [ref=e1307] [cursor=pointer]:
+                  - /url: /lastcloudia/crystal
+              - listitem [ref=e1308]:
+                - link "エーテリオン" [ref=e1309] [cursor=pointer]:
+                  - /url: /lastcloudia/eeterionn
+              - generic [ref=e1310]: 効率的な集め方/周回
+              - term [ref=e1312] [cursor=pointer]: ▼限界突破素材の集め方
+              - term [ref=e1314] [cursor=pointer]: ▼神/大晶石の集め方
+              - listitem [ref=e1315]:
+                - link "周回おすすめクエスト" [ref=e1316] [cursor=pointer]:
+                  - /url: /lastcloudia/syukaiosusume
+          - generic [ref=e1317]:
+            - generic [ref=e1318]: 初心者
+            - list [ref=e1319]:
+              - listitem [ref=e1320]:
+                - link "1章EDまでの攻略フローチャート" [ref=e1321] [cursor=pointer]:
+                  - /url: /lastcloudia/begginerchart
+              - listitem [ref=e1322]:
+                - link "序盤の効率的な進め方" [ref=e1323] [cursor=pointer]:
+                  - /url: /lastcloudia/joban
+              - listitem [ref=e1324]:
+                - link "バトルシステム解説" [ref=e1325] [cursor=pointer]:
+                  - /url: /lastcloudia/battlesystem
+              - listitem [ref=e1326]:
+                - link "召喚獣の入手方法と発動条件" [ref=e1327] [cursor=pointer]:
+                  - /url: /lastcloudia/shoukanju
+              - listitem [ref=e1328]:
+                - link "初心者チャレンジ" [ref=e1329] [cursor=pointer]:
+                  - /url: /lastcloudia/challenge
+              - listitem [ref=e1330]:
+                - link "ワールドマップの隠し要素" [ref=e1331] [cursor=pointer]:
+                  - /url: /lastcloudia/mapkakusi
+              - listitem [ref=e1332]:
+                - link "ランクを上げるメリットと方法" [ref=e1333] [cursor=pointer]:
+                  - /url: /lastcloudia/rankkouritu
+              - listitem [ref=e1334]:
+                - link "おすすめ技能/魔法一覧" [ref=e1335] [cursor=pointer]:
+                  - /url: /lastcloudia/osusumeginoumahou
+              - listitem [ref=e1336]:
+                - link "低レア(R/SR)おすすめアーク" [ref=e1337] [cursor=pointer]:
+                  - /url: /lastcloudia/teirearc
+              - listitem [ref=e1338]:
+                - link "勝てない時にやることまとめ" [ref=e1339] [cursor=pointer]:
+                  - /url: /lastcloudia/katenaitoki
+              - listitem [ref=e1340]:
+                - link "初期キャラは育てるべき？" [ref=e1341] [cursor=pointer]:
+                  - /url: /lastcloudia/syokichara
+              - listitem [ref=e1342]:
+                - link "オート/マニュアルの解放方法" [ref=e1343] [cursor=pointer]:
+                  - /url: /lastcloudia/manual
+              - listitem [ref=e1344]:
+                - link "フレンドの作り方とメリット" [ref=e1345] [cursor=pointer]:
+                  - /url: /lastcloudia/friendmerit
+              - listitem [ref=e1346]:
+                - link "ギフトの解説" [ref=e1347] [cursor=pointer]:
+                  - /url: /lastcloudia/gift
+              - listitem [ref=e1348]:
+                - link "ショップで購入可能アイテム" [ref=e1349] [cursor=pointer]:
+                  - /url: /lastcloudia/shop
+              - listitem [ref=e1350]:
+                - link "状態異常まとめ" [ref=e1351] [cursor=pointer]:
+                  - /url: /lastcloudia/jyoutaiijyou
+              - listitem [ref=e1352]:
+                - link "課金パックまとめ" [ref=e1353] [cursor=pointer]:
+                  - /url: /lastcloudia/kinenpakku
+              - listitem [ref=e1354]:
+                - link "ゲームシステムと世界観" [ref=e1355] [cursor=pointer]:
+                  - /url: /lastcloudia/rasukuratoha
+              - listitem [ref=e1356]:
+                - link "声優(CV)一覧" [ref=e1357] [cursor=pointer]:
+                  - /url: /lastcloudia/seiyuitiran
+              - listitem [ref=e1358]:
+                - link "ミッションの詳細と報酬" [ref=e1359] [cursor=pointer]:
+                  - /url: /lastcloudia/missionmemo
+              - generic [ref=e1360]: 強化・育成システム
+              - listitem [ref=e1361]:
+                - link "魔法の書の入手方法と使い道" [ref=e1362] [cursor=pointer]:
+                  - /url: /lastcloudia/mahousyo
+              - listitem [ref=e1363]:
+                - link "技能の書の入手方法と使い道" [ref=e1364] [cursor=pointer]:
+                  - /url: /lastcloudia/ginousyo
+              - listitem [ref=e1365]:
+                - link "キャラの強化方法" [ref=e1366] [cursor=pointer]:
+                  - /url: /lastcloudia/charakyouka
+              - listitem [ref=e1367]:
+                - link "アークの強化方法" [ref=e1368] [cursor=pointer]:
+                  - /url: /lastcloudia/arckyouka
+              - listitem [ref=e1369]:
+                - link "能力解放を徹底解説" [ref=e1370] [cursor=pointer]:
+                  - /url: /lastcloudia/nouryokukaihou
+              - listitem [ref=e1371]:
+                - link "限界突破のやり方とメリット" [ref=e1372] [cursor=pointer]:
+                  - /url: /lastcloudia/gennkai
+              - listitem [ref=e1373]:
+                - link "潜在覚醒のやり方とメリット" [ref=e1374] [cursor=pointer]:
+                  - /url: /lastcloudia/senzaikakusei
+              - listitem [ref=e1375]:
+                - link "属性相性の確認と耐性の上げ方" [ref=e1376] [cursor=pointer]:
+                  - /url: /lastcloudia/zokusei
+              - listitem [ref=e1377]:
+                - link "英装の仕様と獲得方法" [ref=e1378] [cursor=pointer]:
+                  - /url: /lastcloudia/eisou
+              - listitem [ref=e1379]:
+                - link "エテマラのやり方" [ref=e1380] [cursor=pointer]:
+                  - /url: /lastcloudia/etemara
+              - generic [ref=e1381]: 施設
+              - listitem [ref=e1382]:
+                - link "金鉱スポット" [ref=e1383] [cursor=pointer]:
+                  - /url: /lastcloudia/kinkouspot
+              - listitem [ref=e1384]:
+                - link "ソウルスポット" [ref=e1385] [cursor=pointer]:
+                  - /url: /lastcloudia/soulspot
+              - listitem [ref=e1386]:
+                - link "交換所" [ref=e1387] [cursor=pointer]:
+                  - /url: /lastcloudia/koukanjyo
+              - generic [ref=e1388]: その他
+              - listitem [ref=e1389]:
+                - link "アカウントの引き継ぎ方法" [ref=e1390] [cursor=pointer]:
+                  - /url: /lastcloudia/account
+              - listitem [ref=e1391]:
+                - link "デイリーミッションの一覧とおすすめ報酬" [ref=e1392] [cursor=pointer]:
+                  - /url: /lastcloudia/dailymission
+              - listitem [ref=e1393]:
+                - link "強化薬の集め方と使用方法" [ref=e1394] [cursor=pointer]:
+                  - /url: /lastcloudia/kyoukayaku
+              - listitem [ref=e1395]:
+                - link "ヒーラー(回復)キャラ/アーク一覧" [ref=e1396] [cursor=pointer]:
+                  - /url: /lastcloudia/healeritiran
+              - listitem [ref=e1397]:
+                - link "ソウルの効率的な集め方と使い道" [ref=e1398] [cursor=pointer]:
+                  - /url: /lastcloudia/soulkouritu
+              - listitem [ref=e1399]:
+                - link "アリーナの仕様" [ref=e1400] [cursor=pointer]:
+                  - /url: /lastcloudia/arena
+              - listitem [ref=e1401]:
+                - link "課金パックは買うべきか" [ref=e1402] [cursor=pointer]:
+                  - /url: /lastcloudia/kinenpakku
+          - generic [ref=e1403]:
+            - generic [ref=e1404]: 攻略
+            - list [ref=e1405]:
+              - listitem [ref=e1406]:
+                - link "イベントクエスト一覧" [ref=e1407] [cursor=pointer]:
+                  - /url: /lastcloudia/eventquest
+              - listitem [ref=e1408]:
+                - link "ミッションの詳細と報酬一覧" [ref=e1409] [cursor=pointer]:
+                  - /url: /lastcloudia/missionmemo
+              - listitem [ref=e1410]:
+                - link "討伐のやり方とクエスト一覧" [ref=e1411] [cursor=pointer]:
+                  - /url: /lastcloudia/toubatu
+          - generic [ref=e1412]:
+            - generic [ref=e1413]: 装備
+            - list [ref=e1414]:
+              - listitem [ref=e1415]:
+                - link "装備一覧" [ref=e1416] [cursor=pointer]:
+                  - /url: /lastcloudia/soubitiran
+              - listitem [ref=e1417]:
+                - link "武器一覧" [ref=e1418] [cursor=pointer]:
+                  - /url: /lastcloudia/soubilist/1
+              - listitem [ref=e1419]:
+                - link "防具一覧" [ref=e1420] [cursor=pointer]:
+                  - /url: /lastcloudia/soubilist/2
+              - listitem [ref=e1421]:
+                - link "アクセ一覧" [ref=e1422] [cursor=pointer]:
+                  - /url: /lastcloudia/soubilist/3
+              - listitem [ref=e1423]:
+                - link "専用装備一覧" [ref=e1424] [cursor=pointer]:
+                  - /url: /lastcloudia/senyosobilist
+              - listitem [ref=e1425]:
+                - link "最新の専用装備解説" [ref=e1426] [cursor=pointer]:
+                  - /url: /lastcloudia/sennyousoubi
+              - listitem [ref=e1427]:
+                - link "強力な装備の入手先まとめ" [ref=e1428] [cursor=pointer]:
+                  - /url: /lastcloudia/bukibougu
+          - generic [ref=e1429]:
+            - generic [ref=e1430]: 掲示板
+            - list [ref=e1431]:
+              - listitem [ref=e1432]:
+                - link "Q&A" [ref=e1433] [cursor=pointer]:
+                  - /url: /lastcloudia/qa-top
+              - listitem [ref=e1434]:
+                - link "雑談掲示板" [ref=e1435] [cursor=pointer]:
+                  - /url: /lastcloudia/zatudan
+              - listitem [ref=e1436]:
+                - link "質問掲示板" [ref=e1437] [cursor=pointer]:
+                  - /url: /lastcloudia/situmon
+              - listitem [ref=e1438]:
+                - link "アリーナ掲示板" [ref=e1439] [cursor=pointer]:
+                  - /url: /lastcloudia/arenaban
+              - listitem [ref=e1440]:
+                - link "フレンド募集掲示板" [ref=e1441] [cursor=pointer]:
+                  - /url: /lastcloudia/friend
+              - listitem [ref=e1442]:
+                - link "ギルド募集掲示板" [ref=e1443] [cursor=pointer]:
+                  - /url: /lastcloudia/guildbosyu
+              - listitem [ref=e1444]:
+                - link "ガチャ結果報告掲示板" [ref=e1445] [cursor=pointer]:
+                  - /url: /lastcloudia/gachakeka
+              - listitem [ref=e1446]:
+                - link "友達招待掲示板" [ref=e1447] [cursor=pointer]:
+                  - /url: /lastcloudia/syoutai
+          - generic [ref=e1448]:
+            - generic [ref=e1449]: 権利表記
+            - list [ref=e1450]:
+              - listitem [ref=e1451]:
+                - text: ［提供］2018-2026 AIDIS Inc.
+                - text: ［執筆・編集］アルテマ
+              - listitem [ref=e1452]:
+                - text: ［コラボのコピーライト表記］
+                - text: ©SQUARE ENIX CO., LTD. All Rights Reserved.
+                - text: ©米スタジオ・Boichi/集英社・Dr.STONE製作委員会
+                - text: ©川上泰樹・伏瀬・講談社/転スラ製作委員会
+                - text: ©長月達平・株式会社KADOKAWA刊/Re:ゼロから始める異世界生活2製作委員会
+                - text: ©CAPCOM CO.,LTD.ALL RIGHTS RESERVED
+                - text: ©荒川弘/鋼の錬金術師製作委員会
+                - text: ©2017SQUARE ENIX.,LTD.All Rights Reserved.
+                - text: ©1995,2020 SQUARE ENIX CO.,LTD. All Rights Reserved.
+                - text: ©諫山創・講談社/「進撃の巨人」製作委員会
+                - text: ©ATLUS ©SEGA All rights reserved.
+                - text: TALES OF™ Series ＆ ©Bandai Namco Entertainment Inc.©いのまたむつみ ©藤島康介
+                - text: ©SEGA
+                - text: ©SUNRISE/PROJECT L-GEASS Character Design ©2006-2017 CLAMP・ST
+                - text: ©SQEX
+                - text: ©SQUARE ENIX
+                - text: ©諫山創・講談社/「進撃の巨人」The Final Season製作委員会
+                - text: ©丸山くがね・KADOKAWA刊/劇場版「オーバーロード」聖王国編製作委員会
+                - text: ©Nihon Falcom Corporation. All rights reserved.
+                - text: ©2019 コーエーテクモゲームス All rights reserved.
+                - text: ©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活3製作委員会
+              - listitem [ref=e1453]: ※アルテマに掲載しているゲーム内画像の著作権、商標権その他の知的財産権は、当該コンテンツの提供元に帰属します。
+              - listitem [ref=e1454]: ※当サイトはアルテマ攻略班が独自に作成したコンテンツを提供しております。
+              - listitem [ref=e1455]: ※当サイトが掲載しているデータ、画像等の無断使用・無断転載は固くお断りしております。
+        - iframe [ref=e1461]:
+          - iframe [ref=f12e4]:
+            - generic [active] [ref=f14e1]:
+              - generic [ref=f14e2]:
+                - generic [ref=f14e3]:
+                  - link [ref=f14e4] [cursor=pointer]:
+                    - /url: https://tr.ssp.bance.jp/ssp-track/click?adinf=yrYxsclXvVIMVEHc1xLkELToaoU-xBacfTaXvfCMtexaXHl6XEVJuaGON6rimu9q77qThfkK3Gmthzlio7kl9A&pfpuid=17jy-IT7V9P2Meg&url=https%3A%2F%2Ftr.dsp.bance.jp%2Fdsp-track%2Fclick%3Fadinf%3DEWPb786ZjaEyk2kcqsAafKrHbpcZUVBsuUtTdDRVBG6nZ1-KyHsvElDEhxZwPz1gVSQ3LbG-Pfv44XUW3U4U15rzP0qd5BaDmahCvy9V93Z9K3tRNercARJUrXNPbTxu
+                    - img [ref=f14e5]
+                  - img
+                - link "OptOut" [ref=f14e7] [cursor=pointer]:
+                  - /url: https://service.bance.jp/optout/
+                  - img [ref=f14e8]
+              - img
+    - generic [ref=e1463]:
+      - iframe [ref=e1469]:
+        - generic [active] [ref=f6e1]:
+          - generic [ref=f6e2]:
+            - generic [ref=f6e3]:
+              - link [ref=f6e4] [cursor=pointer]:
+                - /url: https://tr.ssp.bance.jp/ssp-track/click?adinf=d7XrV7pUUClQlMmXwsOk16NTW5sShEFAaT5TBDtGZGhnpHAyX_voGPwnJSWFLBMblVC6bHDeq8MFfn4OS8mXaA&pfpuid=17jy-IT7V9P2Meg&url=https%3A%2F%2Ftr.dsp.bance.jp%2Fdsp-track%2Fclick%3Fadinf%3Dy-0L_ko31XY53HCGxxSr_mS1Ld3Zm6dtA2pRTTi8cVGVDjUqXRhZ4o21Y7q0t1i6VuFP39h_CA3l_XrxP336rkWcaurrnwqjOKxHFu6UOmeVULpscN6rwwV-fg5LyZdo
+                - img [ref=f6e5]
+              - img
+            - link "OptOut" [ref=f6e7] [cursor=pointer]:
+              - /url: https://service.bance.jp/optout/
+              - img [ref=f6e8]
+          - img
+      - generic [ref=e1470]:
+        - generic [ref=e1471]: 人気のページランキング
+        - list [ref=e1472]:
+          - listitem [ref=e1473]:
+            - link "1 最強キャラ(ユニット)ランキング" [ref=e1474] [cursor=pointer]:
+              - /url: /lastcloudia/saikyokyara
+          - listitem [ref=e1475]:
+            - link "2 魔神メギウス(刹那の魔神メギウス)の評価とスキル/おすすめアーク" [ref=e1476] [cursor=pointer]:
+              - /url: /lastcloudia/chara/239
+          - listitem [ref=e1477]:
+            - link "3 最強アークランキング" [ref=e1478] [cursor=pointer]:
+              - /url: /lastcloudia/saikyoark
+          - listitem [ref=e1479]:
+            - link "4 DevilMayCry5の評価と習得スキル｜デビルメイクライ5コラボ" [ref=e1480] [cursor=pointer]:
+              - /url: /lastcloudia/ark/166
+          - listitem [ref=e1481]:
+            - link "5 デビルメイクライコラボ最新情報まとめ" [ref=e1482] [cursor=pointer]:
+              - /url: /lastcloudia/devilmaycry
+          - listitem [ref=e1483]:
+            - link "6 魔神メギウスガチャシミュレーター" [ref=e1484] [cursor=pointer]:
+              - /url: /lastcloudia/gachasim/85
+          - listitem [ref=e1485]:
+            - link "7 雑談掲示板" [ref=e1486] [cursor=pointer]:
+              - /url: /lastcloudia/zatudan
+          - listitem [ref=e1487]:
+            - link "8 全キャラ評価一覧" [ref=e1488] [cursor=pointer]:
+              - /url: /lastcloudia/charalist
+          - listitem [ref=e1489]:
+            - link "9 便利屋DevilMeyCryの評価と習得スキル｜デビルメイクライ5コラボ" [ref=e1490] [cursor=pointer]:
+              - /url: /lastcloudia/ark/110
+          - listitem [ref=e1491]:
+            - link "10 バージルの評価とスキル/おすすめアーク｜DMC5コラボ" [ref=e1492] [cursor=pointer]:
+              - /url: /lastcloudia/chara/131
+        - link "もっと見る" [ref=e1494] [cursor=pointer]:
+          - /url: /lastcloudia/ninki/
+      - link [ref=e1501] [cursor=pointer]:
+        - /url: https://tck.lmadps.jp/c?c=https%3A%2F%2Fcs.ad-drop.jp%2Fyie%2Fld%2Fck%3Fzid%3D80006310%26asid%3D50016737%26idx%3D0%26l%3DOS7jnUImkX0gpJB0ue6v9uKvGe0uXx2ifGgSHw2Yi1Wgco9e3ItHLgDqZwxauF0zSC2hsd3v6fUd7cj4r0_3vYgABpmC92wK3kM0QvtUQXQjYRWZzL8LxA8UetsjDZP5vTPrJEh9aMtGsUo-2JtZ4j8xozYIgtCUCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJIOxsym9cmMywYPN_fKG_0qsp7rbBwrI4mleKR_oWmFxB9aLzcytSW0arLPtIdRaaEuDXLSzxIC-aqBJH7RDEYIRd0JTpwklyWKA4ih7YASys-vUxXxxRG7LCpXRf6WjqjfXOGiuBRupDHIIqEI34wxE7TW2xTt75ZbD8oazPMRK0sXQLYR4LOJr6slMvBRlFIo6MiDeqYxzjg3iP9WqSZ6hUIL2YrlhQnFrewy407i46nBMiR4EBHNJR0xMBl3PnvnW5GS-LWE_1kdcK85iTuTdw2ndva0ebrgf6reziH-C6pH7G3js7aXN0qjRQnr2l2AZeYC_bz3LtMSZlbWzux1BcrxGjZJZOFfvxFLmyJ2n%26dest%3D&y=1&p=tHkGmHBUtdV8&do=https%3A%2F%2Fh5.g123.jp%2Fgame%2Fvividarmy%3Fplatform%3Dadroute%26utm_source%3Dadroute%26utm_campaign%3Dvividarmy_ja_NewDisplayCreateroleB_adn_pc%26utm_adgroup%3Dcr_normal%26lang%3Dja%26utm_content%3Dvivid20250912_ja_adroute04_600-500.jpg%26gsckid%3Dv2_107_zp3Y_x0KzxuuQ9nSAZT9EoqblWTwgslscH11Idg6_nN-gOAMUyI2kyfWAvjK4uqsO9La2Pj_ZXiQktV58pzB9Kuetf6GAgEU4OYDVNOq7gY%26utm_term%3D80006310&vs=v2_B2mIfiCKZddpHdITasTcGVbchG0F_ku2KKUZ1IywGoxnjapKqC7EWL6E5TZqVp0QyKcjwHAxd6Q66p_VaUCAF-Vd0m_caNt0ZsoW_NEpHq4t7efo-SgSQP1fQS4NCTsHoh75LYJDLhirQEbxNuru24y__uyd5ZvWne1GLn94ed_KGfT29QhQ9sS86YQ3U0p7KlgC2OEKy35yHS3cCsY8MBsV3pZqzaixFB9lP2TvlAB_myVwW9YKL1rZOjMofynmMEXHHzE3dMiq4qGpOurBPWx994ORPjUhYqZCa98cjvJf3ttkSdgRUfLn0c7uhc6RsX6U7VEvt7-Uh-21u34GmjcUYp9whN9YXMm1nGu345Q5kLX63z9p1UB5A0OnXFyr9nbJi5sTUxSctfeT8Piq9MLNLn-8sRdf93bKwJmnN77iF54NLNERjpK4jWqHT022mRmE2ylqaOS-47DZbeEltNHzA0ENP5b0U1w6dCKt8rxMZq2yf1dkJfUUpRGEQN4ojOyHqtexDbbWEpF7xN8q0qg-mAxv5owYbagRBSMGCY8fyBZ-Nx2tuwPyUGVoCeRc0C_GSogjCKa31bci4KKpJJP8soyJGBSTTN26trZJxeCLId9wiAmBjG15Vk6bpOqSMQIIIlFZ3a8QL1upUCrJEpOd-vKZfTfRRe1vvsl-qgxaFGLUABHq_Dy9Wx3p1tqSO9WLBZbRa3Wsn-7Hvoc_V3-5JAqElIpndtoUERB4HLpyE02tQo6iNJ6t
+        - img [ref=e1502]
+      - generic [ref=e1503]:
+        - generic [ref=e1504]: Q&Aメニュー
+        - list [ref=e1505]:
+          - listitem [ref=e1506]:
+            - link "Q&A TOP" [ref=e1507] [cursor=pointer]:
+              - /url: /lastcloudia/qa-top
+          - listitem [ref=e1508]:
+            - link "新規登録・ログイン" [ref=e1509] [cursor=pointer]:
+              - /url: /signup
+          - listitem [ref=e1510]:
+            - link "マイページ" [ref=e1511] [cursor=pointer]:
+              - /url: /mypage
+      - generic [ref=e1512]:
+        - generic [ref=e1513]: ラスクラ公式WEBショップ
+        - paragraph [ref=e1514]:
+          - link "rectangle3_2 (1)" [ref=e1515] [cursor=pointer]:
+            - /url: /lastcloudia/gmokakin?_owp=W5w58uDAcChvQGlR0AXTrwAdMaGe3DAdMaGe3D&amp;utm_source=gmo&amp;utm_medium=PCrectangle&amp;utm_campaign=click
+            - img "rectangle3_2 (1)" [ref=e1516]
+      - generic [ref=e1518]:
+        - generic [ref=e1519]: 最新のQA
+        - generic [ref=e1520]:
+          - link "最新" [ref=e1522] [cursor=pointer]:
+            - /url: /lastcloudia/qa-top
+          - text: "|"
+          - link "ランキング" [ref=e1524] [cursor=pointer]:
+            - /url: /lastcloudia/qa-top?action=ranking
+        - list [ref=e1525]:
+          - listitem [ref=e1526]:
+            - link "ブラックダイヤモンド" [ref=e1527] [cursor=pointer]:
+              - /url: /lastcloudia/qa-item/240
+          - listitem [ref=e1528]:
+            - link "剣を一つだけ装備時" [ref=e1529] [cursor=pointer]:
+              - /url: /lastcloudia/qa-item/239
+          - listitem [ref=e1530]:
+            - link "ゴルド鉱山" [ref=e1531] [cursor=pointer]:
+              - /url: /lastcloudia/qa-item/238
+          - listitem [ref=e1532]:
+            - link "友達招待をするには" [ref=e1533] [cursor=pointer]:
+              - /url: /lastcloudia/qa-item/237
+          - listitem [ref=e1534]:
+            - link "ラドール村 魔導士の亡霊の倒し方" [ref=e1535] [cursor=pointer]:
+              - /url: /lastcloudia/qa-item/236
+        - link "もっとみる" [ref=e1537] [cursor=pointer]:
+          - /url: /lastcloudia/qa-top
+      - link [ref=e1546] [cursor=pointer]:
+        - /url: https://tck.lmadps.jp/c?c=https%3A%2F%2Fcs.ad-drop.jp%2Fyie%2Fld%2Fck%3Fzid%3D80006311%26asid%3D50016735%26idx%3D0%26l%3DHT7aAABc04cziKF-VkIiiH4bULCG2Q-VYWW8zKYJuM5nB5G6tf-4f94yth7l2lCkH2L5y-Iwlw48_pYzV0R4X9tgStJQFInFnYye7IMrAe0jYRWZzL8LxA8UetsjDZP5vTPrJEh9aMtGsUo-2JtZ4j8xozYIgtCUCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJJl0eo75jMt-wYPN_fKG_0r6KnZc3Ld_L2leKR_oWmFxB9aLzcytSW0arLPtIdRaaEuDXLSzxIC-aqBJH7RDEYIRd0JTpwklyWKA4ih7YASys-vUxXxxRG7LCpXRf6WjqjfXOGiuBRupDHIIqEI34wxE7TW2xTt75ZbD8oazPMRK0sXQLYR4LOJr6slMvBRlFIo6MiDeqYxzjg3iP9WqSZ6hUIL2YrlhQnFrewy407i46nBMiR4EBHNJR0xMBl3PngTr8SfEzKU-LICAqsZC9JRjYZWMly78nKnFnlVNioAAgQ0Welt5mkip48r11BNWz3H7WaeQQBZOA_VBfHEa4mlGdXp9w5eYI_hrDXK9d_Hz_WbZ5bexlMk%26dest%3D&y=1&p=tHv2SUaB0dAi&do=https%3A%2F%2Fh5.g123.jp%2Fgame%2Fvividarmy%3Fplatform%3Dadroute%26utm_source%3Dadroute%26utm_campaign%3Dvividarmy_ja_NewDisplayCreateroleB_adn_pc%26utm_adgroup%3Dcr_normal%26lang%3Dja%26utm_content%3Dvividarmy_ja_art-A000D3JR-purupuru0902_600-500.jpg%26gsckid%3Dv2_107_HWK44JM-I6uftnl2yZGXvDAyLOpm1D1cgi_uHvuvCCbzklnv6SouGoegHpV59CIVdC27hb6KRgzr6uM_bsculnVXEFlA4uGaqA2MPlfeXaw%26utm_term%3D80006311&vs=v2_CArvIQsB--d1qZw2vUbm9Hd6dTO4Jk5WEpPP4Una-eOYZhF9AHgTYLOvLzD1CAEMyKs3Ox1cV9P_cR8hKLmnKaTls3dAo5IE5Yls8_2ny2tccawp0rDasr-PdgAv02oZU1TLOLFwRCklIVhkdacEA9EnMLmFOubm7uSkRUaSp_lNYQdhylwUVXzDHTJ8WIuXNUh5VsXPPq5EcpB542bokbwoQLALl0tLOaTBhcCiKlBWrAhATioGcYdGUnVqK72Za_mCZxUFp7rg0JtFqU5V3SRzL0RaYNV3Egvqe2iNUtPJXFYPcoGexJosSCxf7I4wcV3Qrz8e814cSKC5Fi26s1pGHC34KuVt1LYiyBJ-zq_C44Xqrf0KogqlPshMAGxPUojG0C8mQSDaqqli0U7oC2RPCIBcssciSNT0zE4fCH_gnPXPAAtdrzCvbBs-6EBtE4jEIy8o4cM9l2XPY7mmUAlhYWhRWlOSAudHMYMhhk7H8x4gp8SOxjdHpLeJ74Ic3gP7y4OWFC1X4qYXiP-_qS1bln3VnepPwaioxiYF8MbxJm9t_IQh9rNlcwhoKYvg3d7iqBYG778icchwB1aCP_jpDzvUAMnjhrCwc1rgXUULZ7OxXStTBaTvDocTDMrTRwh8RneiD3i7MPvFBnuZL5sj_hFCYKSBhQd2uYTRGK42CuXK6a6XCtNJ_X2li9znvwdiYMbTxtLZhP0SWkAhov__rgIH-mMFomqRJbB-C9M-WOp37dUIR1TO
+        - img [ref=e1547]
+      - generic [ref=e1549]:
+        - generic [ref=e1550]: 最近のコメント
+        - list [ref=e1551]:
+          - listitem [ref=e1552]:
+            - link "雑談掲示板" [ref=e1553] [cursor=pointer]:
+              - /url: /lastcloudia/zatudan#comment-107564
+            - text: に 名無し より
+          - listitem [ref=e1554]:
+            - link "雑談掲示板" [ref=e1555] [cursor=pointer]:
+              - /url: /lastcloudia/zatudan#comment-107563
+            - text: に 名無し より
+          - listitem [ref=e1556]:
+            - link "ガチャ結果報告掲示板" [ref=e1557] [cursor=pointer]:
+              - /url: /lastcloudia/gachakeka#comment-107562
+            - text: に 名無し より
+          - listitem [ref=e1558]:
+            - link "ガチャ結果報告掲示板" [ref=e1559] [cursor=pointer]:
+              - /url: /lastcloudia/gachakeka#comment-107561
+            - text: に 名無し より
+          - listitem [ref=e1560]:
+            - link "ガチャ結果報告掲示板" [ref=e1561] [cursor=pointer]:
+              - /url: /lastcloudia/gachakeka#comment-107560
+            - text: に む ぐ も ん より
+          - listitem [ref=e1562]:
+            - link "アリーナ掲示板" [ref=e1563] [cursor=pointer]:
+              - /url: /lastcloudia/arenaban#comment-107559
+            - text: に 名無し より
+          - listitem [ref=e1564]:
+            - link "アリーナ掲示板" [ref=e1565] [cursor=pointer]:
+              - /url: /lastcloudia/arenaban#comment-107558
+            - text: に む ぐ も ん より
+          - listitem [ref=e1566]:
+            - link "質問掲示板" [ref=e1567] [cursor=pointer]:
+              - /url: /lastcloudia/situmon#comment-107557
+            - text: に 名無し より
+          - listitem [ref=e1568]:
+            - link "雑談掲示板" [ref=e1569] [cursor=pointer]:
+              - /url: /lastcloudia/zatudan#comment-107556
+            - text: に 名無し より
+          - listitem [ref=e1570]:
+            - link "雑談掲示板" [ref=e1571] [cursor=pointer]:
+              - /url: /lastcloudia/zatudan#comment-107555
+            - text: に む ぐ も ん より
+      - iframe [ref=e1578]:
+        - generic [active] [ref=f8e1]:
+          - generic [ref=f8e2]:
+            - generic [ref=f8e3]:
+              - link:
+                - /url: https://tr.dsp.bance.jp/dsp-track/click-tag?adinf=7MKNB-MvJt7lXBgmXeVjMTbIGF_zgtaJitbYH_q1Ymp1Bpd_SQOYfhTgG43mZlWlDPKgXQJWQjVm_WBjIrJIIUWcaurrnwqjOKxHFu6UOmeVULpscN6rwwV-fg5LyZdo&lurl=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3DGa9IFGZs%26bnc_clickid%3D%7BBNC_CLICK_ID%7D
+              - img
+              - img
+              - img
+              - img
+              - img
+              - img
+            - link "OptOut" [ref=f8e6] [cursor=pointer]:
+              - /url: https://service.bance.jp/optout/
+              - img [ref=f8e7]
+          - img
+          - img
+      - generic [ref=e1580]:
+        - generic [ref=e1581]: おすすめニュース
+        - generic [ref=e1582]:
+          - link "サムネイル" [ref=e1585] [cursor=pointer]:
+            - /url: https://nippon1review.jp/review9
+            - img "サムネイル" [ref=e1586]
+          - list [ref=e1587]:
+            - listitem [ref=e1589]:
+              - link "サムネイル 【PR】シニガミ姫と異書館ノ怪物が発売！" [ref=e1590] [cursor=pointer]:
+                - /url: https://nippon1review.jp/
+                - img "サムネイル" [ref=e1592]
+                - generic [ref=e1594]: 【PR】シニガミ姫と異書館ノ怪物が発売！
+            - listitem [ref=e1596]:
+              - link "サムネイル 【どうぶつマフィア】プレイレビュー！" [ref=e1597] [cursor=pointer]:
+                - /url: /review54
+                - img "サムネイル" [ref=e1599]
+                - generic [ref=e1601]: 【どうぶつマフィア】プレイレビュー！
+            - listitem [ref=e1603]:
+              - link "サムネイル 【ドット覇道】プレイレビュー！" [ref=e1604] [cursor=pointer]:
+                - /url: /dothadou
+                - img "サムネイル" [ref=e1606]
+                - generic [ref=e1608]: 【ドット覇道】プレイレビュー！
+            - listitem [ref=e1610]:
+              - link "サムネイル 【G123】で遊べるおすすめ無料ブラウザゲーム5選" [ref=e1611] [cursor=pointer]:
+                - /url: /reviewg123
+                - img "サムネイル" [ref=e1613]
+                - generic [ref=e1615]: 【G123】で遊べるおすすめ無料ブラウザゲーム5選
+      - generic [ref=e1617]:
+        - generic [ref=e1618]: スマホゲー攻略タイトル一覧
+        - list [ref=e1619]:
+          - listitem [ref=e1620]:
+            - link "Gジェネエターナル Gジェネエターナル" [ref=e1621] [cursor=pointer]:
+              - /url: /ggeneeternal
+              - img "Gジェネエターナル" [ref=e1622]
+              - text: Gジェネエターナル
+          - listitem [ref=e1623]:
+            - link "アークナイツエンドフィールド アークナイツエンドフィールド" [ref=e1624] [cursor=pointer]:
+              - /url: /akendfield
+              - img "アークナイツエンドフィールド" [ref=e1625]
+              - text: アークナイツエンドフィールド
+          - listitem [ref=e1626]:
+            - link "ウィンヒロ ウィンヒロ" [ref=e1627] [cursor=pointer]:
+              - /url: /winhiro
+              - img "ウィンヒロ" [ref=e1628]
+              - text: ウィンヒロ
+          - listitem [ref=e1629]:
+            - link "ドルフィンウェーブ ドルフィンウェーブ" [ref=e1630] [cursor=pointer]:
+              - /url: /dolphinwave
+              - img "ドルフィンウェーブ" [ref=e1631]
+              - text: ドルフィンウェーブ
+          - listitem [ref=e1632]:
+            - link "逆水寒 逆水寒" [ref=e1633] [cursor=pointer]:
+              - /url: /gyakusuikan
+              - img "逆水寒" [ref=e1634]
+              - text: 逆水寒
+          - listitem [ref=e1635]:
+            - link "どうぶつマフィア どうぶつマフィア" [ref=e1636] [cursor=pointer]:
+              - /url: /animalmafia
+              - img "どうぶつマフィア" [ref=e1637]
+              - text: どうぶつマフィア
+          - listitem [ref=e1638]:
+            - link "アナデン アナデン" [ref=e1639] [cursor=pointer]:
+              - /url: /anaden
+              - img "アナデン" [ref=e1640]
+              - text: アナデン
+          - listitem [ref=e1641]:
+            - link "キングショット キングショット" [ref=e1642] [cursor=pointer]:
+              - /url: /kingshot
+              - img "キングショット" [ref=e1643]
+              - text: キングショット
+          - listitem [ref=e1644]:
+            - link "ドット異世界 ドット異世界" [ref=e1645] [cursor=pointer]:
+              - /url: /isekaiparty
+              - img "ドット異世界" [ref=e1646]
+              - text: ドット異世界
+          - listitem [ref=e1647]:
+            - link "ポケモンフレンズ ポケモンフレンズ" [ref=e1648] [cursor=pointer]:
+              - /url: /pokemonfriends
+              - img "ポケモンフレンズ" [ref=e1649]
+              - text: ポケモンフレンズ
+          - listitem [ref=e1650]:
+            - link "メビウスフロントライン メビウスフロントライン" [ref=e1651] [cursor=pointer]:
+              - /url: /mebiusfrontline
+              - img "メビウスフロントライン" [ref=e1652]
+              - text: メビウスフロントライン
+          - listitem [ref=e1653]:
+            - link "モンハンNow モンハンNow" [ref=e1654] [cursor=pointer]:
+              - /url: /mhnow
+              - img "モンハンNow" [ref=e1655]
+              - text: モンハンNow
+          - listitem [ref=e1656]:
+            - link "おなごオーナーズ おなごオーナーズ" [ref=e1657] [cursor=pointer]:
+              - /url: /onagoowners
+              - img "おなごオーナーズ" [ref=e1658]
+              - text: おなごオーナーズ
+          - listitem [ref=e1659]:
+            - link "ホワイトアウトサバイバル ホワイトアウトサバイバル" [ref=e1660] [cursor=pointer]:
+              - /url: /whiteoutsurvival
+              - img "ホワイトアウトサバイバル" [ref=e1661]
+              - text: ホワイトアウトサバイバル
+          - listitem [ref=e1662]:
+            - link "ワンコレ ワンコレ" [ref=e1663] [cursor=pointer]:
+              - /url: /bmwc
+              - img "ワンコレ" [ref=e1664]
+              - text: ワンコレ
+          - listitem [ref=e1665]:
+            - link "グランドサマナーズ グランドサマナーズ" [ref=e1666] [cursor=pointer]:
+              - /url: /grandsummoners
+              - img "グランドサマナーズ" [ref=e1667]
+              - text: グランドサマナーズ
+        - paragraph [ref=e1668] [cursor=pointer]:
+          - link "▶攻略タイトル一覧はこちら" [ref=e1669]:
+            - /url: /gamelist
+        - generic [ref=e1670]: コンシューマー攻略タイトル一覧
+        - list [ref=e1671]:
+          - listitem [ref=e1672]:
+            - link "ドラクエ1&2リメイク ドラクエ1&2リメイク" [ref=e1673] [cursor=pointer]:
+              - /url: /dq1-2
+              - img "ドラクエ1&2リメイク" [ref=e1674]
+              - text: ドラクエ1&2リメイク
+          - listitem [ref=e1675]:
+            - link "ポケモンZA ポケモンZA" [ref=e1676] [cursor=pointer]:
+              - /url: /legendsza
+              - img "ポケモンZA" [ref=e1677]
+              - text: ポケモンZA
+          - listitem [ref=e1678]:
+            - link "FFタクティクス FFタクティクス" [ref=e1679] [cursor=pointer]:
+              - /url: /fft
+              - img "FFタクティクス" [ref=e1680]
+              - text: FFタクティクス
+          - listitem [ref=e1681]:
+            - link "モンスターハンターワイルズ モンスターハンターワイルズ" [ref=e1682] [cursor=pointer]:
+              - /url: /mhwilds
+              - img "モンスターハンターワイルズ" [ref=e1683]
+              - text: モンスターハンターワイルズ
+          - listitem [ref=e1684]:
+            - link "あつ森 あつ森" [ref=e1685] [cursor=pointer]:
+              - /url: /atsumori
+              - img "あつ森" [ref=e1686]
+              - text: あつ森
+          - listitem [ref=e1687]:
+            - link "サイレントヒルf サイレントヒルf" [ref=e1688] [cursor=pointer]:
+              - /url: /silenthillf
+              - img "サイレントヒルf" [ref=e1689]
+              - text: サイレントヒルf
+          - listitem [ref=e1690]:
+            - link "ドラクエ3 ドラクエ3" [ref=e1691] [cursor=pointer]:
+              - /url: /dq3
+              - img "ドラクエ3" [ref=e1692]
+              - text: ドラクエ3
+          - listitem [ref=e1693]:
+            - link "ファンタジーライフi ファンタジーライフi" [ref=e1694] [cursor=pointer]:
+              - /url: /fantasylifei
+              - img "ファンタジーライフi" [ref=e1695]
+              - text: ファンタジーライフi
+          - listitem [ref=e1696]:
+            - link "ブレイブリーデフォルトFF ブレイブリーデフォルトFF" [ref=e1697] [cursor=pointer]:
+              - /url: /bdff
+              - img "ブレイブリーデフォルトFF" [ref=e1698]
+              - text: ブレイブリーデフォルトFF
+          - listitem [ref=e1699]:
+            - link "マリオカートワールド マリオカートワールド" [ref=e1700] [cursor=pointer]:
+              - /url: /mariocartworld
+              - img "マリオカートワールド" [ref=e1701]
+              - text: マリオカートワールド
+          - listitem [ref=e1702]:
+            - link "龍の国ルーンファクトリー 龍の国ルーンファクトリー" [ref=e1703] [cursor=pointer]:
+              - /url: /runefactoryryu
+              - img "龍の国ルーンファクトリー" [ref=e1704]
+              - text: 龍の国ルーンファクトリー
+          - listitem [ref=e1705]:
+            - link "デルタルーン デルタルーン" [ref=e1706] [cursor=pointer]:
+              - /url: /deltarune
+              - img "デルタルーン" [ref=e1707]
+              - text: デルタルーン
+        - paragraph [ref=e1708] [cursor=pointer]:
+          - link "▶攻略タイトル一覧はこちら" [ref=e1709]:
+            - /url: /gamelist
+      - generic [ref=e1710]:
+        - generic [ref=e1711]: アルテマポイント
+        - link "アルテマポイント" [ref=e1712] [cursor=pointer]:
+          - /url: /giftcard
+          - img "アルテマポイント" [ref=e1713]
+        - paragraph [ref=e1714]: ゲーム攻略サイト「アルテマ」が運営するアルテマポイントは、ポイントを貯めるとギフトコードに交換できるお得な無料サービスです。
+        - link "アルテマポイントの詳細はこちら" [ref=e1715] [cursor=pointer]:
+          - /url: /giftcard
+      - generic [ref=e1717]:
+        - generic [ref=e1718]: 好きなゲームの知識を活かした仕事をしよう！
+        - paragraph [ref=e1719]:
+          - link [ref=e1720] [cursor=pointer]:
+            - /url: /gamearubaito
+            - img [ref=e1721]
+      - link [ref=e1728] [cursor=pointer]:
+        - /url: https://tck.lmadps.jp/c?c=https%3A%2F%2Fcs.focas.jp%2Fyie%2Fld%2Fck%3Fzid%3D80013772%26asid%3D50033893%26idx%3D0%26l%3DQXxn3z0sX6SRLkjv3hlgx_eNMkh4-3pPyRPu7Pp3N3zj9iRqRrSg-3729Smt2VwFLpXW_igbq79HaJPFtQ0yI0Xy_6gfxOp_MfR6abyi-vhfLYOj9qqEYClGxJgp1xqvk2Bw8KYiaAfQ7HFgcKzZKfpAejg1-mNXCRh-xs8fVqRRka6rgDqsUG2pnIHePm8Ahlii6fCqbr4gdT5qBJGrhkbLwssGyuF1JhA_IYGXrxeMr1RmbeUGuU2my1B71FlYRypPFQL2N70YSmVGTqo8RF_0ePQ_qWdjuiqcELpDCKO0kbjnWslL3F2Xc-bYeVS7fkCIO1N8xxORBG0Rpsb6zHmXfbUT_Z5do4zNy6El4K9V7uyZhgZ6F6G4SqASfkoyJxA3BEJ-UR-qXf3gUI4UJJl0eo75jMt-wYPN_fKG_0pRKlpRgSSGH2leKR_oWmFxB9aLzcytSW0arLPtIdRaaEuDXLSzxIC-aqBJH7RDEYIRd0JTpwklyWKA4ih7YASys-vUxXxxRG7LCpXRf6WjqjfXOGiuBRupDHIIqEI34wxE7TW2xTt75ZbD8oazPMRK0sXQLYR4LOJr6slMvBRlFIo6MiDeqYxzjg3iP9WqSZ6hUIL2YrlhQnFrewy407i46nBMiR4EBHNJR0xMBl3PnvnW5GS-LWE_1kdcK85iTuTdw2ndva0ebiWgKfrX-ZrZE3hYniCi77rN0qjRQnr2l2AZeYC_bz3LtMSZlbWzux1BcrxGjZJZOFfvxFLmyJ2n%26dest%3D&y=1&p=txBwlXvbPc2t&do=https%3A%2F%2Fh5.g123.jp%2Fgame%2Fvividarmy%3Fplatform%3Dadroute%26utm_source%3Dadroute%26utm_campaign%3Dvividarmy_ja_NewDisplayCreateroleB_adn_pc%26utm_adgroup%3Dcr_normal%26lang%3Dja%26utm_content%3Dvivid20250912_ja_adroute09_300-600.jpg%26gsckid%3Dv2_107_ioILgMcSQkTx5tkrDOcDs2Py9KoJ9tsZNlINu4s_OsPIUvDb27B3Nzo2w0VDuAFhYuSS0y5OMrE6PwK_wbsjWIlYEsesPO7_alpWIyLOOPw%26utm_term%3D80013772&vs=v2_pTHs5rANVTN1ltNsYQ97Bp6-AOAL759Ed4B16o1w4hYv3PPGXNWYqtWaHIonE28l5kEhVYsfE8puJhLcPDyqOmNA-MJmQatAFk2iLeDdfLbFrIsXxDcMZ10KCEgPFfiW4NsA0nkDWHt7drDKDQBJD9a4za-OvyHsZMK1lnPUmNn8OAq7t1zMlg9684ZK34In0ckdMjOXiNg3MPPXSJ_NB7qKddeA1V0Dk1nLVdcR_snt2Z_C6SIwJczQX9s_qazVvmdF9TLUmAgio766L98muajE4PWZ8LapDKdBa2pacCWCaHUrSRq_yTVnvm8RBJXLWV9gqHRWhpd4_JnJFSK-94maSYPI-SvfqkgCcKF3GxVH-giNIQu5p31_x_npzyVThcg-OWJPpqAhh1Eb6nr9PQdP93ba3GV2Eo1-Esc9INX6cxhovpefmqaG70MugUaDgRlMWa9HmBXehD1LfHBgixgYrBJbXSaBcA4BSWdtBjwlKJCeyHpn3Q2X3cZS7yNkDROSjw_wO52w5ivDUhhTsA12NiDCYEKvbK_xL-OVFa-fJ-oncR6yULr9SXXrGYpMBqhVQJgr7uAFlXBs8IvOMfRdR831Glb5oyIRpTX3M78Tr5sBkemgEHtEx_rqyCGOx8848-f6zUy3yfddP_FAfvYzVddA_hFjoM1DIXf8WtTQAAK1C4rbGR7zaH0vAn1mu9Kj7FyZl2VMGKACvTzalm0yTUB72L8rUkjs-oA-DIATR8x29vxvlCw
+        - img [ref=e1729]
+  - iframe [ref=e1734]:
+    - iframe [ref=f11e4]:
+      - generic [active] [ref=f13e1]:
+        - img
+  - generic [ref=e1736]:
+    - generic [ref=e1737]:
+      - generic [ref=e1738]:
+        - heading "ラストクラウディア(ラスクラ)攻略 アルテマについて" [level=3] [ref=e1739]
+        - generic [ref=e1741]: ラストクラウディア攻略サイトは、アルテマが運営しているゲーム攻略サイトです。ラストクラウディア攻略班一同、最新情報をいち早く更新できるように努めてまいります。また、当サイトは基本的にリンクフリーです。
+      - generic [ref=e1742]:
+        - img "東証上場証券コード6578" [ref=e1744]
+        - generic [ref=e1745]:
+          - text: アルテマは東証スタンダード上場の株式会社コレックが運営しています。
+          - text: 証券コード：6578
+    - generic [ref=e1747]:
+      - list [ref=e1748]:
+        - listitem [ref=e1749]:
+          - link "究極のゲーム攻略サイト『アルテマ』" [ref=e1750] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e1751]:
+          - link "アルテマの想い" [ref=e1752] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e1753]:
+          - link "取材やインタビューについて" [ref=e1754] [cursor=pointer]:
+            - /url: /contact-interview
+        - listitem [ref=e1755]:
+          - link "事業提携や公式サイトについて" [ref=e1756] [cursor=pointer]:
+            - /url: /contact-cooperation
+        - listitem [ref=e1757]:
+          - link "利用規約" [ref=e1758] [cursor=pointer]:
+            - /url: /rule
+        - listitem [ref=e1759]:
+          - link "広告掲載について" [ref=e1760] [cursor=pointer]:
+            - /url: /syohin
+        - listitem [ref=e1761]:
+          - link "お問い合わせ" [ref=e1762] [cursor=pointer]:
+            - /url: /contact
+        - listitem [ref=e1763]:
+          - link "サイトマップ" [ref=e1764] [cursor=pointer]:
+            - /url: /lastcloudia/sitemap
+        - listitem [ref=e1765]:
+          - link "運営会社" [ref=e1766] [cursor=pointer]:
+            - /url: /company-information
+        - listitem [ref=e1767]:
+          - link "ライター募集" [ref=e1768] [cursor=pointer]:
+            - /url: https://www.correc.co.jp/recruit/career/
+      - list [ref=e1769]:
+        - listitem [ref=e1770]:
+          - link "ゲーム攻略ライター募集" [ref=e1771] [cursor=pointer]:
+            - /url: /gamearubaito
+        - listitem [ref=e1772]:
+          - link "プライバシーポリシー" [ref=e1773] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=e1774]:
+          - link "外部送信先一覧" [ref=e1775] [cursor=pointer]:
+            - /url: /gaibusoushin-kiritsu
+  - paragraph [ref=e1777]:
+    - generic [ref=e1778]: Copyright (C) 2026 ラストクラウディア(ラスクラ)攻略wiki All Rights Reserved.
+  - generic [ref=e1780]:
+    - img [ref=e1781]
+    - link [ref=e1784] [cursor=pointer]:
+      - /url: https://rt.gsspat.jp/c?c=https%3A%2F%2Fcs.ad-drop.jp%2Fyie%2Fld%2Fck%3Fzid%3D80022847%26asid%3D50057266%26idx%3D0%26l%3D5RTMTKxQEPtL0bXmDJYl5YA4F7AispguKQJ6dPCEdEZyeMx3gtQPiHMnJ0QJ--ZjxcDxo8iQitVDU1J8VWtngGOMyfb6e_3bbALUyulRxtwjYRWZzL8LxA8UetsjDZP5Q63CFOdqlhbgmmFIfPiUeKxhegLas-J6eDQ9f_dM9ig0rsmt-nnN-gEjNkgR1LsSHZKj1gTJcNW33aqPzuLVnJSA65OqdlK10Mo4jBCKEGyQrhrZGP-K4VZ6djf-BOL-uVWyGMZ4aGs0VEH1-kptVD_cebxhiuvRnRM-IOyj-TJ66xfaSRb20yb00I6v2cPW46NpqIH6CYMkbhLm-zVBqknfvPgQ8lEsTFrkdJ4vRD67CqJKUdw6dYWY0s5broYbxiYb72u0B9_pq3UBQdjSapdNw0HwkP3xRL9SWgf9dPkgm0JewhsiOJ-oJWrUSNAUfhO6okB_spEgk42CvbHo8-X8iAW0QCx9EhfoW2CLEQK0dl4l_h2D24dQtf9ajVP3EYtNxN4HYm4m9m-tsCl-0g%26dest%3D&y=1&p=txBwl3MsCgjH&do=https%3A%2F%2Frcv.ixd.dmm.com%2Fapi%2Fsurl%3Furid%3DrbZDo0NT%26gsclickid%3Dv2_107_caV0mRuxKxrj8JHHRUqfI-Q05bCtD_192D2bnT2rWvhv1u9B31CmTY7JcOgNIsQVUjw2jFJXS873-ddpKUu5ujC84sr1T6s8sSsQnceTdDA&vs=v2_ycRi1dIHOAwNG-fBRFgBd48T2w5AVPAKql3JxV0k--D_pkxEYdgLUsAmAhxLorh0Hnua8Mu4mr4jGBL9sUi6h87ePc-AWHQ44OMrkFHYjQ05BBPudrdBVbz-L7AwKAiuH8CCI7Cw-c7hamjHqRYc50No0ENHVAL11fhnYqB7LKwl9S3D-JUk26cylptquAg9BQRrin8xGOV1dcknDAG6v8WggBsqzMKa5l1CC2qZsHCA4t2OBWc4FzYUoqLRcpTN40XBq1ZiUMlFsbGSSQre6_Ijah0vaCIb6us25qDIpda2c_DiiCcuqEv_DsE6mXvF6FjwqHq5Z09xwqv6AS5WzTICUq7-yimT9dGM00hVICKSpkxSdSs5AaoVpf-BFaJrEFkRLPbeFWL9XTaJzDbqkuQEAXtanPqoqh_TrlRhd1M2kHQ7Vn1A0DCYHOANkbHsMvZiIN6zdMDoBdHLBKUHi_Pmj4KYSzEI451RbM6QtQDK7MFW31i2fHVBhnB53XNZXAz8uXrDlnJo7J6zj36N00fTMURBLdusoN-lx54mTF2tigsSwmn6RHYi6L-c3540EJvvcrN6Mpcc-uSsHpTFsa2alP-GFSU5gnvspWHeM-bD7eGaW039p2gXzU7YoFA_xN8gspmrQFduQFEL_cptTKP1WJOHFq4nZ9fCmcW-A5oVf3eVEeCtI2-TXFJBiDdKgL8nJ3sm7ohE4cSx2gndxxqnKWvbrf0A9Suqew
+      - img [ref=e1785]
