@@ -1,0 +1,75 @@
+name: Daily Data Update and Deploy
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC (Adjust as needed)
+    - cron: '0 0 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+        # If npm ci fails (no lockfile), fall back to npm install
+        continue-on-error: true
+
+      - name: Install dependencies (fallback)
+        if: failure()
+        run: npm install
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium
+
+      - name: Run Data Scraper
+        run: node fetch-all-arks.js --ci
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add arks-data.json
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to data."
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Data updated."
+          fi
+
+      - name: Commit and Push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git commit -m "chore: auto-update arks data [skip ci]"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
