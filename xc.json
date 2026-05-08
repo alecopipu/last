@@ -18,8 +18,8 @@
     "siteUrl":"http://127.0.0.1:9999",
     "count":4,
     "channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
 }
 },
 {
@@ -40,14 +40,14 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
 
     "key":"苹果",
     "name":"🍎苹果4K✨免扫码✅",
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/jar/20260421.txt",
+    "jar":"https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/jar/20260421.txt",
     "type":3,
     "api":"csp_AppDrama",
     "searchable":1,
@@ -72,7 +72,7 @@
     "name":"🍊橘汁4K✨免扫码✅",
     "type":3,
     "api":"csp_AppDrama",
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/jar/20260421.txt",
+    "jar":"https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/jar/20260421.txt",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
@@ -122,7 +122,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -291,7 +291,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
+    "ext":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"
 },
 {
 
@@ -314,7 +314,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
+    "ext":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
 },
 {
 
@@ -372,7 +372,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/低端影视.json"
+    "ext":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/低端影视.json"
 },
 {
 
@@ -385,7 +385,7 @@
     "filterable":1,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -500,7 +500,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/嗷呜动漫.json"
+    "ext":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/嗷呜动漫.json"
 },
 
 {
@@ -715,7 +715,7 @@
     "ext":{
 
     "siteUrl":"https://www.qwnull.com",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -736,7 +736,7 @@
     "花絮"
 ]
 },
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -749,7 +749,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://wogg.xxooo.cf",
     "https://woggpan.888484.xyz",
@@ -757,7 +757,7 @@
     "http://woggpan.xxooo.cf",
     "https://www.wogg.one"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 
@@ -771,7 +771,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://www.2xiaopan.top",
     "https://2xiaopan.top",
@@ -779,7 +779,7 @@
     "https://www.2xiaozhan.top",
     "https://wexwp.cc"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -792,7 +792,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://mihdr.top",
     "https://www.miqk.cc",
@@ -801,7 +801,7 @@
     "https://www.mihdr.top",
     "https://www.zhizhenpan.fun"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -814,12 +814,12 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "http://xhban.xyz:20720",
     "http://154.222.27.33:20720"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -832,12 +832,12 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "http://103.45.162.207:12512",
     "http://154.201.83.50:12512"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -850,7 +850,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "http://xiaocge.fun",
     "http://feimo.fun",
@@ -861,7 +861,7 @@
     "http://fmao.shop",
     "http://xiaocgege.shop"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -874,14 +874,14 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://123.666291.xyz",
     "https://666.666291.xyz",
     "https://www.muou.site",
     "https://www.muou.asia"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -894,14 +894,14 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://woog.nxog.eu.org",
     "https://woog.nxog.fun",
     "https://woog.nxog.eu.org",
     "https://woog.430520.xyz"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -914,13 +914,13 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://tv.yydsys.top",
     "https://tv.yydsys.cc",
     "https://tv.214521.xyz"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -933,13 +933,13 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "siteUrl":[
 "https://shandian.blog",
     "https://sd.sduc.site",
     "https://sduc.cloud/"
 ],
-    "filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+    "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
 },
 {
@@ -954,7 +954,7 @@
     "ext":{
 
     "siteUrl":"https://1.star2.cn",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -967,7 +967,7 @@
     "changeable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -982,7 +982,7 @@
     "ext":{
 
     "siteUrl":"https://www.91panta.cn/",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 
@@ -997,8 +997,8 @@
     "switchable":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "share":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "share":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/网盘集合.json"
 }
 },
 {
@@ -1016,8 +1016,8 @@
 },
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
 }
 },
 {
@@ -1076,7 +1076,7 @@
 
     "count":4,
     "channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 {
@@ -1089,7 +1089,7 @@
     "quickSearch":0,
     "ext":{
 
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
 
@@ -1098,8 +1098,8 @@
     "key":"虎牙",
     "name":"🐯虎牙直播",
     "type":3,
-    "api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-    "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+    "api":"https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+    "ext":"https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
     "style":{
 
     "type":"rect",
@@ -1116,8 +1116,8 @@
     "key":"斗鱼",
     "name":"🐟斗鱼直播",
     "type":3,
-    "api":"https://git.yylx.win/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
-    "ext":"https://git.yylx.win/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js",
+    "api":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+    "ext":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js",
     "style":{
 
     "type":"rect",
@@ -1144,8 +1144,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1165,8 +1165,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1186,8 +1186,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1207,8 +1207,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1229,8 +1229,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1250,8 +1250,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 },
@@ -1271,8 +1271,8 @@
 },
     "ext":{
 
-    "json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
-    "commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+    "json":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
+    "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
     "cookie":""
 }
 }
@@ -1375,7 +1375,7 @@
 
     "name":"Yoursmile",
     "type":0,
-    "url":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+    "url":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
     "playerType":1,
     "ua":"okhttp/3.15",
     "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={
@@ -1388,7 +1388,7 @@ name
 }.png"
 }
 ],
-   "logo":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
+   "logo":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
    "proxy":[
 "raw.githubusercontent.com",
     "googlevideo.com",
