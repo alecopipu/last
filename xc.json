@@ -24,14 +24,6 @@
 },
 {
 
-    "key":"弹幕",
-    "name":"🅿弹幕┃刷新自动启动",
-    "type":3,
-    "api":"csp_GoConfigAmnsr",
-    "jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-},
-{
-
     "key":"ConfigCenter",
     "name":"🅿网盘配置中心",
     "type":3,
