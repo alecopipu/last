@@ -38,7 +38,7 @@
 {
             "key": "Youtube",
             "name": "Youtube",
-	        "jar":"https://tvbox.catvod.com/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+	        "jar":"https://tvbox.catvod.com/custom_spider.jar",
             "type": 3,
             "api": "csp_Youtube",
             "searchable": 1,
