@@ -36,6 +36,22 @@
 }
 },
 {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "commonConfig": "https://tvbox.catvod.com/json/peizhi.json",
+                "json": "https://tvbox.catvod.com/json/youtube.json"
+            }
+        },
+{
 
     "key":"苹果",
     "name":"🍎苹果4K✨免扫码✅",
