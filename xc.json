@@ -6,27 +6,6 @@
 	"sites":[
 
 {
-    "key": "csp_DamiApp",
-    "name": "🍚大米影視(App)",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://11.457457.co/api.php/v1.vod",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "csp_DamiPlanet",
-    "name": "🍚大米星球(網站)",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-
-{
 
     "key":"Tg豆瓣",
     "name":"🔍Tg豆瓣┃本接口免费-🈲贩卖",
@@ -56,7 +35,7 @@
     "commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
 }
 },
-{
+        {
             "key": "Youtube",
             "name": "Youtube",
             "type": 3,
@@ -67,9 +46,11 @@
                 "type": "rect",
                 "ratio": 1.433
             },
+            "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+            "zip": "https://raw.yzuu.cf/fish2018/ZX/main/真心20260425-1增量包.zip",
             "ext": {
-                "commonConfig": "https://tvbox.catvod.com/json/peizhi.json",
-                "json": "https://tvbox.catvod.com/json/youtube.json"
+                "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json",
+                "json": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/youtube.json"
             }
         },
 {
@@ -806,7 +787,10 @@
     "https://2xiaopan.top",
     "https://www.erxiaozhan.top",
     "https://www.2xiaozhan.top",
-    "https://wexwp.cc"
+    "https://wexwp.cc",
+    "https://woog.nxog.eu.org",
+    "https://woog.nxog.fun",
+    "https://ogkk.nxog.de5.net"
 ],
     "filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
 }
@@ -1407,37 +1391,38 @@
     "url":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
     "playerType":1,
     "ua":"okhttp/3.15",
-    "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={
-name
-}&date={
-date
-}",
-    "logo":"https://epg.112114.xyz/logo/{
-name
-}.png"
+    "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
 }
 ],
    "logo":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/NanFeng.gif",
-   "proxy":[
-"raw.githubusercontent.com",
-    "googlevideo.com",
-    "cdn.v82u1l.com",
-    "cdn.iz8qkg.com",
-    "cdn.kin6c1.com",
-    "c.biggggg.com",
-    "c.olddddd.com",
-    "haiwaikan.com",
-    "www.histar.tv",
-    "youtube.com",
-    "uhibo.com",
-    ".*boku.*",
-    ".*nivod.*",
-    ".*ulivetv.*",
-    "188766.xyz",
-    "4gtv.tv",
-    "iill.top"
-],
-   "rules":[
+    "proxy": [
+        "raw.githubusercontent.com"
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "stream-link.org",
+                "hinet.net",
+                "koyeb.app",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                "*.t4tv.hz.cz",
+                ".*ulivetv.*"
+            ]
+        },
 {
 
     "name":"火山嗅探",
@@ -1485,9 +1470,7 @@ name
 "yeslivetv.com"
 ],
     "script":[
-"document.getElementsByClassName('vjs-big-play-button')[
-0
-].click()"
+"document.getElementsByClassName('vjs-big-play-button')[0].click()"
 ]
 },
 {
@@ -1536,9 +1519,7 @@ name
 "www.maolvys.com"
 ],
     "script":[
-"document.getElementsByClassName('swal-buttonswal-button--confirm')[
-0
-].click()"
+"document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
 ]
 }
 ],
