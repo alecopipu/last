@@ -1,6 +1,6 @@
 {
 
-	"spider": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	"spider": "https://tvbox.catvod.com/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
@@ -38,7 +38,6 @@
 {
             "key": "Youtube",
             "name": "Youtube",
-            "jar":"https://tvbox.catvod.com/custom_spider.jar",
             "type": 3,
             "api": "csp_Youtube",
             "searchable": 1,
