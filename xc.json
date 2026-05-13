@@ -6,6 +6,17 @@
 	"sites":[
 
 {
+    "key": "dmxq",
+    "name": "🍚大米星球",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+    "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1
+},
+
+{
 
     "key":"Tg豆瓣",
     "name":"🔍Tg豆瓣┃本接口免费-🈲贩卖",
