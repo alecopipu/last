@@ -47,7 +47,6 @@
                 "ratio": 1.433
             },
             "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
-            "zip": "https://raw.yzuu.cf/fish2018/ZX/main/真心20260425-1增量包.zip",
             "ext": {
                 "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json",
                 "json": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/youtube.json"
