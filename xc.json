@@ -8,10 +8,10 @@
 {
 
     "key":"Tg豆瓣",
-    "name":"🔍Tg豆瓣┃本接口免费-🈲贩卖",
+    "name":"豆瓣｜首页",
     "type":3,
     "api":"csp_TgYunDouBanPan",
-    "searchable":1,
+    "searchable":0,
     "changeable":0,
     "ext":{
 
