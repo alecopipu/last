@@ -12,6 +12,7 @@
     "type":3,
     "api":"csp_TgYunDouBanPan",
     "searchable":0,
+	"indexs": 1,
     "changeable":0,
     "ext":{
 
