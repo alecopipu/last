@@ -63,6 +63,13 @@
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
         {
+            "key": "大米星球",
+            "name": "大米｜APP",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/大米星球.js"
+        },
+        {
             "key": "热播影视",
             "name": "热播｜APP",
             "type": 3,
