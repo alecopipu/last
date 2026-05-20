@@ -63,11 +63,14 @@
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
         {
-            "key": "大米星球",
+            "key": "大米星球App",
             "name": "大米｜APP",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/大米星球.js"
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.dm155.top/api.php/app/"
         },
         {
             "key": "热播影视",
