@@ -1,7 +1,7 @@
-// YouTube 本地 drpy2 規則 — 取代失效的 csp_Youtube
-// 清單/搜尋走 WEB InnerTube(videoRenderer)，播放走 IOS HLS(全畫質) + ANDROID itag18 後備
+// YouTube 本地 drpy2 規則 — 修復版（適配 FongMi/TV 影視TV）
+// 清單/搜尋走 WEB InnerTube(videoRenderer)，播放走 IOS HLS(全畫質 1080p/720p) + ANDROID itag18 後備
 var WEB_KEY = 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8';
-var WEB_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+var WEB_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
 var IOS_UA = 'com.google.ios.youtube/21.03.4 (iPhone16,2; U; CPU iOS 18_0 like Mac OS X)';
 var AND_UA = 'com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip';
 
@@ -14,27 +14,29 @@ var rule = {
 	searchable: 1,
 	quickSearch: 0,
 	filterable: 0,
-	class_name: 'HDR&音樂&綜藝&紀錄片&演示片&短劇&劇集&電影&體育&時尚潮流&放鬆&4K&科普知識&科技&解說&神秘&動畫片',
-	class_url: 'HDR&华语音乐&综艺&纪录片&演示片 4K&短劇&电视剧&电影&體育&时尚穿搭&放松音乐&4K&宇宙科普&科技&影视解說&神秘事件&动画片',
+	class_name: '熱門&音樂&綜藝&紀錄片&電影&電視劇&短劇&4K演示&體育&科技&放鬆&動畫片',
+	class_url: '熱門推薦&華語流行音樂&熱門綜藝節目&紀錄片 4K&完整電影&熱門連續劇&熱門短劇&4K 60fps HDR&體育精華&科技數碼評測&放鬆輕音樂&熱門動漫',
 	homeUrl: '/',
 	url: 'fyclass',
 	detailUrl: '',
 	searchUrl: 'youtube',
 	搜索: '*',
+	推荐: '*',
 
 	一级: `js:
 var YT_WEB_KEY = 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8';
-var YT_WEB_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+var YT_WEB_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
 var key = (typeof KEY !== 'undefined' && KEY) ? KEY : (typeof MY_CATE !== 'undefined' ? MY_CATE : '');
 key = ('' + key).trim();
-var pg = (typeof MY_PAGE !== 'undefined' && MY_PAGE) ? MY_PAGE : 1;
+if (!key) key = '熱門推薦';
+var pg = (typeof MY_PAGE !== 'undefined' && MY_PAGE) ? parseInt(MY_PAGE) : 1;
 if (!rule.__tok) rule.__tok = {};
 var token = rule.__tok[key] || '';
 var body;
 if (pg > 1 && token) {
-	body = { context: { client: { clientName: 'WEB', clientVersion: '2.20240620.00.00', hl: 'zh-TW', gl: 'TW' } }, continuation: token };
+	body = { context: { client: { clientName: 'WEB', clientVersion: '2.20240901.00.00', hl: 'zh-TW', gl: 'TW' } }, continuation: token };
 } else {
-	body = { context: { client: { clientName: 'WEB', clientVersion: '2.20240620.00.00', hl: 'zh-TW', gl: 'TW' } }, query: key };
+	body = { context: { client: { clientName: 'WEB', clientVersion: '2.20240901.00.00', hl: 'zh-TW', gl: 'TW' } }, query: key };
 }
 var vods = [];
 var seen = {};
@@ -87,14 +89,14 @@ function ytExtractJson(html, marker) {
 	return '';
 }
 function ytHeaders(extra) {
-	var h = { 'User-Agent': YT_WEB_UA, 'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8', 'Referer': 'https://www.youtube.com/', 'Origin': 'https://www.youtube.com', 'Cookie': 'CONSENT=YES+cb.20210328-17-p0.zh-TW+FX+667' };
+	var h = { 'User-Agent': YT_WEB_UA, 'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8', 'Referer': 'https://www.youtube.com/', 'Origin': 'https://www.youtube.com' };
 	for (var k in extra) h[k] = extra[k];
 	return h;
 }
 function ytApiSearch() {
 	var html = request('https://www.youtube.com/youtubei/v1/search?key=' + YT_WEB_KEY + '&prettyPrint=false', {
 		method: 'POST', body: JSON.stringify(body),
-		headers: ytHeaders({ 'Content-Type': 'application/json', 'X-Youtube-Client-Name': '1', 'X-Youtube-Client-Version': '2.20240620.00.00' })
+		headers: ytHeaders({ 'Content-Type': 'application/json', 'X-Youtube-Client-Name': '1', 'X-Youtube-Client-Version': '2.20240901.00.00' })
 	});
 	var text = (html || '').trim();
 	if (!text || (text.charAt(0) !== '{' && text.charAt(0) !== '[')) throw new Error('api non-json len=' + text.length);
@@ -128,8 +130,8 @@ function ytVideoId(raw) {
 	if (s.indexOf('$') !== -1) s = s.split('$').pop();
 	var m = s.match(/[?&]v=([A-Za-z0-9_-]{11})/);
 	if (m) return m[1];
-	m = s.match(/youtu\.be\/([A-Za-z0-9_-]{11})/);
-	if (m) return m[1];
+	var idx = s.indexOf('youtu.be/');
+	if (idx !== -1) return s.substring(idx + 9, idx + 20);
 	m = s.match(/^([A-Za-z0-9_-]{11})$/);
 	return m ? m[1] : s;
 }
@@ -145,19 +147,31 @@ function ytPlayer(client, ver, ua) {
 	} catch (e) { try { log('youtube lazy ' + client + ' error: ' + e.message); } catch (ee) {} return null; }
 }
 var url = '';
-var ua = YT_AND_UA;
-var and = ytPlayer('ANDROID', '21.03.36', YT_AND_UA);
-if (and && and.streamingData) {
-	var sd = and.streamingData;
-	var fmts = (sd.formats || []).filter(function (f) { return f.url && f.mimeType && f.mimeType.indexOf('video/') === 0; });
-	fmts.sort(function (a, b) { return (b.height || 0) - (a.height || 0); });
-	if (fmts.length) url = fmts[0].url;
+var ua = YT_IOS_UA;
+// 1. 優先嘗試 IOS HLS（全畫質 1080p/720p 自適應串流，ExoPlayer 最相容）
+var ios = ytPlayer('IOS', '21.03.4', YT_IOS_UA);
+if (ios && ios.streamingData && ios.streamingData.hlsManifestUrl) {
+	url = ios.streamingData.hlsManifestUrl;
+	ua = YT_IOS_UA;
 }
+// 2. 後備嘗試 ANDROID itag 18
 if (!url) {
-	var ios = ytPlayer('IOS', '21.03.4', YT_IOS_UA);
-	if (ios && ios.streamingData && ios.streamingData.hlsManifestUrl) { url = ios.streamingData.hlsManifestUrl; ua = YT_IOS_UA; }
+	var and = ytPlayer('ANDROID', '21.03.36', YT_AND_UA);
+	if (and && and.streamingData) {
+		var sd = and.streamingData;
+		var fmts = (sd.formats || []).filter(function (f) { return f.url && f.mimeType && f.mimeType.indexOf('video/') === 0; });
+		fmts.sort(function (a, b) { return (b.height || 0) - (a.height || 0); });
+		if (fmts.length) {
+			url = fmts[0].url;
+			ua = YT_AND_UA;
+		}
+	}
 }
-if (url) { input = { parse: 0, jx: 0, url: url, header: { 'User-Agent': ua, 'Referer': 'https://www.youtube.com/' } }; } else { input = ''; }`,
+if (url) {
+	input = { parse: 0, jx: 0, url: url, header: { 'User-Agent': ua, 'Referer': 'https://www.youtube.com/' } };
+} else {
+	input = '';
+}`,
 };
 
 function init(ext) {}
