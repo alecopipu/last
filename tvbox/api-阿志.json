@@ -3,10 +3,10 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
-    "sites": [
+    "sites":[
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "豆瓣 • 首页",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -14,7 +14,7 @@
         },
         {
             "key": "配置中心",
-            "name": "配置｜中心",
+            "name": "配置 • 中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -22,18 +22,18 @@
             "indexs": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
             "key": "本地",
-            "name": "本地｜视频",
+            "name": "本地 • 视频",
             "type": 3,
             "api": "csp_LocalFile"
         },
         {
             "key": "预告",
-            "name": "新片｜预告",
+            "name": "新片 • 预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
@@ -80,17 +80,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.dm155.top/api.php/app/"
-        },
-        {
-            "key": "红果短剧",
-            "name": "🍅红果｜脑残短剧看不停",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/8344/py/红果短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
         },
         {
             "key": "热播影视",
