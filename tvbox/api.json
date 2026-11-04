@@ -42,15 +42,14 @@
             "key": "Youtube",
             "name": "Youtube",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./js/youtube.js",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.433
-            },
-            "ext": "./js/youtube.js"
+            }
         },
         {
             "key": "橘皮",
